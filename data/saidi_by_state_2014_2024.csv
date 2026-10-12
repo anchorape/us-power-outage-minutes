@@ -1,0 +1,3398 @@
+area,area_type,year,series,saidi_minutes
+Alabama,state,2014,any_method_all_events,206.1
+Alabama,state,2015,any_method_all_events,212.3
+Alabama,state,2016,any_method_all_events,174.8
+Alabama,state,2017,any_method_all_events,314.5
+Alabama,state,2018,any_method_all_events,308.0
+Alabama,state,2019,any_method_all_events,174.1
+Alabama,state,2020,any_method_all_events,1743.5
+Alabama,state,2021,any_method_all_events,234.9
+Alabama,state,2022,any_method_all_events,210.1
+Alabama,state,2023,any_method_all_events,294.2
+Alabama,state,2024,any_method_all_events,279.4
+Alabama,state,2014,any_method_without_major_events,125.4
+Alabama,state,2015,any_method_without_major_events,124.9
+Alabama,state,2016,any_method_without_major_events,115.8
+Alabama,state,2017,any_method_without_major_events,115.9
+Alabama,state,2018,any_method_without_major_events,120.6
+Alabama,state,2019,any_method_without_major_events,120.2
+Alabama,state,2020,any_method_without_major_events,127.3
+Alabama,state,2021,any_method_without_major_events,119.1
+Alabama,state,2022,any_method_without_major_events,138.8
+Alabama,state,2023,any_method_without_major_events,120.2
+Alabama,state,2024,any_method_without_major_events,117.8
+Alabama,state,2014,ieee_all_events,282.9
+Alabama,state,2015,ieee_all_events,274.7
+Alabama,state,2016,ieee_all_events,174.2
+Alabama,state,2017,ieee_all_events,242.4
+Alabama,state,2018,ieee_all_events,457.8
+Alabama,state,2019,ieee_all_events,183.7
+Alabama,state,2020,ieee_all_events,3320.4
+Alabama,state,2021,ieee_all_events,175.7
+Alabama,state,2022,ieee_all_events,231.3
+Alabama,state,2023,ieee_all_events,400.2
+Alabama,state,2024,ieee_all_events,197.7
+Alabama,state,2014,ieee_loss_of_supply_removed,289.6
+Alabama,state,2015,ieee_loss_of_supply_removed,224.2
+Alabama,state,2016,ieee_loss_of_supply_removed,161.0
+Alabama,state,2017,ieee_loss_of_supply_removed,199.5
+Alabama,state,2018,ieee_loss_of_supply_removed,195.4
+Alabama,state,2019,ieee_loss_of_supply_removed,158.4
+Alabama,state,2020,ieee_loss_of_supply_removed,3440.8
+Alabama,state,2021,ieee_loss_of_supply_removed,215.8
+Alabama,state,2022,ieee_loss_of_supply_removed,230.1
+Alabama,state,2023,ieee_loss_of_supply_removed,380.2
+Alabama,state,2024,ieee_loss_of_supply_removed,189.6
+Alabama,state,2014,ieee_without_major_events,154.9
+Alabama,state,2015,ieee_without_major_events,167.9
+Alabama,state,2016,ieee_without_major_events,140.1
+Alabama,state,2017,ieee_without_major_events,130.8
+Alabama,state,2018,ieee_without_major_events,136.8
+Alabama,state,2019,ieee_without_major_events,106.8
+Alabama,state,2020,ieee_without_major_events,144.6
+Alabama,state,2021,ieee_without_major_events,110.9
+Alabama,state,2022,ieee_without_major_events,198.4
+Alabama,state,2023,ieee_without_major_events,189.5
+Alabama,state,2024,ieee_without_major_events,120.8
+Alaska,state,2014,any_method_all_events,313.8
+Alaska,state,2015,any_method_all_events,605.4
+Alaska,state,2016,any_method_all_events,192.5
+Alaska,state,2017,any_method_all_events,152.7
+Alaska,state,2018,any_method_all_events,335.3
+Alaska,state,2019,any_method_all_events,280.1
+Alaska,state,2020,any_method_all_events,268.0
+Alaska,state,2021,any_method_all_events,379.1
+Alaska,state,2022,any_method_all_events,575.2
+Alaska,state,2023,any_method_all_events,374.8
+Alaska,state,2024,any_method_all_events,327.1
+Alaska,state,2014,any_method_without_major_events,161.5
+Alaska,state,2015,any_method_without_major_events,155.1
+Alaska,state,2016,any_method_without_major_events,176.9
+Alaska,state,2017,any_method_without_major_events,136.9
+Alaska,state,2018,any_method_without_major_events,193.1
+Alaska,state,2019,any_method_without_major_events,184.1
+Alaska,state,2020,any_method_without_major_events,245.5
+Alaska,state,2021,any_method_without_major_events,230.6
+Alaska,state,2022,any_method_without_major_events,334.9
+Alaska,state,2023,any_method_without_major_events,325.7
+Alaska,state,2024,any_method_without_major_events,192.4
+Alaska,state,2014,ieee_all_events,312.0
+Alaska,state,2015,ieee_all_events,657.8
+Alaska,state,2016,ieee_all_events,196.6
+Alaska,state,2017,ieee_all_events,149.2
+Alaska,state,2018,ieee_all_events,339.3
+Alaska,state,2019,ieee_all_events,279.0
+Alaska,state,2020,ieee_all_events,256.9
+Alaska,state,2021,ieee_all_events,537.3
+Alaska,state,2022,ieee_all_events,891.3
+Alaska,state,2023,ieee_all_events,499.4
+Alaska,state,2024,ieee_all_events,323.2
+Alaska,state,2014,ieee_loss_of_supply_removed,264.9
+Alaska,state,2015,ieee_loss_of_supply_removed,782.3
+Alaska,state,2016,ieee_loss_of_supply_removed,272.5
+Alaska,state,2017,ieee_loss_of_supply_removed,159.6
+Alaska,state,2018,ieee_loss_of_supply_removed,359.2
+Alaska,state,2019,ieee_loss_of_supply_removed,317.1
+Alaska,state,2020,ieee_loss_of_supply_removed,251.4
+Alaska,state,2021,ieee_loss_of_supply_removed,501.7
+Alaska,state,2022,ieee_loss_of_supply_removed,820.6
+Alaska,state,2023,ieee_loss_of_supply_removed,472.5
+Alaska,state,2024,ieee_loss_of_supply_removed,371.0
+Alaska,state,2014,ieee_without_major_events,161.5
+Alaska,state,2015,ieee_without_major_events,155.1
+Alaska,state,2016,ieee_without_major_events,176.9
+Alaska,state,2017,ieee_without_major_events,136.9
+Alaska,state,2018,ieee_without_major_events,193.1
+Alaska,state,2019,ieee_without_major_events,184.1
+Alaska,state,2020,ieee_without_major_events,245.5
+Alaska,state,2021,ieee_without_major_events,230.6
+Alaska,state,2022,ieee_without_major_events,334.9
+Alaska,state,2023,ieee_without_major_events,325.7
+Alaska,state,2024,ieee_without_major_events,192.4
+Arizona,state,2014,any_method_all_events,87.2
+Arizona,state,2015,any_method_all_events,90.9
+Arizona,state,2016,any_method_all_events,86.3
+Arizona,state,2017,any_method_all_events,90.7
+Arizona,state,2018,any_method_all_events,114.6
+Arizona,state,2019,any_method_all_events,85.8
+Arizona,state,2020,any_method_all_events,71.9
+Arizona,state,2021,any_method_all_events,106.2
+Arizona,state,2022,any_method_all_events,139.7
+Arizona,state,2023,any_method_all_events,106.8
+Arizona,state,2024,any_method_all_events,87.5
+Arizona,state,2014,any_method_without_major_events,59.7
+Arizona,state,2015,any_method_without_major_events,66.0
+Arizona,state,2016,any_method_without_major_events,67.5
+Arizona,state,2017,any_method_without_major_events,51.4
+Arizona,state,2018,any_method_without_major_events,61.1
+Arizona,state,2019,any_method_without_major_events,67.2
+Arizona,state,2020,any_method_without_major_events,63.6
+Arizona,state,2021,any_method_without_major_events,71.7
+Arizona,state,2022,any_method_without_major_events,72.3
+Arizona,state,2023,any_method_without_major_events,69.3
+Arizona,state,2024,any_method_without_major_events,72.0
+Arizona,state,2014,ieee_all_events,86.9
+Arizona,state,2015,ieee_all_events,89.6
+Arizona,state,2016,ieee_all_events,86.9
+Arizona,state,2017,ieee_all_events,89.5
+Arizona,state,2018,ieee_all_events,111.6
+Arizona,state,2019,ieee_all_events,83.3
+Arizona,state,2020,ieee_all_events,70.6
+Arizona,state,2021,ieee_all_events,101.9
+Arizona,state,2022,ieee_all_events,136.9
+Arizona,state,2023,ieee_all_events,103.8
+Arizona,state,2024,ieee_all_events,83.6
+Arizona,state,2014,ieee_loss_of_supply_removed,83.4
+Arizona,state,2015,ieee_loss_of_supply_removed,87.4
+Arizona,state,2016,ieee_loss_of_supply_removed,85.9
+Arizona,state,2017,ieee_loss_of_supply_removed,82.9
+Arizona,state,2018,ieee_loss_of_supply_removed,94.3
+Arizona,state,2019,ieee_loss_of_supply_removed,71.6
+Arizona,state,2020,ieee_loss_of_supply_removed,65.0
+Arizona,state,2021,ieee_loss_of_supply_removed,91.0
+Arizona,state,2022,ieee_loss_of_supply_removed,103.7
+Arizona,state,2023,ieee_loss_of_supply_removed,88.7
+Arizona,state,2024,ieee_loss_of_supply_removed,75.8
+Arizona,state,2014,ieee_without_major_events,59.8
+Arizona,state,2015,ieee_without_major_events,66.0
+Arizona,state,2016,ieee_without_major_events,67.9
+Arizona,state,2017,ieee_without_major_events,50.8
+Arizona,state,2018,ieee_without_major_events,57.6
+Arizona,state,2019,ieee_without_major_events,64.0
+Arizona,state,2020,ieee_without_major_events,62.0
+Arizona,state,2021,ieee_without_major_events,69.3
+Arizona,state,2022,ieee_without_major_events,69.1
+Arizona,state,2023,ieee_without_major_events,66.9
+Arizona,state,2024,ieee_without_major_events,69.8
+Arkansas,state,2014,any_method_all_events,235.1
+Arkansas,state,2015,any_method_all_events,306.7
+Arkansas,state,2016,any_method_all_events,397.3
+Arkansas,state,2017,any_method_all_events,395.4
+Arkansas,state,2018,any_method_all_events,322.9
+Arkansas,state,2019,any_method_all_events,437.7
+Arkansas,state,2020,any_method_all_events,708.4
+Arkansas,state,2021,any_method_all_events,315.9
+Arkansas,state,2022,any_method_all_events,415.5
+Arkansas,state,2023,any_method_all_events,911.2
+Arkansas,state,2024,any_method_all_events,509.1
+Arkansas,state,2014,any_method_without_major_events,212.2
+Arkansas,state,2015,any_method_without_major_events,216.8
+Arkansas,state,2016,any_method_without_major_events,208.3
+Arkansas,state,2017,any_method_without_major_events,178.3
+Arkansas,state,2018,any_method_without_major_events,210.0
+Arkansas,state,2019,any_method_without_major_events,221.9
+Arkansas,state,2020,any_method_without_major_events,204.7
+Arkansas,state,2021,any_method_without_major_events,195.9
+Arkansas,state,2022,any_method_without_major_events,274.7
+Arkansas,state,2023,any_method_without_major_events,221.7
+Arkansas,state,2024,any_method_without_major_events,194.6
+Arkansas,state,2014,ieee_all_events,238.5
+Arkansas,state,2015,ieee_all_events,326.2
+Arkansas,state,2016,ieee_all_events,400.5
+Arkansas,state,2017,ieee_all_events,405.6
+Arkansas,state,2018,ieee_all_events,330.9
+Arkansas,state,2019,ieee_all_events,451.2
+Arkansas,state,2020,ieee_all_events,771.6
+Arkansas,state,2021,ieee_all_events,308.4
+Arkansas,state,2022,ieee_all_events,437.5
+Arkansas,state,2023,ieee_all_events,915.3
+Arkansas,state,2024,ieee_all_events,527.8
+Arkansas,state,2014,ieee_loss_of_supply_removed,593.9
+Arkansas,state,2015,ieee_loss_of_supply_removed,324.8
+Arkansas,state,2016,ieee_loss_of_supply_removed,404.8
+Arkansas,state,2017,ieee_loss_of_supply_removed,383.0
+Arkansas,state,2018,ieee_loss_of_supply_removed,325.8
+Arkansas,state,2019,ieee_loss_of_supply_removed,376.1
+Arkansas,state,2020,ieee_loss_of_supply_removed,727.9
+Arkansas,state,2021,ieee_loss_of_supply_removed,286.2
+Arkansas,state,2022,ieee_loss_of_supply_removed,427.2
+Arkansas,state,2023,ieee_loss_of_supply_removed,879.0
+Arkansas,state,2024,ieee_loss_of_supply_removed,377.8
+Arkansas,state,2014,ieee_without_major_events,216.5
+Arkansas,state,2015,ieee_without_major_events,222.6
+Arkansas,state,2016,ieee_without_major_events,213.7
+Arkansas,state,2017,ieee_without_major_events,176.0
+Arkansas,state,2018,ieee_without_major_events,214.1
+Arkansas,state,2019,ieee_without_major_events,228.0
+Arkansas,state,2020,ieee_without_major_events,210.6
+Arkansas,state,2021,ieee_without_major_events,199.4
+Arkansas,state,2022,ieee_without_major_events,279.6
+Arkansas,state,2023,ieee_without_major_events,230.7
+Arkansas,state,2024,ieee_without_major_events,201.9
+California,state,2014,any_method_all_events,108.8
+California,state,2015,any_method_all_events,118.4
+California,state,2016,any_method_all_events,117.1
+California,state,2017,any_method_all_events,233.4
+California,state,2018,any_method_all_events,195.2
+California,state,2019,any_method_all_events,587.6
+California,state,2020,any_method_all_events,267.1
+California,state,2021,any_method_all_events,325.2
+California,state,2022,any_method_all_events,198.5
+California,state,2023,any_method_all_events,346.6
+California,state,2024,any_method_all_events,279.6
+California,state,2014,any_method_without_major_events,99.8
+California,state,2015,any_method_without_major_events,91.9
+California,state,2016,any_method_without_major_events,98.7
+California,state,2017,any_method_without_major_events,100.9
+California,state,2018,any_method_without_major_events,96.0
+California,state,2019,any_method_without_major_events,103.9
+California,state,2020,any_method_without_major_events,104.0
+California,state,2021,any_method_without_major_events,142.7
+California,state,2022,any_method_without_major_events,150.5
+California,state,2023,any_method_without_major_events,152.0
+California,state,2024,any_method_without_major_events,158.2
+California,state,2014,ieee_all_events,113.0
+California,state,2015,ieee_all_events,120.4
+California,state,2016,ieee_all_events,119.9
+California,state,2017,ieee_all_events,243.2
+California,state,2018,ieee_all_events,199.4
+California,state,2019,ieee_all_events,610.7
+California,state,2020,ieee_all_events,280.7
+California,state,2021,ieee_all_events,335.2
+California,state,2022,ieee_all_events,202.4
+California,state,2023,ieee_all_events,352.5
+California,state,2024,ieee_all_events,285.0
+California,state,2014,ieee_loss_of_supply_removed,116.8
+California,state,2015,ieee_loss_of_supply_removed,123.9
+California,state,2016,ieee_loss_of_supply_removed,119.7
+California,state,2017,ieee_loss_of_supply_removed,190.2
+California,state,2018,ieee_loss_of_supply_removed,150.0
+California,state,2019,ieee_loss_of_supply_removed,615.7
+California,state,2020,ieee_loss_of_supply_removed,266.0
+California,state,2021,ieee_loss_of_supply_removed,266.0
+California,state,2022,ieee_loss_of_supply_removed,195.3
+California,state,2023,ieee_loss_of_supply_removed,351.5
+California,state,2024,ieee_loss_of_supply_removed,306.3
+California,state,2014,ieee_without_major_events,103.3
+California,state,2015,ieee_without_major_events,93.2
+California,state,2016,ieee_without_major_events,100.8
+California,state,2017,ieee_without_major_events,104.0
+California,state,2018,ieee_without_major_events,99.5
+California,state,2019,ieee_without_major_events,106.7
+California,state,2020,ieee_without_major_events,107.6
+California,state,2021,ieee_without_major_events,148.0
+California,state,2022,ieee_without_major_events,156.5
+California,state,2023,ieee_without_major_events,157.1
+California,state,2024,ieee_without_major_events,164.4
+Colorado,state,2014,any_method_all_events,84.0
+Colorado,state,2015,any_method_all_events,110.1
+Colorado,state,2016,any_method_all_events,165.5
+Colorado,state,2017,any_method_all_events,228.5
+Colorado,state,2018,any_method_all_events,113.3
+Colorado,state,2019,any_method_all_events,180.5
+Colorado,state,2020,any_method_all_events,134.2
+Colorado,state,2021,any_method_all_events,180.9
+Colorado,state,2022,any_method_all_events,141.5
+Colorado,state,2023,any_method_all_events,99.2
+Colorado,state,2024,any_method_all_events,255.1
+Colorado,state,2014,any_method_without_major_events,79.0
+Colorado,state,2015,any_method_without_major_events,83.4
+Colorado,state,2016,any_method_without_major_events,82.5
+Colorado,state,2017,any_method_without_major_events,78.6
+Colorado,state,2018,any_method_without_major_events,85.5
+Colorado,state,2019,any_method_without_major_events,83.6
+Colorado,state,2020,any_method_without_major_events,82.6
+Colorado,state,2021,any_method_without_major_events,102.6
+Colorado,state,2022,any_method_without_major_events,96.2
+Colorado,state,2023,any_method_without_major_events,88.4
+Colorado,state,2024,any_method_without_major_events,119.0
+Colorado,state,2014,ieee_all_events,86.7
+Colorado,state,2015,ieee_all_events,107.9
+Colorado,state,2016,ieee_all_events,154.5
+Colorado,state,2017,ieee_all_events,132.7
+Colorado,state,2018,ieee_all_events,99.9
+Colorado,state,2019,ieee_all_events,184.5
+Colorado,state,2020,ieee_all_events,136.4
+Colorado,state,2021,ieee_all_events,185.4
+Colorado,state,2022,ieee_all_events,143.7
+Colorado,state,2023,ieee_all_events,100.2
+Colorado,state,2024,ieee_all_events,257.0
+Colorado,state,2014,ieee_loss_of_supply_removed,80.9
+Colorado,state,2015,ieee_loss_of_supply_removed,103.0
+Colorado,state,2016,ieee_loss_of_supply_removed,147.2
+Colorado,state,2017,ieee_loss_of_supply_removed,122.1
+Colorado,state,2018,ieee_loss_of_supply_removed,96.5
+Colorado,state,2019,ieee_loss_of_supply_removed,181.9
+Colorado,state,2020,ieee_loss_of_supply_removed,131.5
+Colorado,state,2021,ieee_loss_of_supply_removed,168.4
+Colorado,state,2022,ieee_loss_of_supply_removed,138.2
+Colorado,state,2023,ieee_loss_of_supply_removed,96.2
+Colorado,state,2024,ieee_loss_of_supply_removed,251.2
+Colorado,state,2014,ieee_without_major_events,81.6
+Colorado,state,2015,ieee_without_major_events,83.9
+Colorado,state,2016,ieee_without_major_events,83.5
+Colorado,state,2017,ieee_without_major_events,80.2
+Colorado,state,2018,ieee_without_major_events,86.5
+Colorado,state,2019,ieee_without_major_events,84.3
+Colorado,state,2020,ieee_without_major_events,83.4
+Colorado,state,2021,ieee_without_major_events,104.8
+Colorado,state,2022,ieee_without_major_events,96.9
+Colorado,state,2023,ieee_without_major_events,89.2
+Colorado,state,2024,ieee_without_major_events,118.9
+Connecticut,state,2014,any_method_all_events,86.3
+Connecticut,state,2015,any_method_all_events,103.3
+Connecticut,state,2016,any_method_all_events,174.0
+Connecticut,state,2017,any_method_all_events,291.3
+Connecticut,state,2018,any_method_all_events,655.5
+Connecticut,state,2019,any_method_all_events,236.4
+Connecticut,state,2020,any_method_all_events,2642.6
+Connecticut,state,2021,any_method_all_events,145.2
+Connecticut,state,2022,any_method_all_events,157.4
+Connecticut,state,2023,any_method_all_events,164.6
+Connecticut,state,2024,any_method_all_events,153.6
+Connecticut,state,2014,any_method_without_major_events,86.3
+Connecticut,state,2015,any_method_without_major_events,70.2
+Connecticut,state,2016,any_method_without_major_events,92.0
+Connecticut,state,2017,any_method_without_major_events,68.2
+Connecticut,state,2018,any_method_without_major_events,75.8
+Connecticut,state,2019,any_method_without_major_events,60.9
+Connecticut,state,2020,any_method_without_major_events,64.6
+Connecticut,state,2021,any_method_without_major_events,68.6
+Connecticut,state,2022,any_method_without_major_events,66.1
+Connecticut,state,2023,any_method_without_major_events,70.3
+Connecticut,state,2024,any_method_without_major_events,73.1
+Connecticut,state,2014,ieee_all_events,93.7
+Connecticut,state,2015,ieee_all_events,112.5
+Connecticut,state,2016,ieee_all_events,201.1
+Connecticut,state,2017,ieee_all_events,348.9
+Connecticut,state,2018,ieee_all_events,761.6
+Connecticut,state,2019,ieee_all_events,246.6
+Connecticut,state,2020,ieee_all_events,3033.8
+Connecticut,state,2021,ieee_all_events,170.9
+Connecticut,state,2022,ieee_all_events,187.4
+Connecticut,state,2023,ieee_all_events,193.4
+Connecticut,state,2024,ieee_all_events,152.8
+Connecticut,state,2014,ieee_loss_of_supply_removed,93.6
+Connecticut,state,2015,ieee_loss_of_supply_removed,111.7
+Connecticut,state,2016,ieee_loss_of_supply_removed,199.6
+Connecticut,state,2017,ieee_loss_of_supply_removed,348.6
+Connecticut,state,2018,ieee_loss_of_supply_removed,759.0
+Connecticut,state,2019,ieee_loss_of_supply_removed,246.6
+Connecticut,state,2020,ieee_loss_of_supply_removed,3032.5
+Connecticut,state,2021,ieee_loss_of_supply_removed,169.7
+Connecticut,state,2022,ieee_loss_of_supply_removed,187.1
+Connecticut,state,2023,ieee_loss_of_supply_removed,188.2
+Connecticut,state,2024,ieee_loss_of_supply_removed,152.3
+Connecticut,state,2014,ieee_without_major_events,93.7
+Connecticut,state,2015,ieee_without_major_events,78.0
+Connecticut,state,2016,ieee_without_major_events,103.2
+Connecticut,state,2017,ieee_without_major_events,78.1
+Connecticut,state,2018,ieee_without_major_events,80.9
+Connecticut,state,2019,ieee_without_major_events,67.5
+Connecticut,state,2020,ieee_without_major_events,70.2
+Connecticut,state,2021,ieee_without_major_events,76.7
+Connecticut,state,2022,ieee_without_major_events,73.7
+Connecticut,state,2023,ieee_without_major_events,77.7
+Connecticut,state,2024,ieee_without_major_events,73.6
+Delaware,state,2014,any_method_all_events,169.1
+Delaware,state,2015,any_method_all_events,189.9
+Delaware,state,2016,any_method_all_events,149.1
+Delaware,state,2017,any_method_all_events,153.9
+Delaware,state,2018,any_method_all_events,135.9
+Delaware,state,2019,any_method_all_events,101.6
+Delaware,state,2020,any_method_all_events,271.9
+Delaware,state,2021,any_method_all_events,64.3
+Delaware,state,2022,any_method_all_events,79.8
+Delaware,state,2023,any_method_all_events,108.2
+Delaware,state,2024,any_method_all_events,116.1
+Delaware,state,2014,any_method_without_major_events,113.7
+Delaware,state,2015,any_method_without_major_events,114.7
+Delaware,state,2016,any_method_without_major_events,103.2
+Delaware,state,2017,any_method_without_major_events,83.2
+Delaware,state,2018,any_method_without_major_events,74.1
+Delaware,state,2019,any_method_without_major_events,74.0
+Delaware,state,2020,any_method_without_major_events,84.9
+Delaware,state,2021,any_method_without_major_events,64.3
+Delaware,state,2022,any_method_without_major_events,66.4
+Delaware,state,2023,any_method_without_major_events,60.4
+Delaware,state,2024,any_method_without_major_events,65.9
+Delaware,state,2014,ieee_all_events,169.8
+Delaware,state,2015,ieee_all_events,191.4
+Delaware,state,2016,ieee_all_events,148.7
+Delaware,state,2017,ieee_all_events,154.6
+Delaware,state,2018,ieee_all_events,136.2
+Delaware,state,2019,ieee_all_events,102.0
+Delaware,state,2020,ieee_all_events,271.9
+Delaware,state,2021,ieee_all_events,64.3
+Delaware,state,2022,ieee_all_events,79.8
+Delaware,state,2023,ieee_all_events,109.7
+Delaware,state,2024,ieee_all_events,117.9
+Delaware,state,2014,ieee_loss_of_supply_removed,162.7
+Delaware,state,2015,ieee_loss_of_supply_removed,180.0
+Delaware,state,2016,ieee_loss_of_supply_removed,147.3
+Delaware,state,2017,ieee_loss_of_supply_removed,153.1
+Delaware,state,2018,ieee_loss_of_supply_removed,135.3
+Delaware,state,2019,ieee_loss_of_supply_removed,102.0
+Delaware,state,2020,ieee_loss_of_supply_removed,276.1
+Delaware,state,2021,ieee_loss_of_supply_removed,64.8
+Delaware,state,2022,ieee_loss_of_supply_removed,80.8
+Delaware,state,2023,ieee_loss_of_supply_removed,112.1
+Delaware,state,2024,ieee_loss_of_supply_removed,118.9
+Delaware,state,2014,ieee_without_major_events,113.9
+Delaware,state,2015,ieee_without_major_events,115.5
+Delaware,state,2016,ieee_without_major_events,102.3
+Delaware,state,2017,ieee_without_major_events,83.3
+Delaware,state,2018,ieee_without_major_events,73.8
+Delaware,state,2019,ieee_without_major_events,74.2
+Delaware,state,2020,ieee_without_major_events,84.9
+Delaware,state,2021,ieee_without_major_events,64.3
+Delaware,state,2022,ieee_without_major_events,66.4
+Delaware,state,2023,ieee_without_major_events,61.2
+Delaware,state,2024,ieee_without_major_events,66.8
+District of Columbia,state,2014,any_method_all_events,96.0
+District of Columbia,state,2015,any_method_all_events,112.4
+District of Columbia,state,2016,any_method_all_events,115.0
+District of Columbia,state,2017,any_method_all_events,57.5
+District of Columbia,state,2018,any_method_all_events,109.2
+District of Columbia,state,2019,any_method_all_events,77.0
+District of Columbia,state,2020,any_method_all_events,44.0
+District of Columbia,state,2021,any_method_all_events,52.0
+District of Columbia,state,2022,any_method_all_events,33.7
+District of Columbia,state,2023,any_method_all_events,71.9
+District of Columbia,state,2024,any_method_all_events,32.6
+District of Columbia,state,2014,any_method_without_major_events,82.0
+District of Columbia,state,2015,any_method_without_major_events,112.4
+District of Columbia,state,2016,any_method_without_major_events,115.0
+District of Columbia,state,2017,any_method_without_major_events,57.5
+District of Columbia,state,2018,any_method_without_major_events,52.9
+District of Columbia,state,2019,any_method_without_major_events,55.0
+District of Columbia,state,2020,any_method_without_major_events,39.0
+District of Columbia,state,2021,any_method_without_major_events,42.0
+District of Columbia,state,2022,any_method_without_major_events,26.3
+District of Columbia,state,2023,any_method_without_major_events,33.3
+District of Columbia,state,2024,any_method_without_major_events,26.4
+District of Columbia,state,2014,ieee_all_events,96.0
+District of Columbia,state,2015,ieee_all_events,112.4
+District of Columbia,state,2016,ieee_all_events,115.0
+District of Columbia,state,2017,ieee_all_events,57.5
+District of Columbia,state,2018,ieee_all_events,109.2
+District of Columbia,state,2019,ieee_all_events,77.0
+District of Columbia,state,2020,ieee_all_events,44.0
+District of Columbia,state,2021,ieee_all_events,52.0
+District of Columbia,state,2022,ieee_all_events,33.7
+District of Columbia,state,2023,ieee_all_events,71.9
+District of Columbia,state,2024,ieee_all_events,32.6
+District of Columbia,state,2014,ieee_loss_of_supply_removed,96.0
+District of Columbia,state,2015,ieee_loss_of_supply_removed,112.4
+District of Columbia,state,2016,ieee_loss_of_supply_removed,115.0
+District of Columbia,state,2017,ieee_loss_of_supply_removed,57.5
+District of Columbia,state,2018,ieee_loss_of_supply_removed,109.2
+District of Columbia,state,2019,ieee_loss_of_supply_removed,77.0
+District of Columbia,state,2020,ieee_loss_of_supply_removed,44.0
+District of Columbia,state,2021,ieee_loss_of_supply_removed,52.0
+District of Columbia,state,2022,ieee_loss_of_supply_removed,33.7
+District of Columbia,state,2023,ieee_loss_of_supply_removed,71.9
+District of Columbia,state,2024,ieee_loss_of_supply_removed,32.6
+District of Columbia,state,2014,ieee_without_major_events,82.0
+District of Columbia,state,2015,ieee_without_major_events,112.4
+District of Columbia,state,2016,ieee_without_major_events,115.0
+District of Columbia,state,2017,ieee_without_major_events,57.5
+District of Columbia,state,2018,ieee_without_major_events,52.9
+District of Columbia,state,2019,ieee_without_major_events,55.0
+District of Columbia,state,2020,ieee_without_major_events,39.0
+District of Columbia,state,2021,ieee_without_major_events,42.0
+District of Columbia,state,2022,ieee_without_major_events,26.3
+District of Columbia,state,2023,ieee_without_major_events,33.3
+District of Columbia,state,2024,ieee_without_major_events,26.4
+East North Central,census_division,2014,any_method_all_events,278.1
+East North Central,census_division,2015,any_method_all_events,214.2
+East North Central,census_division,2016,any_method_all_events,189.1
+East North Central,census_division,2017,any_method_all_events,323.5
+East North Central,census_division,2018,any_method_all_events,249.5
+East North Central,census_division,2019,any_method_all_events,310.4
+East North Central,census_division,2020,any_method_all_events,301.9
+East North Central,census_division,2021,any_method_all_events,366.2
+East North Central,census_division,2022,any_method_all_events,313.6
+East North Central,census_division,2023,any_method_all_events,472.8
+East North Central,census_division,2024,any_method_all_events,349.2
+East North Central,census_division,2014,any_method_without_major_events,123.8
+East North Central,census_division,2015,any_method_without_major_events,124.1
+East North Central,census_division,2016,any_method_without_major_events,124.3
+East North Central,census_division,2017,any_method_without_major_events,123.0
+East North Central,census_division,2018,any_method_without_major_events,127.4
+East North Central,census_division,2019,any_method_without_major_events,134.8
+East North Central,census_division,2020,any_method_without_major_events,112.8
+East North Central,census_division,2021,any_method_without_major_events,119.7
+East North Central,census_division,2022,any_method_without_major_events,120.2
+East North Central,census_division,2023,any_method_without_major_events,107.1
+East North Central,census_division,2024,any_method_without_major_events,112.8
+East North Central,census_division,2014,ieee_all_events,285.4
+East North Central,census_division,2015,ieee_all_events,219.4
+East North Central,census_division,2016,ieee_all_events,189.9
+East North Central,census_division,2017,ieee_all_events,332.1
+East North Central,census_division,2018,ieee_all_events,254.0
+East North Central,census_division,2019,ieee_all_events,315.3
+East North Central,census_division,2020,ieee_all_events,311.1
+East North Central,census_division,2021,ieee_all_events,377.0
+East North Central,census_division,2022,ieee_all_events,319.7
+East North Central,census_division,2023,ieee_all_events,489.5
+East North Central,census_division,2024,ieee_all_events,357.8
+East North Central,census_division,2014,ieee_loss_of_supply_removed,271.9
+East North Central,census_division,2015,ieee_loss_of_supply_removed,210.1
+East North Central,census_division,2016,ieee_loss_of_supply_removed,178.1
+East North Central,census_division,2017,ieee_loss_of_supply_removed,322.9
+East North Central,census_division,2018,ieee_loss_of_supply_removed,239.8
+East North Central,census_division,2019,ieee_loss_of_supply_removed,301.3
+East North Central,census_division,2020,ieee_loss_of_supply_removed,294.2
+East North Central,census_division,2021,ieee_loss_of_supply_removed,355.2
+East North Central,census_division,2022,ieee_loss_of_supply_removed,288.6
+East North Central,census_division,2023,ieee_loss_of_supply_removed,483.4
+East North Central,census_division,2024,ieee_loss_of_supply_removed,342.5
+East North Central,census_division,2014,ieee_without_major_events,125.7
+East North Central,census_division,2015,ieee_without_major_events,125.5
+East North Central,census_division,2016,ieee_without_major_events,124.4
+East North Central,census_division,2017,ieee_without_major_events,122.5
+East North Central,census_division,2018,ieee_without_major_events,128.1
+East North Central,census_division,2019,ieee_without_major_events,135.4
+East North Central,census_division,2020,ieee_without_major_events,113.8
+East North Central,census_division,2021,ieee_without_major_events,120.8
+East North Central,census_division,2022,ieee_without_major_events,121.4
+East North Central,census_division,2023,ieee_without_major_events,108.8
+East North Central,census_division,2024,ieee_without_major_events,114.3
+East South Central,census_division,2014,any_method_all_events,226.4
+East South Central,census_division,2015,any_method_all_events,239.7
+East South Central,census_division,2016,any_method_all_events,203.1
+East South Central,census_division,2017,any_method_all_events,389.2
+East South Central,census_division,2018,any_method_all_events,290.6
+East South Central,census_division,2019,any_method_all_events,269.5
+East South Central,census_division,2020,any_method_all_events,902.2
+East South Central,census_division,2021,any_method_all_events,513.1
+East South Central,census_division,2022,any_method_all_events,349.2
+East South Central,census_division,2023,any_method_all_events,715.5
+East South Central,census_division,2024,any_method_all_events,415.7
+East South Central,census_division,2014,any_method_without_major_events,137.6
+East South Central,census_division,2015,any_method_without_major_events,140.5
+East South Central,census_division,2016,any_method_without_major_events,142.1
+East South Central,census_division,2017,any_method_without_major_events,140.5
+East South Central,census_division,2018,any_method_without_major_events,147.4
+East South Central,census_division,2019,any_method_without_major_events,156.0
+East South Central,census_division,2020,any_method_without_major_events,146.2
+East South Central,census_division,2021,any_method_without_major_events,147.5
+East South Central,census_division,2022,any_method_without_major_events,175.5
+East South Central,census_division,2023,any_method_without_major_events,168.7
+East South Central,census_division,2024,any_method_without_major_events,162.8
+East South Central,census_division,2014,ieee_all_events,263.9
+East South Central,census_division,2015,ieee_all_events,272.4
+East South Central,census_division,2016,ieee_all_events,216.0
+East South Central,census_division,2017,ieee_all_events,427.7
+East South Central,census_division,2018,ieee_all_events,314.9
+East South Central,census_division,2019,ieee_all_events,269.4
+East South Central,census_division,2020,ieee_all_events,825.2
+East South Central,census_division,2021,ieee_all_events,573.8
+East South Central,census_division,2022,ieee_all_events,392.5
+East South Central,census_division,2023,ieee_all_events,864.3
+East South Central,census_division,2024,ieee_all_events,423.7
+East South Central,census_division,2014,ieee_loss_of_supply_removed,253.6
+East South Central,census_division,2015,ieee_loss_of_supply_removed,255.7
+East South Central,census_division,2016,ieee_loss_of_supply_removed,210.9
+East South Central,census_division,2017,ieee_loss_of_supply_removed,406.0
+East South Central,census_division,2018,ieee_loss_of_supply_removed,299.8
+East South Central,census_division,2019,ieee_loss_of_supply_removed,266.7
+East South Central,census_division,2020,ieee_loss_of_supply_removed,798.5
+East South Central,census_division,2021,ieee_loss_of_supply_removed,582.0
+East South Central,census_division,2022,ieee_loss_of_supply_removed,393.0
+East South Central,census_division,2023,ieee_loss_of_supply_removed,876.2
+East South Central,census_division,2024,ieee_loss_of_supply_removed,423.0
+East South Central,census_division,2014,ieee_without_major_events,152.6
+East South Central,census_division,2015,ieee_without_major_events,154.5
+East South Central,census_division,2016,ieee_without_major_events,147.9
+East South Central,census_division,2017,ieee_without_major_events,144.4
+East South Central,census_division,2018,ieee_without_major_events,156.3
+East South Central,census_division,2019,ieee_without_major_events,160.3
+East South Central,census_division,2020,ieee_without_major_events,147.6
+East South Central,census_division,2021,ieee_without_major_events,152.6
+East South Central,census_division,2022,ieee_without_major_events,187.8
+East South Central,census_division,2023,ieee_without_major_events,186.5
+East South Central,census_division,2024,ieee_without_major_events,176.3
+Florida,state,2014,any_method_all_events,92.1
+Florida,state,2015,any_method_all_events,85.4
+Florida,state,2016,any_method_all_events,352.1
+Florida,state,2017,any_method_all_events,2504.2
+Florida,state,2018,any_method_all_events,325.4
+Florida,state,2019,any_method_all_events,89.0
+Florida,state,2020,any_method_all_events,188.7
+Florida,state,2021,any_method_all_events,80.8
+Florida,state,2022,any_method_all_events,1146.3
+Florida,state,2023,any_method_all_events,160.1
+Florida,state,2024,any_method_all_events,1321.5
+Florida,state,2014,any_method_without_major_events,85.5
+Florida,state,2015,any_method_without_major_events,77.9
+Florida,state,2016,any_method_without_major_events,81.8
+Florida,state,2017,any_method_without_major_events,78.6
+Florida,state,2018,any_method_without_major_events,77.4
+Florida,state,2019,any_method_without_major_events,74.2
+Florida,state,2020,any_method_without_major_events,73.0
+Florida,state,2021,any_method_without_major_events,64.8
+Florida,state,2022,any_method_without_major_events,69.7
+Florida,state,2023,any_method_without_major_events,69.2
+Florida,state,2024,any_method_without_major_events,66.4
+Florida,state,2014,ieee_all_events,89.4
+Florida,state,2015,ieee_all_events,86.1
+Florida,state,2016,ieee_all_events,388.2
+Florida,state,2017,ieee_all_events,2693.2
+Florida,state,2018,ieee_all_events,305.5
+Florida,state,2019,ieee_all_events,88.9
+Florida,state,2020,ieee_all_events,200.4
+Florida,state,2021,ieee_all_events,82.9
+Florida,state,2022,ieee_all_events,1011.3
+Florida,state,2023,ieee_all_events,172.3
+Florida,state,2024,ieee_all_events,1487.6
+Florida,state,2014,ieee_loss_of_supply_removed,122.4
+Florida,state,2015,ieee_loss_of_supply_removed,80.3
+Florida,state,2016,ieee_loss_of_supply_removed,387.0
+Florida,state,2017,ieee_loss_of_supply_removed,2666.6
+Florida,state,2018,ieee_loss_of_supply_removed,302.8
+Florida,state,2019,ieee_loss_of_supply_removed,83.2
+Florida,state,2020,ieee_loss_of_supply_removed,194.9
+Florida,state,2021,ieee_loss_of_supply_removed,77.2
+Florida,state,2022,ieee_loss_of_supply_removed,1012.6
+Florida,state,2023,ieee_loss_of_supply_removed,160.0
+Florida,state,2024,ieee_loss_of_supply_removed,1485.6
+Florida,state,2014,ieee_without_major_events,86.6
+Florida,state,2015,ieee_without_major_events,79.3
+Florida,state,2016,ieee_without_major_events,82.7
+Florida,state,2017,ieee_without_major_events,76.7
+Florida,state,2018,ieee_without_major_events,79.6
+Florida,state,2019,ieee_without_major_events,74.0
+Florida,state,2020,ieee_without_major_events,72.5
+Florida,state,2021,ieee_without_major_events,65.3
+Florida,state,2022,ieee_without_major_events,69.8
+Florida,state,2023,ieee_without_major_events,69.4
+Florida,state,2024,ieee_without_major_events,66.7
+Georgia,state,2014,any_method_all_events,246.3
+Georgia,state,2015,any_method_all_events,243.7
+Georgia,state,2016,any_method_all_events,424.4
+Georgia,state,2017,any_method_all_events,1049.2
+Georgia,state,2018,any_method_all_events,373.2
+Georgia,state,2019,any_method_all_events,152.3
+Georgia,state,2020,any_method_all_events,509.9
+Georgia,state,2021,any_method_all_events,145.8
+Georgia,state,2022,any_method_all_events,264.3
+Georgia,state,2023,any_method_all_events,349.2
+Georgia,state,2024,any_method_all_events,1229.1
+Georgia,state,2014,any_method_without_major_events,99.1
+Georgia,state,2015,any_method_without_major_events,109.1
+Georgia,state,2016,any_method_without_major_events,134.5
+Georgia,state,2017,any_method_without_major_events,122.1
+Georgia,state,2018,any_method_without_major_events,122.5
+Georgia,state,2019,any_method_without_major_events,127.7
+Georgia,state,2020,any_method_without_major_events,133.3
+Georgia,state,2021,any_method_without_major_events,129.4
+Georgia,state,2022,any_method_without_major_events,134.6
+Georgia,state,2023,any_method_without_major_events,136.8
+Georgia,state,2024,any_method_without_major_events,212.3
+Georgia,state,2014,ieee_all_events,252.3
+Georgia,state,2015,ieee_all_events,248.2
+Georgia,state,2016,ieee_all_events,424.0
+Georgia,state,2017,ieee_all_events,1030.8
+Georgia,state,2018,ieee_all_events,230.7
+Georgia,state,2019,ieee_all_events,149.8
+Georgia,state,2020,ieee_all_events,521.7
+Georgia,state,2021,ieee_all_events,140.5
+Georgia,state,2022,ieee_all_events,212.4
+Georgia,state,2023,ieee_all_events,342.7
+Georgia,state,2024,ieee_all_events,1208.1
+Georgia,state,2014,ieee_loss_of_supply_removed,210.7
+Georgia,state,2015,ieee_loss_of_supply_removed,355.1
+Georgia,state,2016,ieee_loss_of_supply_removed,177.8
+Georgia,state,2017,ieee_loss_of_supply_removed,906.4
+Georgia,state,2018,ieee_loss_of_supply_removed,238.9
+Georgia,state,2019,ieee_loss_of_supply_removed,117.2
+Georgia,state,2020,ieee_loss_of_supply_removed,509.8
+Georgia,state,2021,ieee_loss_of_supply_removed,122.9
+Georgia,state,2022,ieee_loss_of_supply_removed,185.2
+Georgia,state,2023,ieee_loss_of_supply_removed,300.3
+Georgia,state,2024,ieee_loss_of_supply_removed,768.0
+Georgia,state,2014,ieee_without_major_events,97.8
+Georgia,state,2015,ieee_without_major_events,108.5
+Georgia,state,2016,ieee_without_major_events,120.6
+Georgia,state,2017,ieee_without_major_events,115.2
+Georgia,state,2018,ieee_without_major_events,118.8
+Georgia,state,2019,ieee_without_major_events,125.8
+Georgia,state,2020,ieee_without_major_events,130.5
+Georgia,state,2021,ieee_without_major_events,123.8
+Georgia,state,2022,ieee_without_major_events,129.3
+Georgia,state,2023,ieee_without_major_events,133.4
+Georgia,state,2024,ieee_without_major_events,211.4
+Hawaii,state,2014,any_method_all_events,262.5
+Hawaii,state,2015,any_method_all_events,266.1
+Hawaii,state,2016,any_method_all_events,128.7
+Hawaii,state,2017,any_method_all_events,252.3
+Hawaii,state,2018,any_method_all_events,191.4
+Hawaii,state,2019,any_method_all_events,195.2
+Hawaii,state,2020,any_method_all_events,118.7
+Hawaii,state,2021,any_method_all_events,229.7
+Hawaii,state,2022,any_method_all_events,187.2
+Hawaii,state,2023,any_method_all_events,491.8
+Hawaii,state,2024,any_method_all_events,320.6
+Hawaii,state,2014,any_method_without_major_events,117.0
+Hawaii,state,2015,any_method_without_major_events,116.7
+Hawaii,state,2016,any_method_without_major_events,103.9
+Hawaii,state,2017,any_method_without_major_events,112.0
+Hawaii,state,2018,any_method_without_major_events,151.9
+Hawaii,state,2019,any_method_without_major_events,113.4
+Hawaii,state,2020,any_method_without_major_events,97.3
+Hawaii,state,2021,any_method_without_major_events,115.7
+Hawaii,state,2022,any_method_without_major_events,105.9
+Hawaii,state,2023,any_method_without_major_events,148.6
+Hawaii,state,2024,any_method_without_major_events,225.6
+Hawaii,state,2015,ieee_all_events,152.0
+Hawaii,state,2016,ieee_all_events,109.3
+Hawaii,state,2017,ieee_all_events,254.3
+Hawaii,state,2018,ieee_all_events,198.0
+Hawaii,state,2019,ieee_all_events,182.1
+Hawaii,state,2020,ieee_all_events,123.8
+Hawaii,state,2023,ieee_all_events,248.8
+Hawaii,state,2024,ieee_all_events,382.6
+Hawaii,state,2016,ieee_loss_of_supply_removed,98.9
+Hawaii,state,2017,ieee_loss_of_supply_removed,252.7
+Hawaii,state,2018,ieee_loss_of_supply_removed,188.7
+Hawaii,state,2019,ieee_loss_of_supply_removed,164.8
+Hawaii,state,2020,ieee_loss_of_supply_removed,118.0
+Hawaii,state,2024,ieee_loss_of_supply_removed,0.0
+Hawaii,state,2015,ieee_without_major_events,99.4
+Hawaii,state,2016,ieee_without_major_events,83.2
+Hawaii,state,2017,ieee_without_major_events,112.0
+Hawaii,state,2018,ieee_without_major_events,151.9
+Hawaii,state,2019,ieee_without_major_events,113.4
+Hawaii,state,2020,ieee_without_major_events,97.3
+Hawaii,state,2024,ieee_without_major_events,219.3
+Idaho,state,2014,any_method_all_events,245.2
+Idaho,state,2015,any_method_all_events,465.3
+Idaho,state,2016,any_method_all_events,197.2
+Idaho,state,2017,any_method_all_events,313.8
+Idaho,state,2018,any_method_all_events,174.1
+Idaho,state,2019,any_method_all_events,166.6
+Idaho,state,2020,any_method_all_events,324.9
+Idaho,state,2021,any_method_all_events,475.2
+Idaho,state,2022,any_method_all_events,180.7
+Idaho,state,2023,any_method_all_events,137.5
+Idaho,state,2024,any_method_all_events,232.8
+Idaho,state,2014,any_method_without_major_events,183.8
+Idaho,state,2015,any_method_without_major_events,266.4
+Idaho,state,2016,any_method_without_major_events,166.0
+Idaho,state,2017,any_method_without_major_events,248.5
+Idaho,state,2018,any_method_without_major_events,144.9
+Idaho,state,2019,any_method_without_major_events,143.9
+Idaho,state,2020,any_method_without_major_events,180.7
+Idaho,state,2021,any_method_without_major_events,162.1
+Idaho,state,2022,any_method_without_major_events,158.3
+Idaho,state,2023,any_method_without_major_events,119.4
+Idaho,state,2024,any_method_without_major_events,174.0
+Idaho,state,2014,ieee_all_events,168.4
+Idaho,state,2015,ieee_all_events,238.1
+Idaho,state,2016,ieee_all_events,183.0
+Idaho,state,2017,ieee_all_events,253.9
+Idaho,state,2018,ieee_all_events,169.9
+Idaho,state,2019,ieee_all_events,155.4
+Idaho,state,2020,ieee_all_events,286.5
+Idaho,state,2021,ieee_all_events,438.0
+Idaho,state,2022,ieee_all_events,167.4
+Idaho,state,2023,ieee_all_events,134.4
+Idaho,state,2024,ieee_all_events,204.4
+Idaho,state,2014,ieee_loss_of_supply_removed,145.9
+Idaho,state,2015,ieee_loss_of_supply_removed,204.2
+Idaho,state,2016,ieee_loss_of_supply_removed,174.0
+Idaho,state,2017,ieee_loss_of_supply_removed,239.0
+Idaho,state,2018,ieee_loss_of_supply_removed,155.7
+Idaho,state,2019,ieee_loss_of_supply_removed,122.9
+Idaho,state,2020,ieee_loss_of_supply_removed,173.6
+Idaho,state,2021,ieee_loss_of_supply_removed,223.8
+Idaho,state,2022,ieee_loss_of_supply_removed,112.7
+Idaho,state,2023,ieee_loss_of_supply_removed,95.9
+Idaho,state,2024,ieee_loss_of_supply_removed,150.5
+Idaho,state,2014,ieee_without_major_events,139.9
+Idaho,state,2015,ieee_without_major_events,193.2
+Idaho,state,2016,ieee_without_major_events,157.6
+Idaho,state,2017,ieee_without_major_events,223.9
+Idaho,state,2018,ieee_without_major_events,140.8
+Idaho,state,2019,ieee_without_major_events,132.3
+Idaho,state,2020,ieee_without_major_events,158.1
+Idaho,state,2021,ieee_without_major_events,137.5
+Idaho,state,2022,ieee_without_major_events,144.5
+Idaho,state,2023,ieee_without_major_events,121.8
+Idaho,state,2024,ieee_without_major_events,152.5
+Illinois,state,2014,any_method_all_events,195.7
+Illinois,state,2015,any_method_all_events,169.3
+Illinois,state,2016,any_method_all_events,134.9
+Illinois,state,2017,any_method_all_events,119.7
+Illinois,state,2018,any_method_all_events,142.9
+Illinois,state,2019,any_method_all_events,116.2
+Illinois,state,2020,any_method_all_events,331.1
+Illinois,state,2021,any_method_all_events,127.0
+Illinois,state,2022,any_method_all_events,90.4
+Illinois,state,2023,any_method_all_events,208.2
+Illinois,state,2024,any_method_all_events,156.9
+Illinois,state,2014,any_method_without_major_events,92.5
+Illinois,state,2015,any_method_without_major_events,88.8
+Illinois,state,2016,any_method_without_major_events,80.8
+Illinois,state,2017,any_method_without_major_events,73.3
+Illinois,state,2018,any_method_without_major_events,72.6
+Illinois,state,2019,any_method_without_major_events,73.9
+Illinois,state,2020,any_method_without_major_events,57.1
+Illinois,state,2021,any_method_without_major_events,63.5
+Illinois,state,2022,any_method_without_major_events,59.0
+Illinois,state,2023,any_method_without_major_events,56.2
+Illinois,state,2024,any_method_without_major_events,59.4
+Illinois,state,2014,ieee_all_events,197.6
+Illinois,state,2015,ieee_all_events,170.9
+Illinois,state,2016,ieee_all_events,136.1
+Illinois,state,2017,ieee_all_events,120.0
+Illinois,state,2018,ieee_all_events,143.8
+Illinois,state,2019,ieee_all_events,116.3
+Illinois,state,2020,ieee_all_events,335.6
+Illinois,state,2021,ieee_all_events,127.3
+Illinois,state,2022,ieee_all_events,90.8
+Illinois,state,2023,ieee_all_events,210.4
+Illinois,state,2024,ieee_all_events,158.0
+Illinois,state,2014,ieee_loss_of_supply_removed,197.3
+Illinois,state,2015,ieee_loss_of_supply_removed,168.1
+Illinois,state,2016,ieee_loss_of_supply_removed,133.0
+Illinois,state,2017,ieee_loss_of_supply_removed,117.1
+Illinois,state,2018,ieee_loss_of_supply_removed,140.5
+Illinois,state,2019,ieee_loss_of_supply_removed,110.3
+Illinois,state,2020,ieee_loss_of_supply_removed,333.9
+Illinois,state,2021,ieee_loss_of_supply_removed,125.6
+Illinois,state,2022,ieee_loss_of_supply_removed,89.2
+Illinois,state,2023,ieee_loss_of_supply_removed,209.9
+Illinois,state,2024,ieee_loss_of_supply_removed,154.7
+Illinois,state,2014,ieee_without_major_events,91.9
+Illinois,state,2015,ieee_without_major_events,88.4
+Illinois,state,2016,ieee_without_major_events,80.7
+Illinois,state,2017,ieee_without_major_events,72.8
+Illinois,state,2018,ieee_without_major_events,72.5
+Illinois,state,2019,ieee_without_major_events,73.8
+Illinois,state,2020,ieee_without_major_events,57.1
+Illinois,state,2021,ieee_without_major_events,63.6
+Illinois,state,2022,ieee_without_major_events,59.1
+Illinois,state,2023,ieee_without_major_events,56.2
+Illinois,state,2024,ieee_without_major_events,59.1
+Indiana,state,2014,any_method_all_events,239.9
+Indiana,state,2015,any_method_all_events,244.0
+Indiana,state,2016,any_method_all_events,252.5
+Indiana,state,2017,any_method_all_events,212.4
+Indiana,state,2018,any_method_all_events,285.9
+Indiana,state,2019,any_method_all_events,260.6
+Indiana,state,2020,any_method_all_events,280.1
+Indiana,state,2021,any_method_all_events,285.8
+Indiana,state,2022,any_method_all_events,279.3
+Indiana,state,2023,any_method_all_events,455.4
+Indiana,state,2024,any_method_all_events,312.4
+Indiana,state,2014,any_method_without_major_events,120.5
+Indiana,state,2015,any_method_without_major_events,120.1
+Indiana,state,2016,any_method_without_major_events,127.4
+Indiana,state,2017,any_method_without_major_events,131.1
+Indiana,state,2018,any_method_without_major_events,142.0
+Indiana,state,2019,any_method_without_major_events,146.2
+Indiana,state,2020,any_method_without_major_events,124.8
+Indiana,state,2021,any_method_without_major_events,133.1
+Indiana,state,2022,any_method_without_major_events,137.4
+Indiana,state,2023,any_method_without_major_events,110.3
+Indiana,state,2024,any_method_without_major_events,121.4
+Indiana,state,2014,ieee_all_events,236.5
+Indiana,state,2015,ieee_all_events,257.4
+Indiana,state,2016,ieee_all_events,254.2
+Indiana,state,2017,ieee_all_events,223.5
+Indiana,state,2018,ieee_all_events,302.4
+Indiana,state,2019,ieee_all_events,266.6
+Indiana,state,2020,ieee_all_events,294.3
+Indiana,state,2021,ieee_all_events,302.7
+Indiana,state,2022,ieee_all_events,276.5
+Indiana,state,2023,ieee_all_events,467.4
+Indiana,state,2024,ieee_all_events,310.0
+Indiana,state,2014,ieee_loss_of_supply_removed,218.7
+Indiana,state,2015,ieee_loss_of_supply_removed,244.0
+Indiana,state,2016,ieee_loss_of_supply_removed,234.4
+Indiana,state,2017,ieee_loss_of_supply_removed,197.5
+Indiana,state,2018,ieee_loss_of_supply_removed,263.0
+Indiana,state,2019,ieee_loss_of_supply_removed,217.4
+Indiana,state,2020,ieee_loss_of_supply_removed,205.1
+Indiana,state,2021,ieee_loss_of_supply_removed,225.2
+Indiana,state,2022,ieee_loss_of_supply_removed,217.6
+Indiana,state,2023,ieee_loss_of_supply_removed,462.1
+Indiana,state,2024,ieee_loss_of_supply_removed,252.3
+Indiana,state,2014,ieee_without_major_events,122.2
+Indiana,state,2015,ieee_without_major_events,119.7
+Indiana,state,2016,ieee_without_major_events,129.4
+Indiana,state,2017,ieee_without_major_events,135.4
+Indiana,state,2018,ieee_without_major_events,146.1
+Indiana,state,2019,ieee_without_major_events,147.5
+Indiana,state,2020,ieee_without_major_events,127.6
+Indiana,state,2021,ieee_without_major_events,137.4
+Indiana,state,2022,ieee_without_major_events,139.9
+Indiana,state,2023,ieee_without_major_events,111.3
+Indiana,state,2024,ieee_without_major_events,123.3
+Iowa,state,2014,any_method_all_events,164.7
+Iowa,state,2015,any_method_all_events,96.8
+Iowa,state,2016,any_method_all_events,117.7
+Iowa,state,2017,any_method_all_events,119.0
+Iowa,state,2018,any_method_all_events,126.8
+Iowa,state,2019,any_method_all_events,122.8
+Iowa,state,2020,any_method_all_events,1758.7
+Iowa,state,2021,any_method_all_events,133.1
+Iowa,state,2022,any_method_all_events,85.8
+Iowa,state,2023,any_method_all_events,104.9
+Iowa,state,2024,any_method_all_events,166.7
+Iowa,state,2014,any_method_without_major_events,93.4
+Iowa,state,2015,any_method_without_major_events,85.5
+Iowa,state,2016,any_method_without_major_events,92.0
+Iowa,state,2017,any_method_without_major_events,95.2
+Iowa,state,2018,any_method_without_major_events,92.6
+Iowa,state,2019,any_method_without_major_events,89.8
+Iowa,state,2020,any_method_without_major_events,87.9
+Iowa,state,2021,any_method_without_major_events,79.5
+Iowa,state,2022,any_method_without_major_events,75.5
+Iowa,state,2023,any_method_without_major_events,70.4
+Iowa,state,2024,any_method_without_major_events,89.8
+Iowa,state,2014,ieee_all_events,151.3
+Iowa,state,2015,ieee_all_events,96.0
+Iowa,state,2016,ieee_all_events,136.5
+Iowa,state,2017,ieee_all_events,128.1
+Iowa,state,2018,ieee_all_events,115.4
+Iowa,state,2019,ieee_all_events,126.0
+Iowa,state,2020,ieee_all_events,1066.5
+Iowa,state,2021,ieee_all_events,137.8
+Iowa,state,2022,ieee_all_events,95.0
+Iowa,state,2023,ieee_all_events,83.9
+Iowa,state,2024,ieee_all_events,200.3
+Iowa,state,2014,ieee_loss_of_supply_removed,136.3
+Iowa,state,2015,ieee_loss_of_supply_removed,85.7
+Iowa,state,2016,ieee_loss_of_supply_removed,122.5
+Iowa,state,2017,ieee_loss_of_supply_removed,109.7
+Iowa,state,2018,ieee_loss_of_supply_removed,102.8
+Iowa,state,2019,ieee_loss_of_supply_removed,111.0
+Iowa,state,2020,ieee_loss_of_supply_removed,1053.0
+Iowa,state,2021,ieee_loss_of_supply_removed,115.7
+Iowa,state,2022,ieee_loss_of_supply_removed,80.1
+Iowa,state,2023,ieee_loss_of_supply_removed,75.5
+Iowa,state,2024,ieee_loss_of_supply_removed,187.0
+Iowa,state,2014,ieee_without_major_events,91.1
+Iowa,state,2015,ieee_without_major_events,88.1
+Iowa,state,2016,ieee_without_major_events,96.0
+Iowa,state,2017,ieee_without_major_events,103.8
+Iowa,state,2018,ieee_without_major_events,92.9
+Iowa,state,2019,ieee_without_major_events,83.7
+Iowa,state,2020,ieee_without_major_events,85.7
+Iowa,state,2021,ieee_without_major_events,80.7
+Iowa,state,2022,ieee_without_major_events,78.2
+Iowa,state,2023,ieee_without_major_events,60.7
+Iowa,state,2024,ieee_without_major_events,84.1
+Kansas,state,2014,any_method_all_events,152.4
+Kansas,state,2015,any_method_all_events,347.3
+Kansas,state,2016,any_method_all_events,167.8
+Kansas,state,2017,any_method_all_events,364.8
+Kansas,state,2018,any_method_all_events,154.8
+Kansas,state,2019,any_method_all_events,240.0
+Kansas,state,2020,any_method_all_events,107.1
+Kansas,state,2021,any_method_all_events,341.5
+Kansas,state,2022,any_method_all_events,178.8
+Kansas,state,2023,any_method_all_events,283.1
+Kansas,state,2024,any_method_all_events,285.6
+Kansas,state,2014,any_method_without_major_events,114.9
+Kansas,state,2015,any_method_without_major_events,130.7
+Kansas,state,2016,any_method_without_major_events,131.9
+Kansas,state,2017,any_method_without_major_events,131.0
+Kansas,state,2018,any_method_without_major_events,108.9
+Kansas,state,2019,any_method_without_major_events,117.3
+Kansas,state,2020,any_method_without_major_events,92.3
+Kansas,state,2021,any_method_without_major_events,113.0
+Kansas,state,2022,any_method_without_major_events,108.1
+Kansas,state,2023,any_method_without_major_events,101.7
+Kansas,state,2024,any_method_without_major_events,103.6
+Kansas,state,2014,ieee_all_events,153.4
+Kansas,state,2015,ieee_all_events,350.5
+Kansas,state,2016,ieee_all_events,169.1
+Kansas,state,2017,ieee_all_events,368.6
+Kansas,state,2018,ieee_all_events,151.3
+Kansas,state,2019,ieee_all_events,241.2
+Kansas,state,2020,ieee_all_events,106.6
+Kansas,state,2021,ieee_all_events,346.0
+Kansas,state,2022,ieee_all_events,178.3
+Kansas,state,2023,ieee_all_events,287.1
+Kansas,state,2024,ieee_all_events,289.8
+Kansas,state,2014,ieee_loss_of_supply_removed,138.5
+Kansas,state,2015,ieee_loss_of_supply_removed,242.1
+Kansas,state,2016,ieee_loss_of_supply_removed,151.4
+Kansas,state,2017,ieee_loss_of_supply_removed,359.5
+Kansas,state,2018,ieee_loss_of_supply_removed,140.0
+Kansas,state,2019,ieee_loss_of_supply_removed,266.1
+Kansas,state,2020,ieee_loss_of_supply_removed,100.7
+Kansas,state,2021,ieee_loss_of_supply_removed,327.9
+Kansas,state,2022,ieee_loss_of_supply_removed,157.9
+Kansas,state,2023,ieee_loss_of_supply_removed,274.4
+Kansas,state,2024,ieee_loss_of_supply_removed,277.9
+Kansas,state,2014,ieee_without_major_events,114.9
+Kansas,state,2015,ieee_without_major_events,131.5
+Kansas,state,2016,ieee_without_major_events,132.3
+Kansas,state,2017,ieee_without_major_events,130.9
+Kansas,state,2018,ieee_without_major_events,105.6
+Kansas,state,2019,ieee_without_major_events,117.2
+Kansas,state,2020,ieee_without_major_events,91.8
+Kansas,state,2021,ieee_without_major_events,113.9
+Kansas,state,2022,ieee_without_major_events,108.1
+Kansas,state,2023,ieee_without_major_events,101.8
+Kansas,state,2024,ieee_without_major_events,104.0
+Kentucky,state,2014,any_method_all_events,246.8
+Kentucky,state,2015,any_method_all_events,243.9
+Kentucky,state,2016,any_method_all_events,191.9
+Kentucky,state,2017,any_method_all_events,194.1
+Kentucky,state,2018,any_method_all_events,406.2
+Kentucky,state,2019,any_method_all_events,203.3
+Kentucky,state,2020,any_method_all_events,282.4
+Kentucky,state,2021,any_method_all_events,707.8
+Kentucky,state,2022,any_method_all_events,345.8
+Kentucky,state,2023,any_method_all_events,868.2
+Kentucky,state,2024,any_method_all_events,648.3
+Kentucky,state,2014,any_method_without_major_events,145.1
+Kentucky,state,2015,any_method_without_major_events,139.7
+Kentucky,state,2016,any_method_without_major_events,137.4
+Kentucky,state,2017,any_method_without_major_events,120.1
+Kentucky,state,2018,any_method_without_major_events,146.7
+Kentucky,state,2019,any_method_without_major_events,148.5
+Kentucky,state,2020,any_method_without_major_events,125.1
+Kentucky,state,2021,any_method_without_major_events,129.8
+Kentucky,state,2022,any_method_without_major_events,151.7
+Kentucky,state,2023,any_method_without_major_events,143.4
+Kentucky,state,2024,any_method_without_major_events,153.3
+Kentucky,state,2014,ieee_all_events,249.5
+Kentucky,state,2015,ieee_all_events,245.8
+Kentucky,state,2016,ieee_all_events,194.3
+Kentucky,state,2017,ieee_all_events,193.3
+Kentucky,state,2018,ieee_all_events,407.5
+Kentucky,state,2019,ieee_all_events,204.2
+Kentucky,state,2020,ieee_all_events,284.7
+Kentucky,state,2021,ieee_all_events,698.8
+Kentucky,state,2022,ieee_all_events,345.5
+Kentucky,state,2023,ieee_all_events,861.5
+Kentucky,state,2024,ieee_all_events,537.7
+Kentucky,state,2014,ieee_loss_of_supply_removed,233.4
+Kentucky,state,2015,ieee_loss_of_supply_removed,232.0
+Kentucky,state,2016,ieee_loss_of_supply_removed,183.9
+Kentucky,state,2017,ieee_loss_of_supply_removed,173.9
+Kentucky,state,2018,ieee_loss_of_supply_removed,399.8
+Kentucky,state,2019,ieee_loss_of_supply_removed,192.1
+Kentucky,state,2020,ieee_loss_of_supply_removed,275.0
+Kentucky,state,2021,ieee_loss_of_supply_removed,630.1
+Kentucky,state,2022,ieee_loss_of_supply_removed,328.1
+Kentucky,state,2023,ieee_loss_of_supply_removed,841.1
+Kentucky,state,2024,ieee_loss_of_supply_removed,520.1
+Kentucky,state,2014,ieee_without_major_events,146.7
+Kentucky,state,2015,ieee_without_major_events,140.4
+Kentucky,state,2016,ieee_without_major_events,139.0
+Kentucky,state,2017,ieee_without_major_events,120.0
+Kentucky,state,2018,ieee_without_major_events,146.7
+Kentucky,state,2019,ieee_without_major_events,148.9
+Kentucky,state,2020,ieee_without_major_events,125.3
+Kentucky,state,2021,ieee_without_major_events,130.3
+Kentucky,state,2022,ieee_without_major_events,151.5
+Kentucky,state,2023,ieee_without_major_events,140.6
+Kentucky,state,2024,ieee_without_major_events,145.7
+Louisiana,state,2014,any_method_all_events,310.4
+Louisiana,state,2015,any_method_all_events,361.1
+Louisiana,state,2016,any_method_all_events,392.9
+Louisiana,state,2017,any_method_all_events,390.6
+Louisiana,state,2018,any_method_all_events,276.0
+Louisiana,state,2019,any_method_all_events,472.3
+Louisiana,state,2020,any_method_all_events,3624.4
+Louisiana,state,2021,any_method_all_events,4811.1
+Louisiana,state,2022,any_method_all_events,304.0
+Louisiana,state,2023,any_method_all_events,584.2
+Louisiana,state,2024,any_method_all_events,727.5
+Louisiana,state,2014,any_method_without_major_events,154.1
+Louisiana,state,2015,any_method_without_major_events,188.9
+Louisiana,state,2016,any_method_without_major_events,185.7
+Louisiana,state,2017,any_method_without_major_events,192.1
+Louisiana,state,2018,any_method_without_major_events,206.1
+Louisiana,state,2019,any_method_without_major_events,208.1
+Louisiana,state,2020,any_method_without_major_events,216.4
+Louisiana,state,2021,any_method_without_major_events,228.2
+Louisiana,state,2022,any_method_without_major_events,246.1
+Louisiana,state,2023,any_method_without_major_events,195.0
+Louisiana,state,2024,any_method_without_major_events,206.0
+Louisiana,state,2014,ieee_all_events,499.1
+Louisiana,state,2015,ieee_all_events,411.9
+Louisiana,state,2016,ieee_all_events,442.6
+Louisiana,state,2017,ieee_all_events,423.5
+Louisiana,state,2018,ieee_all_events,285.7
+Louisiana,state,2019,ieee_all_events,521.2
+Louisiana,state,2020,ieee_all_events,4331.9
+Louisiana,state,2021,ieee_all_events,5868.8
+Louisiana,state,2022,ieee_all_events,323.8
+Louisiana,state,2023,ieee_all_events,663.2
+Louisiana,state,2024,ieee_all_events,630.6
+Louisiana,state,2014,ieee_loss_of_supply_removed,271.9
+Louisiana,state,2015,ieee_loss_of_supply_removed,392.1
+Louisiana,state,2016,ieee_loss_of_supply_removed,429.8
+Louisiana,state,2017,ieee_loss_of_supply_removed,400.9
+Louisiana,state,2018,ieee_loss_of_supply_removed,260.7
+Louisiana,state,2019,ieee_loss_of_supply_removed,441.5
+Louisiana,state,2020,ieee_loss_of_supply_removed,4204.5
+Louisiana,state,2021,ieee_loss_of_supply_removed,5836.4
+Louisiana,state,2022,ieee_loss_of_supply_removed,306.6
+Louisiana,state,2023,ieee_loss_of_supply_removed,633.7
+Louisiana,state,2024,ieee_loss_of_supply_removed,603.0
+Louisiana,state,2014,ieee_without_major_events,156.7
+Louisiana,state,2015,ieee_without_major_events,199.0
+Louisiana,state,2016,ieee_without_major_events,190.1
+Louisiana,state,2017,ieee_without_major_events,196.9
+Louisiana,state,2018,ieee_without_major_events,214.2
+Louisiana,state,2019,ieee_without_major_events,223.5
+Louisiana,state,2020,ieee_without_major_events,217.9
+Louisiana,state,2021,ieee_without_major_events,265.0
+Louisiana,state,2022,ieee_without_major_events,252.2
+Louisiana,state,2023,ieee_without_major_events,199.3
+Louisiana,state,2024,ieee_without_major_events,215.9
+Maine,state,2014,any_method_all_events,1049.3
+Maine,state,2015,any_method_all_events,213.6
+Maine,state,2016,any_method_all_events,535.4
+Maine,state,2017,any_method_all_events,2492.6
+Maine,state,2018,any_method_all_events,665.3
+Maine,state,2019,any_method_all_events,908.1
+Maine,state,2020,any_method_all_events,1725.0
+Maine,state,2021,any_method_all_events,325.2
+Maine,state,2022,any_method_all_events,963.6
+Maine,state,2023,any_method_all_events,1863.0
+Maine,state,2024,any_method_all_events,1748.6
+Maine,state,2014,any_method_without_major_events,235.3
+Maine,state,2015,any_method_without_major_events,198.7
+Maine,state,2016,any_method_without_major_events,264.4
+Maine,state,2017,any_method_without_major_events,238.5
+Maine,state,2018,any_method_without_major_events,273.0
+Maine,state,2019,any_method_without_major_events,213.7
+Maine,state,2020,any_method_without_major_events,244.8
+Maine,state,2021,any_method_without_major_events,223.5
+Maine,state,2022,any_method_without_major_events,216.7
+Maine,state,2023,any_method_without_major_events,247.4
+Maine,state,2024,any_method_without_major_events,274.0
+Maine,state,2014,ieee_all_events,1049.3
+Maine,state,2015,ieee_all_events,213.6
+Maine,state,2016,ieee_all_events,535.4
+Maine,state,2017,ieee_all_events,2492.6
+Maine,state,2018,ieee_all_events,665.3
+Maine,state,2019,ieee_all_events,908.1
+Maine,state,2020,ieee_all_events,1725.0
+Maine,state,2021,ieee_all_events,325.2
+Maine,state,2022,ieee_all_events,963.6
+Maine,state,2023,ieee_all_events,1863.0
+Maine,state,2024,ieee_all_events,1748.6
+Maine,state,2014,ieee_loss_of_supply_removed,1046.1
+Maine,state,2015,ieee_loss_of_supply_removed,171.3
+Maine,state,2016,ieee_loss_of_supply_removed,510.3
+Maine,state,2017,ieee_loss_of_supply_removed,2440.6
+Maine,state,2018,ieee_loss_of_supply_removed,639.3
+Maine,state,2019,ieee_loss_of_supply_removed,881.8
+Maine,state,2020,ieee_loss_of_supply_removed,1718.4
+Maine,state,2021,ieee_loss_of_supply_removed,312.1
+Maine,state,2022,ieee_loss_of_supply_removed,930.7
+Maine,state,2023,ieee_loss_of_supply_removed,1781.4
+Maine,state,2024,ieee_loss_of_supply_removed,1701.0
+Maine,state,2014,ieee_without_major_events,235.3
+Maine,state,2015,ieee_without_major_events,198.7
+Maine,state,2016,ieee_without_major_events,264.4
+Maine,state,2017,ieee_without_major_events,238.5
+Maine,state,2018,ieee_without_major_events,273.0
+Maine,state,2019,ieee_without_major_events,213.7
+Maine,state,2020,ieee_without_major_events,244.8
+Maine,state,2021,ieee_without_major_events,223.5
+Maine,state,2022,ieee_without_major_events,216.7
+Maine,state,2023,ieee_without_major_events,247.4
+Maine,state,2024,ieee_without_major_events,274.0
+Maryland,state,2014,any_method_all_events,244.8
+Maryland,state,2015,any_method_all_events,124.4
+Maryland,state,2016,any_method_all_events,120.3
+Maryland,state,2017,any_method_all_events,116.5
+Maryland,state,2018,any_method_all_events,337.1
+Maryland,state,2019,any_method_all_events,141.3
+Maryland,state,2020,any_method_all_events,120.3
+Maryland,state,2021,any_method_all_events,127.1
+Maryland,state,2022,any_method_all_events,259.1
+Maryland,state,2023,any_method_all_events,166.2
+Maryland,state,2024,any_method_all_events,118.1
+Maryland,state,2014,any_method_without_major_events,93.0
+Maryland,state,2015,any_method_without_major_events,109.0
+Maryland,state,2016,any_method_without_major_events,105.3
+Maryland,state,2017,any_method_without_major_events,85.6
+Maryland,state,2018,any_method_without_major_events,95.0
+Maryland,state,2019,any_method_without_major_events,90.6
+Maryland,state,2020,any_method_without_major_events,80.9
+Maryland,state,2021,any_method_without_major_events,80.2
+Maryland,state,2022,any_method_without_major_events,84.2
+Maryland,state,2023,any_method_without_major_events,66.9
+Maryland,state,2024,any_method_without_major_events,75.1
+Maryland,state,2014,ieee_all_events,255.9
+Maryland,state,2015,ieee_all_events,117.2
+Maryland,state,2016,ieee_all_events,120.7
+Maryland,state,2017,ieee_all_events,103.1
+Maryland,state,2018,ieee_all_events,330.4
+Maryland,state,2019,ieee_all_events,143.8
+Maryland,state,2020,ieee_all_events,113.8
+Maryland,state,2021,ieee_all_events,127.6
+Maryland,state,2022,ieee_all_events,260.0
+Maryland,state,2023,ieee_all_events,166.2
+Maryland,state,2024,ieee_all_events,118.1
+Maryland,state,2014,ieee_loss_of_supply_removed,244.4
+Maryland,state,2015,ieee_loss_of_supply_removed,113.8
+Maryland,state,2016,ieee_loss_of_supply_removed,115.5
+Maryland,state,2017,ieee_loss_of_supply_removed,100.7
+Maryland,state,2018,ieee_loss_of_supply_removed,328.4
+Maryland,state,2019,ieee_loss_of_supply_removed,139.3
+Maryland,state,2020,ieee_loss_of_supply_removed,109.2
+Maryland,state,2021,ieee_loss_of_supply_removed,125.1
+Maryland,state,2022,ieee_loss_of_supply_removed,224.6
+Maryland,state,2023,ieee_loss_of_supply_removed,156.1
+Maryland,state,2024,ieee_loss_of_supply_removed,116.7
+Maryland,state,2014,ieee_without_major_events,93.6
+Maryland,state,2015,ieee_without_major_events,100.2
+Maryland,state,2016,ieee_without_major_events,104.5
+Maryland,state,2017,ieee_without_major_events,81.5
+Maryland,state,2018,ieee_without_major_events,93.6
+Maryland,state,2019,ieee_without_major_events,89.0
+Maryland,state,2020,ieee_without_major_events,76.2
+Maryland,state,2021,ieee_without_major_events,80.2
+Maryland,state,2022,ieee_without_major_events,84.2
+Maryland,state,2023,ieee_without_major_events,66.9
+Maryland,state,2024,ieee_without_major_events,75.1
+Massachusetts,state,2014,any_method_all_events,124.5
+Massachusetts,state,2015,any_method_all_events,91.2
+Massachusetts,state,2016,any_method_all_events,144.9
+Massachusetts,state,2017,any_method_all_events,275.5
+Massachusetts,state,2018,any_method_all_events,813.3
+Massachusetts,state,2019,any_method_all_events,250.2
+Massachusetts,state,2020,any_method_all_events,318.9
+Massachusetts,state,2021,any_method_all_events,518.7
+Massachusetts,state,2022,any_method_all_events,163.2
+Massachusetts,state,2023,any_method_all_events,259.4
+Massachusetts,state,2024,any_method_all_events,102.0
+Massachusetts,state,2014,any_method_without_major_events,83.2
+Massachusetts,state,2015,any_method_without_major_events,75.6
+Massachusetts,state,2016,any_method_without_major_events,113.1
+Massachusetts,state,2017,any_method_without_major_events,92.2
+Massachusetts,state,2018,any_method_without_major_events,99.0
+Massachusetts,state,2019,any_method_without_major_events,96.1
+Massachusetts,state,2020,any_method_without_major_events,168.1
+Massachusetts,state,2021,any_method_without_major_events,87.2
+Massachusetts,state,2022,any_method_without_major_events,83.0
+Massachusetts,state,2023,any_method_without_major_events,82.2
+Massachusetts,state,2024,any_method_without_major_events,76.1
+Massachusetts,state,2014,ieee_all_events,126.8
+Massachusetts,state,2015,ieee_all_events,86.4
+Massachusetts,state,2016,ieee_all_events,148.6
+Massachusetts,state,2017,ieee_all_events,178.7
+Massachusetts,state,2018,ieee_all_events,865.3
+Massachusetts,state,2019,ieee_all_events,244.3
+Massachusetts,state,2020,ieee_all_events,224.1
+Massachusetts,state,2021,ieee_all_events,527.8
+Massachusetts,state,2022,ieee_all_events,165.8
+Massachusetts,state,2023,ieee_all_events,265.3
+Massachusetts,state,2024,ieee_all_events,103.7
+Massachusetts,state,2014,ieee_loss_of_supply_removed,128.1
+Massachusetts,state,2015,ieee_loss_of_supply_removed,87.6
+Massachusetts,state,2016,ieee_loss_of_supply_removed,153.3
+Massachusetts,state,2017,ieee_loss_of_supply_removed,186.1
+Massachusetts,state,2018,ieee_loss_of_supply_removed,907.0
+Massachusetts,state,2019,ieee_loss_of_supply_removed,256.4
+Massachusetts,state,2020,ieee_loss_of_supply_removed,231.0
+Massachusetts,state,2021,ieee_loss_of_supply_removed,600.8
+Massachusetts,state,2022,ieee_loss_of_supply_removed,186.4
+Massachusetts,state,2023,ieee_loss_of_supply_removed,268.5
+Massachusetts,state,2024,ieee_loss_of_supply_removed,103.9
+Massachusetts,state,2014,ieee_without_major_events,84.1
+Massachusetts,state,2015,ieee_without_major_events,71.1
+Massachusetts,state,2016,ieee_without_major_events,91.6
+Massachusetts,state,2017,ieee_without_major_events,72.7
+Massachusetts,state,2018,ieee_without_major_events,81.3
+Massachusetts,state,2019,ieee_without_major_events,67.5
+Massachusetts,state,2020,ieee_without_major_events,63.6
+Massachusetts,state,2021,ieee_without_major_events,88.1
+Massachusetts,state,2022,ieee_without_major_events,84.4
+Massachusetts,state,2023,ieee_without_major_events,83.5
+Massachusetts,state,2024,ieee_without_major_events,77.0
+Michigan,state,2014,any_method_all_events,574.7
+Michigan,state,2015,any_method_all_events,363.4
+Michigan,state,2016,any_method_all_events,267.8
+Michigan,state,2017,any_method_all_events,778.8
+Michigan,state,2018,any_method_all_events,442.9
+Michigan,state,2019,any_method_all_events,554.9
+Michigan,state,2020,any_method_all_events,410.7
+Michigan,state,2021,any_method_all_events,873.3
+Michigan,state,2022,any_method_all_events,513.1
+Michigan,state,2023,any_method_all_events,1093.6
+Michigan,state,2024,any_method_all_events,470.4
+Michigan,state,2014,any_method_without_major_events,180.0
+Michigan,state,2015,any_method_without_major_events,178.8
+Michigan,state,2016,any_method_without_major_events,193.1
+Michigan,state,2017,any_method_without_major_events,179.4
+Michigan,state,2018,any_method_without_major_events,185.0
+Michigan,state,2019,any_method_without_major_events,211.1
+Michigan,state,2020,any_method_without_major_events,167.2
+Michigan,state,2021,any_method_without_major_events,178.4
+Michigan,state,2022,any_method_without_major_events,166.0
+Michigan,state,2023,any_method_without_major_events,162.7
+Michigan,state,2024,any_method_without_major_events,160.1
+Michigan,state,2014,ieee_all_events,592.5
+Michigan,state,2015,ieee_all_events,374.5
+Michigan,state,2016,ieee_all_events,268.4
+Michigan,state,2017,ieee_all_events,802.2
+Michigan,state,2018,ieee_all_events,450.2
+Michigan,state,2019,ieee_all_events,570.2
+Michigan,state,2020,ieee_all_events,416.7
+Michigan,state,2021,ieee_all_events,890.9
+Michigan,state,2022,ieee_all_events,520.7
+Michigan,state,2023,ieee_all_events,1127.7
+Michigan,state,2024,ieee_all_events,481.7
+Michigan,state,2014,ieee_loss_of_supply_removed,589.0
+Michigan,state,2015,ieee_loss_of_supply_removed,363.7
+Michigan,state,2016,ieee_loss_of_supply_removed,262.6
+Michigan,state,2017,ieee_loss_of_supply_removed,798.2
+Michigan,state,2018,ieee_loss_of_supply_removed,448.0
+Michigan,state,2019,ieee_loss_of_supply_removed,565.5
+Michigan,state,2020,ieee_loss_of_supply_removed,414.3
+Michigan,state,2021,ieee_loss_of_supply_removed,882.1
+Michigan,state,2022,ieee_loss_of_supply_removed,519.9
+Michigan,state,2023,ieee_loss_of_supply_removed,1131.2
+Michigan,state,2024,ieee_loss_of_supply_removed,456.2
+Michigan,state,2014,ieee_without_major_events,183.3
+Michigan,state,2015,ieee_without_major_events,183.4
+Michigan,state,2016,ieee_without_major_events,194.2
+Michigan,state,2017,ieee_without_major_events,180.1
+Michigan,state,2018,ieee_without_major_events,186.4
+Michigan,state,2019,ieee_without_major_events,213.9
+Michigan,state,2020,ieee_without_major_events,168.3
+Michigan,state,2021,ieee_without_major_events,178.6
+Michigan,state,2022,ieee_without_major_events,166.8
+Michigan,state,2023,ieee_without_major_events,164.8
+Michigan,state,2024,ieee_without_major_events,161.3
+Middle Atlantic,census_division,2014,any_method_all_events,199.6
+Middle Atlantic,census_division,2015,any_method_all_events,148.7
+Middle Atlantic,census_division,2016,any_method_all_events,120.2
+Middle Atlantic,census_division,2017,any_method_all_events,178.8
+Middle Atlantic,census_division,2018,any_method_all_events,465.4
+Middle Atlantic,census_division,2019,any_method_all_events,213.6
+Middle Atlantic,census_division,2020,any_method_all_events,512.4
+Middle Atlantic,census_division,2021,any_method_all_events,165.6
+Middle Atlantic,census_division,2022,any_method_all_events,175.9
+Middle Atlantic,census_division,2023,any_method_all_events,159.5
+Middle Atlantic,census_division,2024,any_method_all_events,246.2
+Middle Atlantic,census_division,2014,any_method_without_major_events,79.0
+Middle Atlantic,census_division,2015,any_method_without_major_events,80.9
+Middle Atlantic,census_division,2016,any_method_without_major_events,89.2
+Middle Atlantic,census_division,2017,any_method_without_major_events,83.7
+Middle Atlantic,census_division,2018,any_method_without_major_events,94.0
+Middle Atlantic,census_division,2019,any_method_without_major_events,96.4
+Middle Atlantic,census_division,2020,any_method_without_major_events,90.4
+Middle Atlantic,census_division,2021,any_method_without_major_events,97.3
+Middle Atlantic,census_division,2022,any_method_without_major_events,93.4
+Middle Atlantic,census_division,2023,any_method_without_major_events,89.9
+Middle Atlantic,census_division,2024,any_method_without_major_events,97.2
+Middle Atlantic,census_division,2014,ieee_all_events,283.1
+Middle Atlantic,census_division,2015,ieee_all_events,193.6
+Middle Atlantic,census_division,2016,ieee_all_events,150.0
+Middle Atlantic,census_division,2017,ieee_all_events,172.6
+Middle Atlantic,census_division,2018,ieee_all_events,516.4
+Middle Atlantic,census_division,2019,ieee_all_events,262.5
+Middle Atlantic,census_division,2020,ieee_all_events,588.9
+Middle Atlantic,census_division,2021,ieee_all_events,190.8
+Middle Atlantic,census_division,2022,ieee_all_events,184.7
+Middle Atlantic,census_division,2023,ieee_all_events,196.8
+Middle Atlantic,census_division,2024,ieee_all_events,309.1
+Middle Atlantic,census_division,2014,ieee_loss_of_supply_removed,276.6
+Middle Atlantic,census_division,2015,ieee_loss_of_supply_removed,188.6
+Middle Atlantic,census_division,2016,ieee_loss_of_supply_removed,133.5
+Middle Atlantic,census_division,2017,ieee_loss_of_supply_removed,163.7
+Middle Atlantic,census_division,2018,ieee_loss_of_supply_removed,506.5
+Middle Atlantic,census_division,2019,ieee_loss_of_supply_removed,253.6
+Middle Atlantic,census_division,2020,ieee_loss_of_supply_removed,573.1
+Middle Atlantic,census_division,2021,ieee_loss_of_supply_removed,180.4
+Middle Atlantic,census_division,2022,ieee_loss_of_supply_removed,176.3
+Middle Atlantic,census_division,2023,ieee_loss_of_supply_removed,185.9
+Middle Atlantic,census_division,2024,ieee_loss_of_supply_removed,299.7
+Middle Atlantic,census_division,2014,ieee_without_major_events,96.5
+Middle Atlantic,census_division,2015,ieee_without_major_events,97.8
+Middle Atlantic,census_division,2016,ieee_without_major_events,110.1
+Middle Atlantic,census_division,2017,ieee_without_major_events,98.2
+Middle Atlantic,census_division,2018,ieee_without_major_events,113.2
+Middle Atlantic,census_division,2019,ieee_without_major_events,115.1
+Middle Atlantic,census_division,2020,ieee_without_major_events,105.0
+Middle Atlantic,census_division,2021,ieee_without_major_events,110.9
+Middle Atlantic,census_division,2022,ieee_without_major_events,111.7
+Middle Atlantic,census_division,2023,ieee_without_major_events,112.2
+Middle Atlantic,census_division,2024,ieee_without_major_events,121.5
+Minnesota,state,2014,any_method_all_events,119.4
+Minnesota,state,2015,any_method_all_events,154.5
+Minnesota,state,2016,any_method_all_events,301.2
+Minnesota,state,2017,any_method_all_events,129.7
+Minnesota,state,2018,any_method_all_events,127.4
+Minnesota,state,2019,any_method_all_events,150.1
+Minnesota,state,2020,any_method_all_events,127.6
+Minnesota,state,2021,any_method_all_events,120.9
+Minnesota,state,2022,any_method_all_events,273.7
+Minnesota,state,2023,any_method_all_events,126.4
+Minnesota,state,2024,any_method_all_events,219.6
+Minnesota,state,2014,any_method_without_major_events,76.4
+Minnesota,state,2015,any_method_without_major_events,77.8
+Minnesota,state,2016,any_method_without_major_events,87.7
+Minnesota,state,2017,any_method_without_major_events,73.5
+Minnesota,state,2018,any_method_without_major_events,87.6
+Minnesota,state,2019,any_method_without_major_events,81.2
+Minnesota,state,2020,any_method_without_major_events,85.6
+Minnesota,state,2021,any_method_without_major_events,82.5
+Minnesota,state,2022,any_method_without_major_events,82.2
+Minnesota,state,2023,any_method_without_major_events,73.4
+Minnesota,state,2024,any_method_without_major_events,92.2
+Minnesota,state,2014,ieee_all_events,123.1
+Minnesota,state,2015,ieee_all_events,160.8
+Minnesota,state,2016,ieee_all_events,308.9
+Minnesota,state,2017,ieee_all_events,129.8
+Minnesota,state,2018,ieee_all_events,128.1
+Minnesota,state,2019,ieee_all_events,148.9
+Minnesota,state,2020,ieee_all_events,128.0
+Minnesota,state,2021,ieee_all_events,121.0
+Minnesota,state,2022,ieee_all_events,275.2
+Minnesota,state,2023,ieee_all_events,127.1
+Minnesota,state,2024,ieee_all_events,222.4
+Minnesota,state,2014,ieee_loss_of_supply_removed,118.8
+Minnesota,state,2015,ieee_loss_of_supply_removed,159.9
+Minnesota,state,2016,ieee_loss_of_supply_removed,302.6
+Minnesota,state,2017,ieee_loss_of_supply_removed,129.1
+Minnesota,state,2018,ieee_loss_of_supply_removed,120.2
+Minnesota,state,2019,ieee_loss_of_supply_removed,137.6
+Minnesota,state,2020,ieee_loss_of_supply_removed,124.4
+Minnesota,state,2021,ieee_loss_of_supply_removed,115.7
+Minnesota,state,2022,ieee_loss_of_supply_removed,270.3
+Minnesota,state,2023,ieee_loss_of_supply_removed,123.6
+Minnesota,state,2024,ieee_loss_of_supply_removed,222.3
+Minnesota,state,2014,ieee_without_major_events,77.1
+Minnesota,state,2015,ieee_without_major_events,79.4
+Minnesota,state,2016,ieee_without_major_events,88.6
+Minnesota,state,2017,ieee_without_major_events,71.7
+Minnesota,state,2018,ieee_without_major_events,87.8
+Minnesota,state,2019,ieee_without_major_events,79.9
+Minnesota,state,2020,ieee_without_major_events,84.7
+Minnesota,state,2021,ieee_without_major_events,81.7
+Minnesota,state,2022,ieee_without_major_events,81.0
+Minnesota,state,2023,ieee_without_major_events,72.8
+Minnesota,state,2024,ieee_without_major_events,91.5
+Mississippi,state,2014,any_method_all_events,226.0
+Mississippi,state,2015,any_method_all_events,310.4
+Mississippi,state,2016,any_method_all_events,277.4
+Mississippi,state,2017,any_method_all_events,566.8
+Mississippi,state,2018,any_method_all_events,267.5
+Mississippi,state,2019,any_method_all_events,536.5
+Mississippi,state,2020,any_method_all_events,1496.7
+Mississippi,state,2021,any_method_all_events,1134.4
+Mississippi,state,2022,any_method_all_events,448.5
+Mississippi,state,2023,any_method_all_events,802.1
+Mississippi,state,2024,any_method_all_events,567.1
+Mississippi,state,2014,any_method_without_major_events,155.7
+Mississippi,state,2015,any_method_without_major_events,197.5
+Mississippi,state,2016,any_method_without_major_events,187.3
+Mississippi,state,2017,any_method_without_major_events,211.3
+Mississippi,state,2018,any_method_without_major_events,211.9
+Mississippi,state,2019,any_method_without_major_events,220.0
+Mississippi,state,2020,any_method_without_major_events,211.3
+Mississippi,state,2021,any_method_without_major_events,220.6
+Mississippi,state,2022,any_method_without_major_events,246.7
+Mississippi,state,2023,any_method_without_major_events,252.8
+Mississippi,state,2024,any_method_without_major_events,266.3
+Mississippi,state,2014,ieee_all_events,279.4
+Mississippi,state,2015,ieee_all_events,363.3
+Mississippi,state,2016,ieee_all_events,276.3
+Mississippi,state,2017,ieee_all_events,580.2
+Mississippi,state,2018,ieee_all_events,271.6
+Mississippi,state,2019,ieee_all_events,466.1
+Mississippi,state,2020,ieee_all_events,1611.7
+Mississippi,state,2021,ieee_all_events,1189.8
+Mississippi,state,2022,ieee_all_events,455.9
+Mississippi,state,2023,ieee_all_events,877.8
+Mississippi,state,2024,ieee_all_events,607.3
+Mississippi,state,2014,ieee_loss_of_supply_removed,278.6
+Mississippi,state,2015,ieee_loss_of_supply_removed,316.9
+Mississippi,state,2016,ieee_loss_of_supply_removed,302.7
+Mississippi,state,2017,ieee_loss_of_supply_removed,588.0
+Mississippi,state,2018,ieee_loss_of_supply_removed,310.2
+Mississippi,state,2019,ieee_loss_of_supply_removed,537.3
+Mississippi,state,2020,ieee_loss_of_supply_removed,1558.2
+Mississippi,state,2021,ieee_loss_of_supply_removed,1419.2
+Mississippi,state,2022,ieee_loss_of_supply_removed,519.9
+Mississippi,state,2023,ieee_loss_of_supply_removed,991.9
+Mississippi,state,2024,ieee_loss_of_supply_removed,693.8
+Mississippi,state,2014,ieee_without_major_events,180.0
+Mississippi,state,2015,ieee_without_major_events,227.7
+Mississippi,state,2016,ieee_without_major_events,179.9
+Mississippi,state,2017,ieee_without_major_events,205.5
+Mississippi,state,2018,ieee_without_major_events,209.7
+Mississippi,state,2019,ieee_without_major_events,214.3
+Mississippi,state,2020,ieee_without_major_events,203.9
+Mississippi,state,2021,ieee_without_major_events,224.5
+Mississippi,state,2022,ieee_without_major_events,243.3
+Mississippi,state,2023,ieee_without_major_events,266.6
+Mississippi,state,2024,ieee_without_major_events,279.0
+Missouri,state,2014,any_method_all_events,136.7
+Missouri,state,2015,any_method_all_events,171.1
+Missouri,state,2016,any_method_all_events,205.7
+Missouri,state,2017,any_method_all_events,305.8
+Missouri,state,2018,any_method_all_events,149.6
+Missouri,state,2019,any_method_all_events,255.2
+Missouri,state,2020,any_method_all_events,152.6
+Missouri,state,2021,any_method_all_events,259.7
+Missouri,state,2022,any_method_all_events,148.0
+Missouri,state,2023,any_method_all_events,371.8
+Missouri,state,2024,any_method_all_events,224.3
+Missouri,state,2014,any_method_without_major_events,101.0
+Missouri,state,2015,any_method_without_major_events,98.2
+Missouri,state,2016,any_method_without_major_events,86.7
+Missouri,state,2017,any_method_without_major_events,93.3
+Missouri,state,2018,any_method_without_major_events,94.6
+Missouri,state,2019,any_method_without_major_events,112.8
+Missouri,state,2020,any_method_without_major_events,95.1
+Missouri,state,2021,any_method_without_major_events,97.3
+Missouri,state,2022,any_method_without_major_events,97.0
+Missouri,state,2023,any_method_without_major_events,106.7
+Missouri,state,2024,any_method_without_major_events,106.0
+Missouri,state,2014,ieee_all_events,134.3
+Missouri,state,2015,ieee_all_events,164.9
+Missouri,state,2016,ieee_all_events,215.4
+Missouri,state,2017,ieee_all_events,307.2
+Missouri,state,2018,ieee_all_events,151.2
+Missouri,state,2019,ieee_all_events,261.0
+Missouri,state,2020,ieee_all_events,154.1
+Missouri,state,2021,ieee_all_events,267.9
+Missouri,state,2022,ieee_all_events,149.5
+Missouri,state,2023,ieee_all_events,379.0
+Missouri,state,2024,ieee_all_events,212.6
+Missouri,state,2014,ieee_loss_of_supply_removed,139.8
+Missouri,state,2015,ieee_loss_of_supply_removed,249.2
+Missouri,state,2016,ieee_loss_of_supply_removed,149.8
+Missouri,state,2017,ieee_loss_of_supply_removed,445.9
+Missouri,state,2018,ieee_loss_of_supply_removed,174.1
+Missouri,state,2019,ieee_loss_of_supply_removed,372.9
+Missouri,state,2020,ieee_loss_of_supply_removed,159.8
+Missouri,state,2021,ieee_loss_of_supply_removed,265.6
+Missouri,state,2022,ieee_loss_of_supply_removed,144.2
+Missouri,state,2023,ieee_loss_of_supply_removed,391.2
+Missouri,state,2024,ieee_loss_of_supply_removed,206.0
+Missouri,state,2014,ieee_without_major_events,101.2
+Missouri,state,2015,ieee_without_major_events,98.3
+Missouri,state,2016,ieee_without_major_events,86.6
+Missouri,state,2017,ieee_without_major_events,90.8
+Missouri,state,2018,ieee_without_major_events,91.8
+Missouri,state,2019,ieee_without_major_events,113.6
+Missouri,state,2020,ieee_without_major_events,96.7
+Missouri,state,2021,ieee_without_major_events,97.8
+Missouri,state,2022,ieee_without_major_events,97.0
+Missouri,state,2023,ieee_without_major_events,104.4
+Missouri,state,2024,ieee_without_major_events,106.6
+Montana,state,2014,any_method_all_events,138.8
+Montana,state,2015,any_method_all_events,287.9
+Montana,state,2016,any_method_all_events,160.7
+Montana,state,2017,any_method_all_events,215.4
+Montana,state,2018,any_method_all_events,142.7
+Montana,state,2019,any_method_all_events,169.3
+Montana,state,2020,any_method_all_events,271.3
+Montana,state,2021,any_method_all_events,309.9
+Montana,state,2022,any_method_all_events,225.6
+Montana,state,2023,any_method_all_events,118.7
+Montana,state,2024,any_method_all_events,351.5
+Montana,state,2014,any_method_without_major_events,123.5
+Montana,state,2015,any_method_without_major_events,142.3
+Montana,state,2016,any_method_without_major_events,129.9
+Montana,state,2017,any_method_without_major_events,161.4
+Montana,state,2018,any_method_without_major_events,118.0
+Montana,state,2019,any_method_without_major_events,127.0
+Montana,state,2020,any_method_without_major_events,140.9
+Montana,state,2021,any_method_without_major_events,146.0
+Montana,state,2022,any_method_without_major_events,146.1
+Montana,state,2023,any_method_without_major_events,117.1
+Montana,state,2024,any_method_without_major_events,156.6
+Montana,state,2014,ieee_all_events,144.9
+Montana,state,2015,ieee_all_events,295.4
+Montana,state,2016,ieee_all_events,155.7
+Montana,state,2017,ieee_all_events,218.9
+Montana,state,2018,ieee_all_events,135.4
+Montana,state,2019,ieee_all_events,165.8
+Montana,state,2020,ieee_all_events,275.3
+Montana,state,2021,ieee_all_events,251.7
+Montana,state,2022,ieee_all_events,224.7
+Montana,state,2023,ieee_all_events,113.9
+Montana,state,2024,ieee_all_events,341.7
+Montana,state,2014,ieee_loss_of_supply_removed,137.3
+Montana,state,2015,ieee_loss_of_supply_removed,284.7
+Montana,state,2016,ieee_loss_of_supply_removed,110.7
+Montana,state,2017,ieee_loss_of_supply_removed,209.1
+Montana,state,2018,ieee_loss_of_supply_removed,107.4
+Montana,state,2019,ieee_loss_of_supply_removed,138.9
+Montana,state,2020,ieee_loss_of_supply_removed,240.7
+Montana,state,2021,ieee_loss_of_supply_removed,211.2
+Montana,state,2022,ieee_loss_of_supply_removed,187.7
+Montana,state,2023,ieee_loss_of_supply_removed,93.9
+Montana,state,2024,ieee_loss_of_supply_removed,298.1
+Montana,state,2014,ieee_without_major_events,123.8
+Montana,state,2015,ieee_without_major_events,143.5
+Montana,state,2016,ieee_without_major_events,128.8
+Montana,state,2017,ieee_without_major_events,160.8
+Montana,state,2018,ieee_without_major_events,118.3
+Montana,state,2019,ieee_without_major_events,121.7
+Montana,state,2020,ieee_without_major_events,136.0
+Montana,state,2021,ieee_without_major_events,142.6
+Montana,state,2022,ieee_without_major_events,139.6
+Montana,state,2023,ieee_without_major_events,113.9
+Montana,state,2024,ieee_without_major_events,152.3
+Mountain,census_division,2014,any_method_all_events,111.6
+Mountain,census_division,2015,any_method_all_events,148.6
+Mountain,census_division,2016,any_method_all_events,136.5
+Mountain,census_division,2017,any_method_all_events,161.4
+Mountain,census_division,2018,any_method_all_events,125.5
+Mountain,census_division,2019,any_method_all_events,134.4
+Mountain,census_division,2020,any_method_all_events,181.6
+Mountain,census_division,2021,any_method_all_events,174.8
+Mountain,census_division,2022,any_method_all_events,155.9
+Mountain,census_division,2023,any_method_all_events,120.2
+Mountain,census_division,2024,any_method_all_events,181.3
+Mountain,census_division,2014,any_method_without_major_events,90.9
+Mountain,census_division,2015,any_method_without_major_events,100.5
+Mountain,census_division,2016,any_method_without_major_events,91.7
+Mountain,census_division,2017,any_method_without_major_events,98.1
+Mountain,census_division,2018,any_method_without_major_events,91.6
+Mountain,census_division,2019,any_method_without_major_events,94.5
+Mountain,census_division,2020,any_method_without_major_events,90.7
+Mountain,census_division,2021,any_method_without_major_events,99.7
+Mountain,census_division,2022,any_method_without_major_events,98.5
+Mountain,census_division,2023,any_method_without_major_events,91.7
+Mountain,census_division,2024,any_method_without_major_events,105.8
+Mountain,census_division,2014,ieee_all_events,107.3
+Mountain,census_division,2015,ieee_all_events,131.7
+Mountain,census_division,2016,ieee_all_events,131.3
+Mountain,census_division,2017,ieee_all_events,131.7
+Mountain,census_division,2018,ieee_all_events,119.0
+Mountain,census_division,2019,ieee_all_events,131.1
+Mountain,census_division,2020,ieee_all_events,178.8
+Mountain,census_division,2021,ieee_all_events,166.3
+Mountain,census_division,2022,ieee_all_events,153.2
+Mountain,census_division,2023,ieee_all_events,117.9
+Mountain,census_division,2024,ieee_all_events,176.3
+Mountain,census_division,2014,ieee_loss_of_supply_removed,99.3
+Mountain,census_division,2015,ieee_loss_of_supply_removed,128.8
+Mountain,census_division,2016,ieee_loss_of_supply_removed,134.0
+Mountain,census_division,2017,ieee_loss_of_supply_removed,125.2
+Mountain,census_division,2018,ieee_loss_of_supply_removed,106.8
+Mountain,census_division,2019,ieee_loss_of_supply_removed,125.3
+Mountain,census_division,2020,ieee_loss_of_supply_removed,179.7
+Mountain,census_division,2021,ieee_loss_of_supply_removed,138.1
+Mountain,census_division,2022,ieee_loss_of_supply_removed,123.5
+Mountain,census_division,2023,ieee_loss_of_supply_removed,101.2
+Mountain,census_division,2024,ieee_loss_of_supply_removed,169.5
+Mountain,census_division,2014,ieee_without_major_events,88.1
+Mountain,census_division,2015,ieee_without_major_events,95.2
+Mountain,census_division,2016,ieee_without_major_events,90.6
+Mountain,census_division,2017,ieee_without_major_events,95.6
+Mountain,census_division,2018,ieee_without_major_events,88.6
+Mountain,census_division,2019,ieee_without_major_events,91.2
+Mountain,census_division,2020,ieee_without_major_events,87.3
+Mountain,census_division,2021,ieee_without_major_events,95.5
+Mountain,census_division,2022,ieee_without_major_events,95.4
+Mountain,census_division,2023,ieee_without_major_events,90.4
+Mountain,census_division,2024,ieee_without_major_events,102.4
+Nebraska,state,2014,any_method_all_events,123.0
+Nebraska,state,2015,any_method_all_events,86.2
+Nebraska,state,2016,any_method_all_events,83.6
+Nebraska,state,2017,any_method_all_events,154.3
+Nebraska,state,2018,any_method_all_events,188.2
+Nebraska,state,2019,any_method_all_events,84.0
+Nebraska,state,2020,any_method_all_events,113.4
+Nebraska,state,2021,any_method_all_events,516.0
+Nebraska,state,2022,any_method_all_events,82.1
+Nebraska,state,2023,any_method_all_events,72.6
+Nebraska,state,2024,any_method_all_events,641.7
+Nebraska,state,2014,any_method_without_major_events,66.7
+Nebraska,state,2015,any_method_without_major_events,51.9
+Nebraska,state,2016,any_method_without_major_events,52.0
+Nebraska,state,2017,any_method_without_major_events,69.9
+Nebraska,state,2018,any_method_without_major_events,74.2
+Nebraska,state,2019,any_method_without_major_events,62.4
+Nebraska,state,2020,any_method_without_major_events,68.8
+Nebraska,state,2021,any_method_without_major_events,60.8
+Nebraska,state,2022,any_method_without_major_events,62.3
+Nebraska,state,2023,any_method_without_major_events,56.8
+Nebraska,state,2024,any_method_without_major_events,73.6
+Nebraska,state,2014,ieee_all_events,98.3
+Nebraska,state,2015,ieee_all_events,67.9
+Nebraska,state,2016,ieee_all_events,63.1
+Nebraska,state,2017,ieee_all_events,160.7
+Nebraska,state,2018,ieee_all_events,185.7
+Nebraska,state,2019,ieee_all_events,78.9
+Nebraska,state,2020,ieee_all_events,115.4
+Nebraska,state,2021,ieee_all_events,556.9
+Nebraska,state,2022,ieee_all_events,73.0
+Nebraska,state,2023,ieee_all_events,69.4
+Nebraska,state,2024,ieee_all_events,697.8
+Nebraska,state,2014,ieee_loss_of_supply_removed,86.3
+Nebraska,state,2015,ieee_loss_of_supply_removed,49.0
+Nebraska,state,2016,ieee_loss_of_supply_removed,52.2
+Nebraska,state,2017,ieee_loss_of_supply_removed,110.4
+Nebraska,state,2018,ieee_loss_of_supply_removed,96.1
+Nebraska,state,2019,ieee_loss_of_supply_removed,54.9
+Nebraska,state,2020,ieee_loss_of_supply_removed,96.1
+Nebraska,state,2021,ieee_loss_of_supply_removed,555.3
+Nebraska,state,2022,ieee_loss_of_supply_removed,71.1
+Nebraska,state,2023,ieee_loss_of_supply_removed,66.4
+Nebraska,state,2024,ieee_loss_of_supply_removed,696.7
+Nebraska,state,2014,ieee_without_major_events,50.7
+Nebraska,state,2015,ieee_without_major_events,50.2
+Nebraska,state,2016,ieee_without_major_events,49.2
+Nebraska,state,2017,ieee_without_major_events,72.5
+Nebraska,state,2018,ieee_without_major_events,76.8
+Nebraska,state,2019,ieee_without_major_events,59.2
+Nebraska,state,2020,ieee_without_major_events,67.4
+Nebraska,state,2021,ieee_without_major_events,59.9
+Nebraska,state,2022,ieee_without_major_events,56.2
+Nebraska,state,2023,ieee_without_major_events,55.6
+Nebraska,state,2024,ieee_without_major_events,69.8
+Nevada,state,2014,any_method_all_events,75.7
+Nevada,state,2015,any_method_all_events,107.0
+Nevada,state,2016,any_method_all_events,95.7
+Nevada,state,2017,any_method_all_events,114.4
+Nevada,state,2018,any_method_all_events,126.2
+Nevada,state,2019,any_method_all_events,87.0
+Nevada,state,2020,any_method_all_events,73.3
+Nevada,state,2021,any_method_all_events,102.4
+Nevada,state,2022,any_method_all_events,195.1
+Nevada,state,2023,any_method_all_events,138.7
+Nevada,state,2024,any_method_all_events,158.9
+Nevada,state,2014,any_method_without_major_events,62.6
+Nevada,state,2015,any_method_without_major_events,55.4
+Nevada,state,2016,any_method_without_major_events,73.7
+Nevada,state,2017,any_method_without_major_events,87.7
+Nevada,state,2018,any_method_without_major_events,76.7
+Nevada,state,2019,any_method_without_major_events,77.5
+Nevada,state,2020,any_method_without_major_events,55.3
+Nevada,state,2021,any_method_without_major_events,69.6
+Nevada,state,2022,any_method_without_major_events,77.0
+Nevada,state,2023,any_method_without_major_events,81.2
+Nevada,state,2024,any_method_without_major_events,63.8
+Nevada,state,2014,ieee_all_events,75.7
+Nevada,state,2015,ieee_all_events,107.0
+Nevada,state,2016,ieee_all_events,95.7
+Nevada,state,2017,ieee_all_events,114.4
+Nevada,state,2018,ieee_all_events,126.2
+Nevada,state,2019,ieee_all_events,87.0
+Nevada,state,2020,ieee_all_events,73.3
+Nevada,state,2021,ieee_all_events,102.4
+Nevada,state,2022,ieee_all_events,195.1
+Nevada,state,2023,ieee_all_events,138.7
+Nevada,state,2024,ieee_all_events,158.9
+Nevada,state,2015,ieee_loss_of_supply_removed,153.8
+Nevada,state,2016,ieee_loss_of_supply_removed,457.0
+Nevada,state,2017,ieee_loss_of_supply_removed,82.8
+Nevada,state,2018,ieee_loss_of_supply_removed,93.3
+Nevada,state,2019,ieee_loss_of_supply_removed,92.0
+Nevada,state,2020,ieee_loss_of_supply_removed,54.4
+Nevada,state,2021,ieee_loss_of_supply_removed,6.8
+Nevada,state,2022,ieee_loss_of_supply_removed,424.3
+Nevada,state,2023,ieee_loss_of_supply_removed,96.9
+Nevada,state,2024,ieee_loss_of_supply_removed,116.7
+Nevada,state,2014,ieee_without_major_events,62.6
+Nevada,state,2015,ieee_without_major_events,55.4
+Nevada,state,2016,ieee_without_major_events,73.7
+Nevada,state,2017,ieee_without_major_events,87.7
+Nevada,state,2018,ieee_without_major_events,76.7
+Nevada,state,2019,ieee_without_major_events,77.5
+Nevada,state,2020,ieee_without_major_events,55.3
+Nevada,state,2021,ieee_without_major_events,69.6
+Nevada,state,2022,ieee_without_major_events,77.0
+Nevada,state,2023,ieee_without_major_events,81.2
+Nevada,state,2024,ieee_without_major_events,63.8
+New England,census_division,2014,any_method_all_events,319.6
+New England,census_division,2015,any_method_all_events,137.3
+New England,census_division,2016,any_method_all_events,211.1
+New England,census_division,2017,any_method_all_events,682.4
+New England,census_division,2018,any_method_all_events,715.4
+New England,census_division,2019,any_method_all_events,335.8
+New England,census_division,2020,any_method_all_events,1067.1
+New England,census_division,2021,any_method_all_events,364.0
+New England,census_division,2022,any_method_all_events,333.0
+New England,census_division,2023,any_method_all_events,480.5
+New England,census_division,2024,any_method_all_events,419.6
+New England,census_division,2014,any_method_without_major_events,114.5
+New England,census_division,2015,any_method_without_major_events,100.3
+New England,census_division,2016,any_method_without_major_events,131.9
+New England,census_division,2017,any_method_without_major_events,114.3
+New England,census_division,2018,any_method_without_major_events,124.2
+New England,census_division,2019,any_method_without_major_events,104.4
+New England,census_division,2020,any_method_without_major_events,144.5
+New England,census_division,2021,any_method_without_major_events,109.5
+New England,census_division,2022,any_method_without_major_events,104.2
+New England,census_division,2023,any_method_without_major_events,107.8
+New England,census_division,2024,any_method_without_major_events,112.3
+New England,census_division,2014,ieee_all_events,306.7
+New England,census_division,2015,ieee_all_events,145.7
+New England,census_division,2016,ieee_all_events,231.2
+New England,census_division,2017,ieee_all_events,776.5
+New England,census_division,2018,ieee_all_events,723.6
+New England,census_division,2019,ieee_all_events,351.5
+New England,census_division,2020,ieee_all_events,1272.9
+New England,census_division,2021,ieee_all_events,382.1
+New England,census_division,2022,ieee_all_events,309.3
+New England,census_division,2023,ieee_all_events,489.3
+New England,census_division,2024,ieee_all_events,389.8
+New England,census_division,2014,ieee_loss_of_supply_removed,303.4
+New England,census_division,2015,ieee_loss_of_supply_removed,140.0
+New England,census_division,2016,ieee_loss_of_supply_removed,229.4
+New England,census_division,2017,ieee_loss_of_supply_removed,780.4
+New England,census_division,2018,ieee_loss_of_supply_removed,721.4
+New England,census_division,2019,ieee_loss_of_supply_removed,351.7
+New England,census_division,2020,ieee_loss_of_supply_removed,1284.0
+New England,census_division,2021,ieee_loss_of_supply_removed,357.7
+New England,census_division,2022,ieee_loss_of_supply_removed,349.9
+New England,census_division,2023,ieee_loss_of_supply_removed,481.2
+New England,census_division,2024,ieee_loss_of_supply_removed,387.1
+New England,census_division,2014,ieee_without_major_events,109.4
+New England,census_division,2015,ieee_without_major_events,99.2
+New England,census_division,2016,ieee_without_major_events,126.3
+New England,census_division,2017,ieee_without_major_events,107.9
+New England,census_division,2018,ieee_without_major_events,119.1
+New England,census_division,2019,ieee_without_major_events,95.0
+New England,census_division,2020,ieee_without_major_events,101.9
+New England,census_division,2021,ieee_without_major_events,104.1
+New England,census_division,2022,ieee_without_major_events,98.2
+New England,census_division,2023,ieee_without_major_events,103.4
+New England,census_division,2024,ieee_without_major_events,101.4
+New Hampshire,state,2014,any_method_all_events,862.9
+New Hampshire,state,2015,any_method_all_events,149.3
+New Hampshire,state,2016,any_method_all_events,192.0
+New Hampshire,state,2017,any_method_all_events,1113.3
+New Hampshire,state,2018,any_method_all_events,508.8
+New Hampshire,state,2019,any_method_all_events,292.0
+New Hampshire,state,2020,any_method_all_events,499.4
+New Hampshire,state,2021,any_method_all_events,234.4
+New Hampshire,state,2022,any_method_all_events,616.7
+New Hampshire,state,2023,any_method_all_events,645.8
+New Hampshire,state,2024,any_method_all_events,922.7
+New Hampshire,state,2014,any_method_without_major_events,172.5
+New Hampshire,state,2015,any_method_without_major_events,138.2
+New Hampshire,state,2016,any_method_without_major_events,141.1
+New Hampshire,state,2017,any_method_without_major_events,151.1
+New Hampshire,state,2018,any_method_without_major_events,151.7
+New Hampshire,state,2019,any_method_without_major_events,111.0
+New Hampshire,state,2020,any_method_without_major_events,121.8
+New Hampshire,state,2021,any_method_without_major_events,127.1
+New Hampshire,state,2022,any_method_without_major_events,107.5
+New Hampshire,state,2023,any_method_without_major_events,124.6
+New Hampshire,state,2024,any_method_without_major_events,132.3
+New Hampshire,state,2014,ieee_all_events,815.3
+New Hampshire,state,2015,ieee_all_events,117.3
+New Hampshire,state,2016,ieee_all_events,192.5
+New Hampshire,state,2017,ieee_all_events,915.4
+New Hampshire,state,2018,ieee_all_events,450.8
+New Hampshire,state,2019,ieee_all_events,219.6
+New Hampshire,state,2020,ieee_all_events,408.5
+New Hampshire,state,2021,ieee_all_events,176.5
+New Hampshire,state,2022,ieee_all_events,495.5
+New Hampshire,state,2023,ieee_all_events,590.6
+New Hampshire,state,2024,ieee_all_events,735.5
+New Hampshire,state,2014,ieee_loss_of_supply_removed,821.9
+New Hampshire,state,2015,ieee_loss_of_supply_removed,117.0
+New Hampshire,state,2016,ieee_loss_of_supply_removed,190.9
+New Hampshire,state,2017,ieee_loss_of_supply_removed,915.0
+New Hampshire,state,2018,ieee_loss_of_supply_removed,449.7
+New Hampshire,state,2019,ieee_loss_of_supply_removed,219.6
+New Hampshire,state,2020,ieee_loss_of_supply_removed,407.9
+New Hampshire,state,2021,ieee_loss_of_supply_removed,165.0
+New Hampshire,state,2022,ieee_loss_of_supply_removed,487.4
+New Hampshire,state,2023,ieee_loss_of_supply_removed,587.7
+New Hampshire,state,2024,ieee_loss_of_supply_removed,733.0
+New Hampshire,state,2014,ieee_without_major_events,136.6
+New Hampshire,state,2015,ieee_without_major_events,104.8
+New Hampshire,state,2016,ieee_without_major_events,135.3
+New Hampshire,state,2017,ieee_without_major_events,120.5
+New Hampshire,state,2018,ieee_without_major_events,122.0
+New Hampshire,state,2019,ieee_without_major_events,84.9
+New Hampshire,state,2020,ieee_without_major_events,99.0
+New Hampshire,state,2021,ieee_without_major_events,98.3
+New Hampshire,state,2022,ieee_without_major_events,78.2
+New Hampshire,state,2023,ieee_without_major_events,89.3
+New Hampshire,state,2024,ieee_without_major_events,84.2
+New Jersey,state,2014,any_method_all_events,112.0
+New Jersey,state,2015,any_method_all_events,260.6
+New Jersey,state,2016,any_method_all_events,137.2
+New Jersey,state,2017,any_method_all_events,85.8
+New Jersey,state,2018,any_method_all_events,509.7
+New Jersey,state,2019,any_method_all_events,247.7
+New Jersey,state,2020,any_method_all_events,965.2
+New Jersey,state,2021,any_method_all_events,138.8
+New Jersey,state,2022,any_method_all_events,89.7
+New Jersey,state,2023,any_method_all_events,108.3
+New Jersey,state,2024,any_method_all_events,174.2
+New Jersey,state,2014,any_method_without_major_events,78.7
+New Jersey,state,2015,any_method_without_major_events,64.6
+New Jersey,state,2016,any_method_without_major_events,85.7
+New Jersey,state,2017,any_method_without_major_events,71.4
+New Jersey,state,2018,any_method_without_major_events,87.7
+New Jersey,state,2019,any_method_without_major_events,86.8
+New Jersey,state,2020,any_method_without_major_events,87.0
+New Jersey,state,2021,any_method_without_major_events,84.7
+New Jersey,state,2022,any_method_without_major_events,79.0
+New Jersey,state,2023,any_method_without_major_events,88.5
+New Jersey,state,2024,any_method_without_major_events,99.7
+New Jersey,state,2014,ieee_all_events,111.7
+New Jersey,state,2015,ieee_all_events,263.6
+New Jersey,state,2016,ieee_all_events,137.5
+New Jersey,state,2017,ieee_all_events,85.5
+New Jersey,state,2018,ieee_all_events,505.5
+New Jersey,state,2019,ieee_all_events,249.7
+New Jersey,state,2020,ieee_all_events,943.3
+New Jersey,state,2021,ieee_all_events,139.2
+New Jersey,state,2022,ieee_all_events,89.6
+New Jersey,state,2023,ieee_all_events,108.2
+New Jersey,state,2024,ieee_all_events,173.3
+New Jersey,state,2014,ieee_loss_of_supply_removed,109.1
+New Jersey,state,2015,ieee_loss_of_supply_removed,259.0
+New Jersey,state,2016,ieee_loss_of_supply_removed,115.7
+New Jersey,state,2017,ieee_loss_of_supply_removed,80.4
+New Jersey,state,2018,ieee_loss_of_supply_removed,491.6
+New Jersey,state,2019,ieee_loss_of_supply_removed,240.2
+New Jersey,state,2020,ieee_loss_of_supply_removed,911.3
+New Jersey,state,2021,ieee_loss_of_supply_removed,127.1
+New Jersey,state,2022,ieee_loss_of_supply_removed,81.4
+New Jersey,state,2023,ieee_loss_of_supply_removed,99.2
+New Jersey,state,2024,ieee_loss_of_supply_removed,161.2
+New Jersey,state,2014,ieee_without_major_events,78.3
+New Jersey,state,2015,ieee_without_major_events,64.0
+New Jersey,state,2016,ieee_without_major_events,85.0
+New Jersey,state,2017,ieee_without_major_events,71.0
+New Jersey,state,2018,ieee_without_major_events,87.4
+New Jersey,state,2019,ieee_without_major_events,86.4
+New Jersey,state,2020,ieee_without_major_events,86.5
+New Jersey,state,2021,ieee_without_major_events,84.3
+New Jersey,state,2022,ieee_without_major_events,78.7
+New Jersey,state,2023,ieee_without_major_events,88.0
+New Jersey,state,2024,ieee_without_major_events,98.8
+New Mexico,state,2014,any_method_all_events,82.4
+New Mexico,state,2015,any_method_all_events,122.3
+New Mexico,state,2016,any_method_all_events,136.3
+New Mexico,state,2017,any_method_all_events,140.6
+New Mexico,state,2018,any_method_all_events,138.3
+New Mexico,state,2019,any_method_all_events,170.2
+New Mexico,state,2020,any_method_all_events,148.2
+New Mexico,state,2021,any_method_all_events,221.2
+New Mexico,state,2022,any_method_all_events,182.6
+New Mexico,state,2023,any_method_all_events,168.9
+New Mexico,state,2024,any_method_all_events,278.8
+New Mexico,state,2014,any_method_without_major_events,79.8
+New Mexico,state,2015,any_method_without_major_events,99.2
+New Mexico,state,2016,any_method_without_major_events,104.1
+New Mexico,state,2017,any_method_without_major_events,115.7
+New Mexico,state,2018,any_method_without_major_events,126.0
+New Mexico,state,2019,any_method_without_major_events,128.4
+New Mexico,state,2020,any_method_without_major_events,118.8
+New Mexico,state,2021,any_method_without_major_events,131.7
+New Mexico,state,2022,any_method_without_major_events,129.1
+New Mexico,state,2023,any_method_without_major_events,132.3
+New Mexico,state,2024,any_method_without_major_events,156.5
+New Mexico,state,2014,ieee_all_events,74.5
+New Mexico,state,2015,ieee_all_events,108.8
+New Mexico,state,2016,ieee_all_events,130.4
+New Mexico,state,2017,ieee_all_events,121.2
+New Mexico,state,2018,ieee_all_events,132.9
+New Mexico,state,2019,ieee_all_events,158.2
+New Mexico,state,2020,ieee_all_events,140.1
+New Mexico,state,2021,ieee_all_events,204.3
+New Mexico,state,2022,ieee_all_events,175.2
+New Mexico,state,2023,ieee_all_events,156.0
+New Mexico,state,2024,ieee_all_events,272.6
+New Mexico,state,2014,ieee_loss_of_supply_removed,27.0
+New Mexico,state,2015,ieee_loss_of_supply_removed,53.3
+New Mexico,state,2016,ieee_loss_of_supply_removed,103.3
+New Mexico,state,2017,ieee_loss_of_supply_removed,105.1
+New Mexico,state,2018,ieee_loss_of_supply_removed,118.1
+New Mexico,state,2019,ieee_loss_of_supply_removed,141.6
+New Mexico,state,2020,ieee_loss_of_supply_removed,136.4
+New Mexico,state,2021,ieee_loss_of_supply_removed,190.9
+New Mexico,state,2022,ieee_loss_of_supply_removed,134.6
+New Mexico,state,2023,ieee_loss_of_supply_removed,139.0
+New Mexico,state,2024,ieee_loss_of_supply_removed,255.4
+New Mexico,state,2014,ieee_without_major_events,76.3
+New Mexico,state,2015,ieee_without_major_events,95.6
+New Mexico,state,2016,ieee_without_major_events,102.2
+New Mexico,state,2017,ieee_without_major_events,114.5
+New Mexico,state,2018,ieee_without_major_events,123.9
+New Mexico,state,2019,ieee_without_major_events,121.5
+New Mexico,state,2020,ieee_without_major_events,113.6
+New Mexico,state,2021,ieee_without_major_events,120.0
+New Mexico,state,2022,ieee_without_major_events,125.4
+New Mexico,state,2023,ieee_without_major_events,123.7
+New Mexico,state,2024,ieee_without_major_events,152.0
+New York,state,2014,any_method_all_events,92.7
+New York,state,2015,any_method_all_events,86.5
+New York,state,2016,any_method_all_events,107.2
+New York,state,2017,any_method_all_events,227.3
+New York,state,2018,any_method_all_events,405.5
+New York,state,2019,any_method_all_events,171.0
+New York,state,2020,any_method_all_events,407.7
+New York,state,2021,any_method_all_events,142.0
+New York,state,2022,any_method_all_events,203.0
+New York,state,2023,any_method_all_events,120.0
+New York,state,2024,any_method_all_events,219.9
+New York,state,2014,any_method_without_major_events,63.4
+New York,state,2015,any_method_without_major_events,76.0
+New York,state,2016,any_method_without_major_events,82.2
+New York,state,2017,any_method_without_major_events,72.0
+New York,state,2018,any_method_without_major_events,79.2
+New York,state,2019,any_method_without_major_events,78.9
+New York,state,2020,any_method_without_major_events,79.8
+New York,state,2021,any_method_without_major_events,80.3
+New York,state,2022,any_method_without_major_events,77.6
+New York,state,2023,any_method_without_major_events,70.0
+New York,state,2024,any_method_without_major_events,72.0
+New York,state,2014,ieee_all_events,198.0
+New York,state,2015,ieee_all_events,146.4
+New York,state,2016,ieee_all_events,206.1
+New York,state,2017,ieee_all_events,344.5
+New York,state,2018,ieee_all_events,396.5
+New York,state,2019,ieee_all_events,323.7
+New York,state,2020,ieee_all_events,447.4
+New York,state,2021,ieee_all_events,218.8
+New York,state,2022,ieee_all_events,347.7
+New York,state,2023,ieee_all_events,204.8
+New York,state,2024,ieee_all_events,477.3
+New York,state,2014,ieee_loss_of_supply_removed,198.0
+New York,state,2015,ieee_loss_of_supply_removed,143.0
+New York,state,2016,ieee_loss_of_supply_removed,185.1
+New York,state,2017,ieee_loss_of_supply_removed,350.0
+New York,state,2018,ieee_loss_of_supply_removed,402.7
+New York,state,2019,ieee_loss_of_supply_removed,327.5
+New York,state,2020,ieee_loss_of_supply_removed,455.1
+New York,state,2021,ieee_loss_of_supply_removed,221.0
+New York,state,2022,ieee_loss_of_supply_removed,354.0
+New York,state,2023,ieee_loss_of_supply_removed,207.5
+New York,state,2024,ieee_loss_of_supply_removed,483.6
+New York,state,2014,ieee_without_major_events,116.0
+New York,state,2015,ieee_without_major_events,137.6
+New York,state,2016,ieee_without_major_events,160.2
+New York,state,2017,ieee_without_major_events,132.1
+New York,state,2018,ieee_without_major_events,145.2
+New York,state,2019,ieee_without_major_events,136.9
+New York,state,2020,ieee_without_major_events,142.1
+New York,state,2021,ieee_without_major_events,131.5
+New York,state,2022,ieee_without_major_events,150.0
+New York,state,2023,ieee_without_major_events,130.1
+New York,state,2024,ieee_without_major_events,142.8
+North Carolina,state,2014,any_method_all_events,481.9
+North Carolina,state,2015,any_method_all_events,210.6
+North Carolina,state,2016,any_method_all_events,824.6
+North Carolina,state,2017,any_method_all_events,264.0
+North Carolina,state,2018,any_method_all_events,1761.5
+North Carolina,state,2019,any_method_all_events,287.6
+North Carolina,state,2020,any_method_all_events,417.9
+North Carolina,state,2021,any_method_all_events,205.5
+North Carolina,state,2022,any_method_all_events,456.3
+North Carolina,state,2023,any_method_all_events,252.0
+North Carolina,state,2024,any_method_all_events,1441.0
+North Carolina,state,2014,any_method_without_major_events,117.1
+North Carolina,state,2015,any_method_without_major_events,128.2
+North Carolina,state,2016,any_method_without_major_events,148.6
+North Carolina,state,2017,any_method_without_major_events,146.3
+North Carolina,state,2018,any_method_without_major_events,162.3
+North Carolina,state,2019,any_method_without_major_events,146.2
+North Carolina,state,2020,any_method_without_major_events,143.7
+North Carolina,state,2021,any_method_without_major_events,123.6
+North Carolina,state,2022,any_method_without_major_events,148.6
+North Carolina,state,2023,any_method_without_major_events,153.5
+North Carolina,state,2024,any_method_without_major_events,141.4
+North Carolina,state,2014,ieee_all_events,519.0
+North Carolina,state,2015,ieee_all_events,220.8
+North Carolina,state,2016,ieee_all_events,857.5
+North Carolina,state,2017,ieee_all_events,282.2
+North Carolina,state,2018,ieee_all_events,1877.6
+North Carolina,state,2019,ieee_all_events,287.5
+North Carolina,state,2020,ieee_all_events,437.4
+North Carolina,state,2021,ieee_all_events,215.2
+North Carolina,state,2022,ieee_all_events,486.0
+North Carolina,state,2023,ieee_all_events,262.5
+North Carolina,state,2024,ieee_all_events,1518.1
+North Carolina,state,2014,ieee_loss_of_supply_removed,471.1
+North Carolina,state,2015,ieee_loss_of_supply_removed,200.5
+North Carolina,state,2016,ieee_loss_of_supply_removed,852.6
+North Carolina,state,2017,ieee_loss_of_supply_removed,253.4
+North Carolina,state,2018,ieee_loss_of_supply_removed,1670.3
+North Carolina,state,2019,ieee_loss_of_supply_removed,266.1
+North Carolina,state,2020,ieee_loss_of_supply_removed,414.4
+North Carolina,state,2021,ieee_loss_of_supply_removed,207.3
+North Carolina,state,2022,ieee_loss_of_supply_removed,423.1
+North Carolina,state,2023,ieee_loss_of_supply_removed,249.9
+North Carolina,state,2024,ieee_loss_of_supply_removed,1475.0
+North Carolina,state,2014,ieee_without_major_events,118.7
+North Carolina,state,2015,ieee_without_major_events,131.3
+North Carolina,state,2016,ieee_without_major_events,152.1
+North Carolina,state,2017,ieee_without_major_events,151.1
+North Carolina,state,2018,ieee_without_major_events,168.0
+North Carolina,state,2019,ieee_without_major_events,147.0
+North Carolina,state,2020,ieee_without_major_events,146.0
+North Carolina,state,2021,ieee_without_major_events,125.9
+North Carolina,state,2022,ieee_without_major_events,150.7
+North Carolina,state,2023,ieee_without_major_events,156.4
+North Carolina,state,2024,ieee_without_major_events,143.9
+North Dakota,state,2014,any_method_all_events,87.0
+North Dakota,state,2015,any_method_all_events,113.9
+North Dakota,state,2016,any_method_all_events,123.8
+North Dakota,state,2017,any_method_all_events,85.9
+North Dakota,state,2018,any_method_all_events,94.4
+North Dakota,state,2019,any_method_all_events,107.1
+North Dakota,state,2020,any_method_all_events,101.1
+North Dakota,state,2021,any_method_all_events,85.4
+North Dakota,state,2022,any_method_all_events,559.6
+North Dakota,state,2023,any_method_all_events,208.6
+North Dakota,state,2024,any_method_all_events,99.1
+North Dakota,state,2014,any_method_without_major_events,87.0
+North Dakota,state,2015,any_method_without_major_events,99.0
+North Dakota,state,2016,any_method_without_major_events,108.3
+North Dakota,state,2017,any_method_without_major_events,67.5
+North Dakota,state,2018,any_method_without_major_events,95.2
+North Dakota,state,2019,any_method_without_major_events,74.3
+North Dakota,state,2020,any_method_without_major_events,82.5
+North Dakota,state,2021,any_method_without_major_events,85.9
+North Dakota,state,2022,any_method_without_major_events,99.6
+North Dakota,state,2023,any_method_without_major_events,89.9
+North Dakota,state,2024,any_method_without_major_events,84.2
+North Dakota,state,2014,ieee_all_events,102.5
+North Dakota,state,2015,ieee_all_events,113.6
+North Dakota,state,2016,ieee_all_events,152.8
+North Dakota,state,2017,ieee_all_events,91.2
+North Dakota,state,2018,ieee_all_events,111.2
+North Dakota,state,2019,ieee_all_events,132.6
+North Dakota,state,2020,ieee_all_events,123.3
+North Dakota,state,2021,ieee_all_events,101.6
+North Dakota,state,2022,ieee_all_events,677.6
+North Dakota,state,2023,ieee_all_events,262.3
+North Dakota,state,2024,ieee_all_events,102.7
+North Dakota,state,2014,ieee_loss_of_supply_removed,76.7
+North Dakota,state,2015,ieee_loss_of_supply_removed,80.2
+North Dakota,state,2016,ieee_loss_of_supply_removed,147.1
+North Dakota,state,2017,ieee_loss_of_supply_removed,81.8
+North Dakota,state,2018,ieee_loss_of_supply_removed,83.8
+North Dakota,state,2019,ieee_loss_of_supply_removed,131.6
+North Dakota,state,2020,ieee_loss_of_supply_removed,113.3
+North Dakota,state,2021,ieee_loss_of_supply_removed,77.0
+North Dakota,state,2022,ieee_loss_of_supply_removed,789.8
+North Dakota,state,2023,ieee_loss_of_supply_removed,259.0
+North Dakota,state,2024,ieee_loss_of_supply_removed,82.2
+North Dakota,state,2014,ieee_without_major_events,91.6
+North Dakota,state,2015,ieee_without_major_events,101.0
+North Dakota,state,2016,ieee_without_major_events,110.4
+North Dakota,state,2017,ieee_without_major_events,70.4
+North Dakota,state,2018,ieee_without_major_events,96.0
+North Dakota,state,2019,ieee_without_major_events,77.1
+North Dakota,state,2020,ieee_without_major_events,86.8
+North Dakota,state,2021,ieee_without_major_events,88.4
+North Dakota,state,2022,ieee_without_major_events,102.8
+North Dakota,state,2023,ieee_without_major_events,93.9
+North Dakota,state,2024,ieee_without_major_events,87.0
+Ohio,state,2014,any_method_all_events,187.9
+Ohio,state,2015,any_method_all_events,172.1
+Ohio,state,2016,any_method_all_events,174.1
+Ohio,state,2017,any_method_all_events,248.4
+Ohio,state,2018,any_method_all_events,242.0
+Ohio,state,2019,any_method_all_events,305.2
+Ohio,state,2020,any_method_all_events,283.4
+Ohio,state,2021,any_method_all_events,244.2
+Ohio,state,2022,any_method_all_events,413.2
+Ohio,state,2023,any_method_all_events,366.2
+Ohio,state,2024,any_method_all_events,510.5
+Ohio,state,2014,any_method_without_major_events,131.8
+Ohio,state,2015,any_method_without_major_events,141.0
+Ohio,state,2016,any_method_without_major_events,128.9
+Ohio,state,2017,any_method_without_major_events,143.4
+Ohio,state,2018,any_method_without_major_events,151.5
+Ohio,state,2019,any_method_without_major_events,146.0
+Ohio,state,2020,any_method_without_major_events,129.2
+Ohio,state,2021,any_method_without_major_events,135.9
+Ohio,state,2022,any_method_without_major_events,144.0
+Ohio,state,2023,any_method_without_major_events,127.0
+Ohio,state,2024,any_method_without_major_events,133.2
+Ohio,state,2014,ieee_all_events,185.5
+Ohio,state,2015,ieee_all_events,167.5
+Ohio,state,2016,ieee_all_events,169.5
+Ohio,state,2017,ieee_all_events,246.8
+Ohio,state,2018,ieee_all_events,240.3
+Ohio,state,2019,ieee_all_events,303.8
+Ohio,state,2020,ieee_all_events,283.6
+Ohio,state,2021,ieee_all_events,244.9
+Ohio,state,2022,ieee_all_events,413.6
+Ohio,state,2023,ieee_all_events,366.6
+Ohio,state,2024,ieee_all_events,511.0
+Ohio,state,2014,ieee_loss_of_supply_removed,142.1
+Ohio,state,2015,ieee_loss_of_supply_removed,149.8
+Ohio,state,2016,ieee_loss_of_supply_removed,142.1
+Ohio,state,2017,ieee_loss_of_supply_removed,225.1
+Ohio,state,2018,ieee_loss_of_supply_removed,210.4
+Ohio,state,2019,ieee_loss_of_supply_removed,277.4
+Ohio,state,2020,ieee_loss_of_supply_removed,261.5
+Ohio,state,2021,ieee_loss_of_supply_removed,191.7
+Ohio,state,2022,ieee_loss_of_supply_removed,318.9
+Ohio,state,2023,ieee_loss_of_supply_removed,336.0
+Ohio,state,2024,ieee_loss_of_supply_removed,500.3
+Ohio,state,2014,ieee_without_major_events,131.4
+Ohio,state,2015,ieee_without_major_events,139.4
+Ohio,state,2016,ieee_without_major_events,127.1
+Ohio,state,2017,ieee_without_major_events,141.8
+Ohio,state,2018,ieee_without_major_events,150.1
+Ohio,state,2019,ieee_without_major_events,145.2
+Ohio,state,2020,ieee_without_major_events,129.2
+Ohio,state,2021,ieee_without_major_events,136.0
+Ohio,state,2022,ieee_without_major_events,144.1
+Ohio,state,2023,ieee_without_major_events,127.1
+Ohio,state,2024,ieee_without_major_events,133.3
+Oklahoma,state,2014,any_method_all_events,119.1
+Oklahoma,state,2015,any_method_all_events,831.4
+Oklahoma,state,2016,any_method_all_events,316.6
+Oklahoma,state,2017,any_method_all_events,291.2
+Oklahoma,state,2018,any_method_all_events,175.6
+Oklahoma,state,2019,any_method_all_events,334.9
+Oklahoma,state,2020,any_method_all_events,2922.0
+Oklahoma,state,2021,any_method_all_events,179.4
+Oklahoma,state,2022,any_method_all_events,195.6
+Oklahoma,state,2023,any_method_all_events,896.6
+Oklahoma,state,2024,any_method_all_events,270.9
+Oklahoma,state,2014,any_method_without_major_events,104.1
+Oklahoma,state,2015,any_method_without_major_events,166.8
+Oklahoma,state,2016,any_method_without_major_events,149.5
+Oklahoma,state,2017,any_method_without_major_events,140.6
+Oklahoma,state,2018,any_method_without_major_events,127.2
+Oklahoma,state,2019,any_method_without_major_events,139.0
+Oklahoma,state,2020,any_method_without_major_events,144.3
+Oklahoma,state,2021,any_method_without_major_events,146.5
+Oklahoma,state,2022,any_method_without_major_events,144.2
+Oklahoma,state,2023,any_method_without_major_events,139.3
+Oklahoma,state,2024,any_method_without_major_events,119.6
+Oklahoma,state,2014,ieee_all_events,115.9
+Oklahoma,state,2015,ieee_all_events,597.0
+Oklahoma,state,2016,ieee_all_events,326.3
+Oklahoma,state,2017,ieee_all_events,194.0
+Oklahoma,state,2018,ieee_all_events,154.7
+Oklahoma,state,2019,ieee_all_events,186.2
+Oklahoma,state,2020,ieee_all_events,565.1
+Oklahoma,state,2021,ieee_all_events,165.9
+Oklahoma,state,2022,ieee_all_events,165.6
+Oklahoma,state,2023,ieee_all_events,1339.4
+Oklahoma,state,2024,ieee_all_events,220.7
+Oklahoma,state,2014,ieee_loss_of_supply_removed,92.1
+Oklahoma,state,2015,ieee_loss_of_supply_removed,346.0
+Oklahoma,state,2016,ieee_loss_of_supply_removed,316.1
+Oklahoma,state,2017,ieee_loss_of_supply_removed,147.8
+Oklahoma,state,2018,ieee_loss_of_supply_removed,135.5
+Oklahoma,state,2019,ieee_loss_of_supply_removed,153.5
+Oklahoma,state,2020,ieee_loss_of_supply_removed,475.5
+Oklahoma,state,2021,ieee_loss_of_supply_removed,132.9
+Oklahoma,state,2022,ieee_loss_of_supply_removed,141.7
+Oklahoma,state,2023,ieee_loss_of_supply_removed,1012.7
+Oklahoma,state,2024,ieee_loss_of_supply_removed,188.1
+Oklahoma,state,2014,ieee_without_major_events,102.6
+Oklahoma,state,2015,ieee_without_major_events,123.1
+Oklahoma,state,2016,ieee_without_major_events,122.3
+Oklahoma,state,2017,ieee_without_major_events,118.0
+Oklahoma,state,2018,ieee_without_major_events,113.9
+Oklahoma,state,2019,ieee_without_major_events,138.4
+Oklahoma,state,2020,ieee_without_major_events,139.3
+Oklahoma,state,2021,ieee_without_major_events,126.2
+Oklahoma,state,2022,ieee_without_major_events,122.4
+Oklahoma,state,2023,ieee_without_major_events,123.8
+Oklahoma,state,2024,ieee_without_major_events,121.3
+Oregon,state,2014,any_method_all_events,289.3
+Oregon,state,2015,any_method_all_events,212.6
+Oregon,state,2016,any_method_all_events,240.3
+Oregon,state,2017,any_method_all_events,295.7
+Oregon,state,2018,any_method_all_events,113.1
+Oregon,state,2019,any_method_all_events,221.6
+Oregon,state,2020,any_method_all_events,311.0
+Oregon,state,2021,any_method_all_events,1489.2
+Oregon,state,2022,any_method_all_events,322.9
+Oregon,state,2023,any_method_all_events,126.9
+Oregon,state,2024,any_method_all_events,591.0
+Oregon,state,2014,any_method_without_major_events,107.0
+Oregon,state,2015,any_method_without_major_events,102.1
+Oregon,state,2016,any_method_without_major_events,100.5
+Oregon,state,2017,any_method_without_major_events,111.2
+Oregon,state,2018,any_method_without_major_events,92.5
+Oregon,state,2019,any_method_without_major_events,103.6
+Oregon,state,2020,any_method_without_major_events,104.4
+Oregon,state,2021,any_method_without_major_events,116.5
+Oregon,state,2022,any_method_without_major_events,123.4
+Oregon,state,2023,any_method_without_major_events,108.0
+Oregon,state,2024,any_method_without_major_events,130.9
+Oregon,state,2014,ieee_all_events,259.9
+Oregon,state,2015,ieee_all_events,225.9
+Oregon,state,2016,ieee_all_events,233.5
+Oregon,state,2017,ieee_all_events,314.5
+Oregon,state,2018,ieee_all_events,111.4
+Oregon,state,2019,ieee_all_events,230.4
+Oregon,state,2020,ieee_all_events,325.9
+Oregon,state,2021,ieee_all_events,1588.3
+Oregon,state,2022,ieee_all_events,325.2
+Oregon,state,2023,ieee_all_events,122.9
+Oregon,state,2024,ieee_all_events,579.3
+Oregon,state,2014,ieee_loss_of_supply_removed,227.3
+Oregon,state,2015,ieee_loss_of_supply_removed,220.5
+Oregon,state,2016,ieee_loss_of_supply_removed,175.8
+Oregon,state,2017,ieee_loss_of_supply_removed,315.6
+Oregon,state,2018,ieee_loss_of_supply_removed,103.6
+Oregon,state,2019,ieee_loss_of_supply_removed,224.4
+Oregon,state,2020,ieee_loss_of_supply_removed,317.9
+Oregon,state,2021,ieee_loss_of_supply_removed,1500.8
+Oregon,state,2022,ieee_loss_of_supply_removed,304.0
+Oregon,state,2023,ieee_loss_of_supply_removed,115.9
+Oregon,state,2024,ieee_loss_of_supply_removed,547.0
+Oregon,state,2014,ieee_without_major_events,108.1
+Oregon,state,2015,ieee_without_major_events,102.2
+Oregon,state,2016,ieee_without_major_events,101.1
+Oregon,state,2017,ieee_without_major_events,111.6
+Oregon,state,2018,ieee_without_major_events,90.3
+Oregon,state,2019,ieee_without_major_events,101.6
+Oregon,state,2020,ieee_without_major_events,103.4
+Oregon,state,2021,ieee_without_major_events,113.9
+Oregon,state,2022,ieee_without_major_events,121.0
+Oregon,state,2023,ieee_without_major_events,103.5
+Oregon,state,2024,ieee_without_major_events,124.1
+Pacific Contiguous,census_division,2014,any_method_all_events,157.8
+Pacific Contiguous,census_division,2015,any_method_all_events,204.8
+Pacific Contiguous,census_division,2016,any_method_all_events,145.3
+Pacific Contiguous,census_division,2017,any_method_all_events,244.7
+Pacific Contiguous,census_division,2018,any_method_all_events,200.0
+Pacific Contiguous,census_division,2019,any_method_all_events,507.7
+Pacific Contiguous,census_division,2020,any_method_all_events,270.2
+Pacific Contiguous,census_division,2021,any_method_all_events,464.7
+Pacific Contiguous,census_division,2022,any_method_all_events,242.3
+Pacific Contiguous,census_division,2023,any_method_all_events,294.2
+Pacific Contiguous,census_division,2024,any_method_all_events,365.4
+Pacific Contiguous,census_division,2014,any_method_without_major_events,103.0
+Pacific Contiguous,census_division,2015,any_method_without_major_events,95.5
+Pacific Contiguous,census_division,2016,any_method_without_major_events,100.5
+Pacific Contiguous,census_division,2017,any_method_without_major_events,106.3
+Pacific Contiguous,census_division,2018,any_method_without_major_events,98.5
+Pacific Contiguous,census_division,2019,any_method_without_major_events,104.2
+Pacific Contiguous,census_division,2020,any_method_without_major_events,107.7
+Pacific Contiguous,census_division,2021,any_method_without_major_events,141.6
+Pacific Contiguous,census_division,2022,any_method_without_major_events,148.8
+Pacific Contiguous,census_division,2023,any_method_without_major_events,144.6
+Pacific Contiguous,census_division,2024,any_method_without_major_events,155.8
+Pacific Contiguous,census_division,2014,ieee_all_events,160.6
+Pacific Contiguous,census_division,2015,ieee_all_events,188.1
+Pacific Contiguous,census_division,2016,ieee_all_events,147.8
+Pacific Contiguous,census_division,2017,ieee_all_events,258.5
+Pacific Contiguous,census_division,2018,ieee_all_events,200.9
+Pacific Contiguous,census_division,2019,ieee_all_events,528.9
+Pacific Contiguous,census_division,2020,ieee_all_events,282.8
+Pacific Contiguous,census_division,2021,ieee_all_events,483.8
+Pacific Contiguous,census_division,2022,ieee_all_events,246.2
+Pacific Contiguous,census_division,2023,ieee_all_events,299.1
+Pacific Contiguous,census_division,2024,ieee_all_events,371.7
+Pacific Contiguous,census_division,2014,ieee_loss_of_supply_removed,158.6
+Pacific Contiguous,census_division,2015,ieee_loss_of_supply_removed,170.5
+Pacific Contiguous,census_division,2016,ieee_loss_of_supply_removed,141.4
+Pacific Contiguous,census_division,2017,ieee_loss_of_supply_removed,217.7
+Pacific Contiguous,census_division,2018,ieee_loss_of_supply_removed,159.8
+Pacific Contiguous,census_division,2019,ieee_loss_of_supply_removed,522.5
+Pacific Contiguous,census_division,2020,ieee_loss_of_supply_removed,266.3
+Pacific Contiguous,census_division,2021,ieee_loss_of_supply_removed,421.8
+Pacific Contiguous,census_division,2022,ieee_loss_of_supply_removed,232.3
+Pacific Contiguous,census_division,2023,ieee_loss_of_supply_removed,287.3
+Pacific Contiguous,census_division,2024,ieee_loss_of_supply_removed,380.0
+Pacific Contiguous,census_division,2014,ieee_without_major_events,106.1
+Pacific Contiguous,census_division,2015,ieee_without_major_events,97.2
+Pacific Contiguous,census_division,2016,ieee_without_major_events,103.5
+Pacific Contiguous,census_division,2017,ieee_without_major_events,108.8
+Pacific Contiguous,census_division,2018,ieee_without_major_events,101.0
+Pacific Contiguous,census_division,2019,ieee_without_major_events,106.1
+Pacific Contiguous,census_division,2020,ieee_without_major_events,110.4
+Pacific Contiguous,census_division,2021,ieee_without_major_events,145.5
+Pacific Contiguous,census_division,2022,ieee_without_major_events,152.8
+Pacific Contiguous,census_division,2023,ieee_without_major_events,147.8
+Pacific Contiguous,census_division,2024,ieee_without_major_events,159.6
+Pacific Noncontiguous,census_division,2014,any_method_all_events,274.1
+Pacific Noncontiguous,census_division,2015,any_method_all_events,361.1
+Pacific Noncontiguous,census_division,2016,any_method_all_events,151.7
+Pacific Noncontiguous,census_division,2017,any_method_all_events,216.6
+Pacific Noncontiguous,census_division,2018,any_method_all_events,243.9
+Pacific Noncontiguous,census_division,2019,any_method_all_events,226.2
+Pacific Noncontiguous,census_division,2020,any_method_all_events,174.3
+Pacific Noncontiguous,census_division,2021,any_method_all_events,285.5
+Pacific Noncontiguous,census_division,2022,any_method_all_events,330.8
+Pacific Noncontiguous,census_division,2023,any_method_all_events,448.4
+Pacific Noncontiguous,census_division,2024,any_method_all_events,323.0
+Pacific Noncontiguous,census_division,2014,any_method_without_major_events,126.3
+Pacific Noncontiguous,census_division,2015,any_method_without_major_events,127.0
+Pacific Noncontiguous,census_division,2016,any_method_without_major_events,123.6
+Pacific Noncontiguous,census_division,2017,any_method_without_major_events,119.3
+Pacific Noncontiguous,census_division,2018,any_method_without_major_events,163.9
+Pacific Noncontiguous,census_division,2019,any_method_without_major_events,134.1
+Pacific Noncontiguous,census_division,2020,any_method_without_major_events,140.8
+Pacific Noncontiguous,census_division,2021,any_method_without_major_events,145.5
+Pacific Noncontiguous,census_division,2022,any_method_without_major_events,162.9
+Pacific Noncontiguous,census_division,2023,any_method_without_major_events,184.6
+Pacific Noncontiguous,census_division,2024,any_method_without_major_events,213.7
+Pacific Noncontiguous,census_division,2014,ieee_all_events,312.0
+Pacific Noncontiguous,census_division,2015,ieee_all_events,332.4
+Pacific Noncontiguous,census_division,2016,ieee_all_events,149.1
+Pacific Noncontiguous,census_division,2017,ieee_all_events,215.4
+Pacific Noncontiguous,census_division,2018,ieee_all_events,250.2
+Pacific Noncontiguous,census_division,2019,ieee_all_events,218.0
+Pacific Noncontiguous,census_division,2020,ieee_all_events,174.0
+Pacific Noncontiguous,census_division,2021,ieee_all_events,537.3
+Pacific Noncontiguous,census_division,2022,ieee_all_events,891.3
+Pacific Noncontiguous,census_division,2023,ieee_all_events,456.2
+Pacific Noncontiguous,census_division,2024,ieee_all_events,329.8
+Pacific Noncontiguous,census_division,2014,ieee_loss_of_supply_removed,264.9
+Pacific Noncontiguous,census_division,2015,ieee_loss_of_supply_removed,782.3
+Pacific Noncontiguous,census_division,2016,ieee_loss_of_supply_removed,153.3
+Pacific Noncontiguous,census_division,2017,ieee_loss_of_supply_removed,225.5
+Pacific Noncontiguous,census_division,2018,ieee_loss_of_supply_removed,238.3
+Pacific Noncontiguous,census_division,2019,ieee_loss_of_supply_removed,209.3
+Pacific Noncontiguous,census_division,2020,ieee_loss_of_supply_removed,157.1
+Pacific Noncontiguous,census_division,2021,ieee_loss_of_supply_removed,501.7
+Pacific Noncontiguous,census_division,2022,ieee_loss_of_supply_removed,820.6
+Pacific Noncontiguous,census_division,2023,ieee_loss_of_supply_removed,472.5
+Pacific Noncontiguous,census_division,2024,ieee_loss_of_supply_removed,307.3
+Pacific Noncontiguous,census_division,2014,ieee_without_major_events,161.5
+Pacific Noncontiguous,census_division,2015,ieee_without_major_events,119.3
+Pacific Noncontiguous,census_division,2016,ieee_without_major_events,116.8
+Pacific Noncontiguous,census_division,2017,ieee_without_major_events,119.3
+Pacific Noncontiguous,census_division,2018,ieee_without_major_events,163.9
+Pacific Noncontiguous,census_division,2019,ieee_without_major_events,134.1
+Pacific Noncontiguous,census_division,2020,ieee_without_major_events,140.8
+Pacific Noncontiguous,census_division,2021,ieee_without_major_events,230.6
+Pacific Noncontiguous,census_division,2022,ieee_without_major_events,334.9
+Pacific Noncontiguous,census_division,2023,ieee_without_major_events,325.7
+Pacific Noncontiguous,census_division,2024,ieee_without_major_events,195.4
+Pennsylvania,state,2014,any_method_all_events,399.6
+Pennsylvania,state,2015,any_method_all_events,156.7
+Pennsylvania,state,2016,any_method_all_events,126.2
+Pennsylvania,state,2017,any_method_all_events,176.8
+Pennsylvania,state,2018,any_method_all_events,518.0
+Pennsylvania,state,2019,any_method_all_events,249.1
+Pennsylvania,state,2020,any_method_all_events,334.2
+Pennsylvania,state,2021,any_method_all_events,217.8
+Pennsylvania,state,2022,any_method_all_events,200.4
+Pennsylvania,state,2023,any_method_all_events,252.7
+Pennsylvania,state,2024,any_method_all_events,336.1
+Pennsylvania,state,2014,any_method_without_major_events,99.7
+Pennsylvania,state,2015,any_method_without_major_events,98.8
+Pennsylvania,state,2016,any_method_without_major_events,101.4
+Pennsylvania,state,2017,any_method_without_major_events,108.7
+Pennsylvania,state,2018,any_method_without_major_events,119.3
+Pennsylvania,state,2019,any_method_without_major_events,127.7
+Pennsylvania,state,2020,any_method_without_major_events,107.8
+Pennsylvania,state,2021,any_method_without_major_events,130.2
+Pennsylvania,state,2022,any_method_without_major_events,126.1
+Pennsylvania,state,2023,any_method_without_major_events,119.2
+Pennsylvania,state,2024,any_method_without_major_events,131.0
+Pennsylvania,state,2014,ieee_all_events,438.3
+Pennsylvania,state,2015,ieee_all_events,166.2
+Pennsylvania,state,2016,ieee_all_events,132.3
+Pennsylvania,state,2017,ieee_all_events,184.5
+Pennsylvania,state,2018,ieee_all_events,564.0
+Pennsylvania,state,2019,ieee_all_events,252.5
+Pennsylvania,state,2020,ieee_all_events,355.4
+Pennsylvania,state,2021,ieee_all_events,222.6
+Pennsylvania,state,2022,ieee_all_events,207.5
+Pennsylvania,state,2023,ieee_all_events,265.1
+Pennsylvania,state,2024,ieee_all_events,353.1
+Pennsylvania,state,2014,ieee_loss_of_supply_removed,426.9
+Pennsylvania,state,2015,ieee_loss_of_supply_removed,157.4
+Pennsylvania,state,2016,ieee_loss_of_supply_removed,122.1
+Pennsylvania,state,2017,ieee_loss_of_supply_removed,169.1
+Pennsylvania,state,2018,ieee_loss_of_supply_removed,551.3
+Pennsylvania,state,2019,ieee_loss_of_supply_removed,240.3
+Pennsylvania,state,2020,ieee_loss_of_supply_removed,343.6
+Pennsylvania,state,2021,ieee_loss_of_supply_removed,209.6
+Pennsylvania,state,2022,ieee_loss_of_supply_removed,195.1
+Pennsylvania,state,2023,ieee_loss_of_supply_removed,248.3
+Pennsylvania,state,2024,ieee_loss_of_supply_removed,340.9
+Pennsylvania,state,2014,ieee_without_major_events,104.1
+Pennsylvania,state,2015,ieee_without_major_events,102.1
+Pennsylvania,state,2016,ieee_without_major_events,105.1
+Pennsylvania,state,2017,ieee_without_major_events,108.4
+Pennsylvania,state,2018,ieee_without_major_events,122.8
+Pennsylvania,state,2019,ieee_without_major_events,130.5
+Pennsylvania,state,2020,ieee_without_major_events,107.5
+Pennsylvania,state,2021,ieee_without_major_events,125.2
+Pennsylvania,state,2022,ieee_without_major_events,125.4
+Pennsylvania,state,2023,ieee_without_major_events,125.9
+Pennsylvania,state,2024,ieee_without_major_events,131.5
+Rhode Island,state,2014,any_method_all_events,54.2
+Rhode Island,state,2015,any_method_all_events,341.8
+Rhode Island,state,2016,any_method_all_events,168.9
+Rhode Island,state,2017,any_method_all_events,728.3
+Rhode Island,state,2018,any_method_all_events,594.8
+Rhode Island,state,2019,any_method_all_events,236.5
+Rhode Island,state,2020,any_method_all_events,548.4
+Rhode Island,state,2021,any_method_all_events,448.6
+Rhode Island,state,2022,any_method_all_events,81.9
+Rhode Island,state,2023,any_method_all_events,104.6
+Rhode Island,state,2024,any_method_all_events,104.3
+Rhode Island,state,2014,any_method_without_major_events,54.2
+Rhode Island,state,2015,any_method_without_major_events,64.3
+Rhode Island,state,2016,any_method_without_major_events,69.1
+Rhode Island,state,2017,any_method_without_major_events,59.1
+Rhode Island,state,2018,any_method_without_major_events,65.1
+Rhode Island,state,2019,any_method_without_major_events,68.2
+Rhode Island,state,2020,any_method_without_major_events,69.1
+Rhode Island,state,2021,any_method_without_major_events,68.8
+Rhode Island,state,2022,any_method_without_major_events,63.2
+Rhode Island,state,2023,any_method_without_major_events,52.2
+Rhode Island,state,2024,any_method_without_major_events,60.8
+Rhode Island,state,2014,ieee_all_events,54.2
+Rhode Island,state,2015,ieee_all_events,341.8
+Rhode Island,state,2016,ieee_all_events,168.9
+Rhode Island,state,2017,ieee_all_events,728.3
+Rhode Island,state,2018,ieee_all_events,594.8
+Rhode Island,state,2019,ieee_all_events,236.5
+Rhode Island,state,2020,ieee_all_events,548.4
+Rhode Island,state,2021,ieee_all_events,448.6
+Rhode Island,state,2022,ieee_all_events,81.9
+Rhode Island,state,2023,ieee_all_events,104.6
+Rhode Island,state,2024,ieee_all_events,104.3
+Rhode Island,state,2014,ieee_loss_of_supply_removed,54.2
+Rhode Island,state,2015,ieee_loss_of_supply_removed,341.8
+Rhode Island,state,2016,ieee_loss_of_supply_removed,163.2
+Rhode Island,state,2017,ieee_loss_of_supply_removed,716.8
+Rhode Island,state,2018,ieee_loss_of_supply_removed,537.4
+Rhode Island,state,2019,ieee_loss_of_supply_removed,223.8
+Rhode Island,state,2020,ieee_loss_of_supply_removed,452.9
+Rhode Island,state,2021,ieee_loss_of_supply_removed,436.0
+Rhode Island,state,2022,ieee_loss_of_supply_removed,81.1
+Rhode Island,state,2023,ieee_loss_of_supply_removed,100.8
+Rhode Island,state,2024,ieee_loss_of_supply_removed,99.0
+Rhode Island,state,2014,ieee_without_major_events,54.2
+Rhode Island,state,2015,ieee_without_major_events,64.3
+Rhode Island,state,2016,ieee_without_major_events,69.1
+Rhode Island,state,2017,ieee_without_major_events,59.1
+Rhode Island,state,2018,ieee_without_major_events,65.1
+Rhode Island,state,2019,ieee_without_major_events,68.2
+Rhode Island,state,2020,ieee_without_major_events,69.1
+Rhode Island,state,2021,ieee_without_major_events,68.8
+Rhode Island,state,2022,ieee_without_major_events,63.2
+Rhode Island,state,2023,ieee_without_major_events,52.2
+Rhode Island,state,2024,ieee_without_major_events,60.8
+South Atlantic,census_division,2014,any_method_all_events,281.2
+South Atlantic,census_division,2015,any_method_all_events,185.6
+South Atlantic,census_division,2016,any_method_all_events,518.9
+South Atlantic,census_division,2017,any_method_all_events,1118.6
+South Atlantic,census_division,2018,any_method_all_events,615.0
+South Atlantic,census_division,2019,any_method_all_events,205.6
+South Atlantic,census_division,2020,any_method_all_events,307.2
+South Atlantic,census_division,2021,any_method_all_events,192.8
+South Atlantic,census_division,2022,any_method_all_events,663.7
+South Atlantic,census_division,2023,any_method_all_events,227.4
+South Atlantic,census_division,2024,any_method_all_events,1247.3
+South Atlantic,census_division,2014,any_method_without_major_events,115.5
+South Atlantic,census_division,2015,any_method_without_major_events,119.3
+South Atlantic,census_division,2016,any_method_without_major_events,128.6
+South Atlantic,census_division,2017,any_method_without_major_events,119.9
+South Atlantic,census_division,2018,any_method_without_major_events,131.9
+South Atlantic,census_division,2019,any_method_without_major_events,123.7
+South Atlantic,census_division,2020,any_method_without_major_events,121.5
+South Atlantic,census_division,2021,any_method_without_major_events,112.1
+South Atlantic,census_division,2022,any_method_without_major_events,125.6
+South Atlantic,census_division,2023,any_method_without_major_events,117.5
+South Atlantic,census_division,2024,any_method_without_major_events,129.3
+South Atlantic,census_division,2014,ieee_all_events,309.4
+South Atlantic,census_division,2015,ieee_all_events,195.4
+South Atlantic,census_division,2016,ieee_all_events,576.5
+South Atlantic,census_division,2017,ieee_all_events,1241.6
+South Atlantic,census_division,2018,ieee_all_events,639.0
+South Atlantic,census_division,2019,ieee_all_events,206.0
+South Atlantic,census_division,2020,ieee_all_events,321.4
+South Atlantic,census_division,2021,ieee_all_events,191.2
+South Atlantic,census_division,2022,ieee_all_events,615.8
+South Atlantic,census_division,2023,ieee_all_events,240.4
+South Atlantic,census_division,2024,ieee_all_events,1405.8
+South Atlantic,census_division,2014,ieee_loss_of_supply_removed,379.2
+South Atlantic,census_division,2015,ieee_loss_of_supply_removed,183.5
+South Atlantic,census_division,2016,ieee_loss_of_supply_removed,559.7
+South Atlantic,census_division,2017,ieee_loss_of_supply_removed,1237.8
+South Atlantic,census_division,2018,ieee_loss_of_supply_removed,630.8
+South Atlantic,census_division,2019,ieee_loss_of_supply_removed,196.5
+South Atlantic,census_division,2020,ieee_loss_of_supply_removed,283.3
+South Atlantic,census_division,2021,ieee_loss_of_supply_removed,184.8
+South Atlantic,census_division,2022,ieee_loss_of_supply_removed,635.0
+South Atlantic,census_division,2023,ieee_loss_of_supply_removed,211.7
+South Atlantic,census_division,2024,ieee_loss_of_supply_removed,1352.3
+South Atlantic,census_division,2014,ieee_without_major_events,119.7
+South Atlantic,census_division,2015,ieee_without_major_events,123.2
+South Atlantic,census_division,2016,ieee_without_major_events,129.3
+South Atlantic,census_division,2017,ieee_without_major_events,122.4
+South Atlantic,census_division,2018,ieee_without_major_events,135.3
+South Atlantic,census_division,2019,ieee_without_major_events,124.2
+South Atlantic,census_division,2020,ieee_without_major_events,122.6
+South Atlantic,census_division,2021,ieee_without_major_events,113.0
+South Atlantic,census_division,2022,ieee_without_major_events,127.9
+South Atlantic,census_division,2023,ieee_without_major_events,119.7
+South Atlantic,census_division,2024,ieee_without_major_events,133.1
+South Carolina,state,2014,any_method_all_events,799.5
+South Carolina,state,2015,any_method_all_events,224.1
+South Carolina,state,2016,any_method_all_events,1645.4
+South Carolina,state,2017,any_method_all_events,372.8
+South Carolina,state,2018,any_method_all_events,470.5
+South Carolina,state,2019,any_method_all_events,326.5
+South Carolina,state,2020,any_method_all_events,323.8
+South Carolina,state,2021,any_method_all_events,120.9
+South Carolina,state,2022,any_method_all_events,301.1
+South Carolina,state,2023,any_method_all_events,167.2
+South Carolina,state,2024,any_method_all_events,3136.5
+South Carolina,state,2014,any_method_without_major_events,100.1
+South Carolina,state,2015,any_method_without_major_events,119.3
+South Carolina,state,2016,any_method_without_major_events,121.3
+South Carolina,state,2017,any_method_without_major_events,117.8
+South Carolina,state,2018,any_method_without_major_events,137.0
+South Carolina,state,2019,any_method_without_major_events,105.6
+South Carolina,state,2020,any_method_without_major_events,119.9
+South Carolina,state,2021,any_method_without_major_events,100.7
+South Carolina,state,2022,any_method_without_major_events,114.8
+South Carolina,state,2023,any_method_without_major_events,126.1
+South Carolina,state,2024,any_method_without_major_events,117.8
+South Carolina,state,2014,ieee_all_events,787.0
+South Carolina,state,2015,ieee_all_events,234.3
+South Carolina,state,2016,ieee_all_events,1698.8
+South Carolina,state,2017,ieee_all_events,386.9
+South Carolina,state,2018,ieee_all_events,488.6
+South Carolina,state,2019,ieee_all_events,338.2
+South Carolina,state,2020,ieee_all_events,332.6
+South Carolina,state,2021,ieee_all_events,122.9
+South Carolina,state,2022,ieee_all_events,302.4
+South Carolina,state,2023,ieee_all_events,169.8
+South Carolina,state,2024,ieee_all_events,3155.0
+South Carolina,state,2014,ieee_loss_of_supply_removed,777.9
+South Carolina,state,2015,ieee_loss_of_supply_removed,195.3
+South Carolina,state,2016,ieee_loss_of_supply_removed,1663.3
+South Carolina,state,2017,ieee_loss_of_supply_removed,371.1
+South Carolina,state,2018,ieee_loss_of_supply_removed,463.6
+South Carolina,state,2019,ieee_loss_of_supply_removed,319.8
+South Carolina,state,2020,ieee_loss_of_supply_removed,308.9
+South Carolina,state,2021,ieee_loss_of_supply_removed,106.2
+South Carolina,state,2022,ieee_loss_of_supply_removed,274.4
+South Carolina,state,2023,ieee_loss_of_supply_removed,140.4
+South Carolina,state,2024,ieee_loss_of_supply_removed,2972.9
+South Carolina,state,2014,ieee_without_major_events,102.0
+South Carolina,state,2015,ieee_without_major_events,121.9
+South Carolina,state,2016,ieee_without_major_events,122.1
+South Carolina,state,2017,ieee_without_major_events,119.4
+South Carolina,state,2018,ieee_without_major_events,138.8
+South Carolina,state,2019,ieee_without_major_events,106.3
+South Carolina,state,2020,ieee_without_major_events,121.3
+South Carolina,state,2021,ieee_without_major_events,101.3
+South Carolina,state,2022,ieee_without_major_events,114.8
+South Carolina,state,2023,ieee_without_major_events,126.5
+South Carolina,state,2024,ieee_without_major_events,115.9
+South Dakota,state,2014,any_method_all_events,115.8
+South Dakota,state,2015,any_method_all_events,133.3
+South Dakota,state,2016,any_method_all_events,252.2
+South Dakota,state,2017,any_method_all_events,100.6
+South Dakota,state,2018,any_method_all_events,92.1
+South Dakota,state,2019,any_method_all_events,295.0
+South Dakota,state,2020,any_method_all_events,97.3
+South Dakota,state,2021,any_method_all_events,105.6
+South Dakota,state,2022,any_method_all_events,327.1
+South Dakota,state,2023,any_method_all_events,77.0
+South Dakota,state,2024,any_method_all_events,84.7
+South Dakota,state,2014,any_method_without_major_events,106.2
+South Dakota,state,2015,any_method_without_major_events,106.5
+South Dakota,state,2016,any_method_without_major_events,83.8
+South Dakota,state,2017,any_method_without_major_events,81.2
+South Dakota,state,2018,any_method_without_major_events,74.0
+South Dakota,state,2019,any_method_without_major_events,106.7
+South Dakota,state,2020,any_method_without_major_events,73.2
+South Dakota,state,2021,any_method_without_major_events,62.7
+South Dakota,state,2022,any_method_without_major_events,123.5
+South Dakota,state,2023,any_method_without_major_events,63.2
+South Dakota,state,2024,any_method_without_major_events,62.1
+South Dakota,state,2014,ieee_all_events,120.6
+South Dakota,state,2015,ieee_all_events,135.0
+South Dakota,state,2016,ieee_all_events,255.8
+South Dakota,state,2017,ieee_all_events,101.7
+South Dakota,state,2018,ieee_all_events,93.1
+South Dakota,state,2019,ieee_all_events,311.4
+South Dakota,state,2020,ieee_all_events,97.4
+South Dakota,state,2021,ieee_all_events,101.3
+South Dakota,state,2022,ieee_all_events,338.3
+South Dakota,state,2023,ieee_all_events,78.1
+South Dakota,state,2024,ieee_all_events,85.6
+South Dakota,state,2014,ieee_loss_of_supply_removed,93.5
+South Dakota,state,2015,ieee_loss_of_supply_removed,98.1
+South Dakota,state,2016,ieee_loss_of_supply_removed,119.1
+South Dakota,state,2017,ieee_loss_of_supply_removed,87.7
+South Dakota,state,2018,ieee_loss_of_supply_removed,75.7
+South Dakota,state,2019,ieee_loss_of_supply_removed,250.6
+South Dakota,state,2020,ieee_loss_of_supply_removed,86.7
+South Dakota,state,2021,ieee_loss_of_supply_removed,78.2
+South Dakota,state,2022,ieee_loss_of_supply_removed,244.7
+South Dakota,state,2023,ieee_loss_of_supply_removed,62.2
+South Dakota,state,2024,ieee_loss_of_supply_removed,67.5
+South Dakota,state,2014,ieee_without_major_events,107.9
+South Dakota,state,2015,ieee_without_major_events,107.6
+South Dakota,state,2016,ieee_without_major_events,84.4
+South Dakota,state,2017,ieee_without_major_events,80.3
+South Dakota,state,2018,ieee_without_major_events,73.0
+South Dakota,state,2019,ieee_without_major_events,108.2
+South Dakota,state,2020,ieee_without_major_events,71.5
+South Dakota,state,2021,ieee_without_major_events,61.9
+South Dakota,state,2022,ieee_without_major_events,126.3
+South Dakota,state,2023,ieee_without_major_events,63.9
+South Dakota,state,2024,ieee_without_major_events,61.5
+Tennessee,state,2014,any_method_all_events,225.0
+Tennessee,state,2015,any_method_all_events,222.4
+Tennessee,state,2016,any_method_all_events,197.2
+Tennessee,state,2017,any_method_all_events,512.8
+Tennessee,state,2018,any_method_all_events,199.8
+Tennessee,state,2019,any_method_all_events,266.9
+Tennessee,state,2020,any_method_all_events,588.0
+Tennessee,state,2021,any_method_all_events,302.7
+Tennessee,state,2022,any_method_all_events,404.5
+Tennessee,state,2023,any_method_all_events,857.9
+Tennessee,state,2024,any_method_all_events,278.6
+Tennessee,state,2014,any_method_without_major_events,131.0
+Tennessee,state,2015,any_method_without_major_events,124.9
+Tennessee,state,2016,any_method_without_major_events,144.4
+Tennessee,state,2017,any_method_without_major_events,142.4
+Tennessee,state,2018,any_method_without_major_events,139.6
+Tennessee,state,2019,any_method_without_major_events,161.4
+Tennessee,state,2020,any_method_without_major_events,148.4
+Tennessee,state,2021,any_method_without_major_events,149.4
+Tennessee,state,2022,any_method_without_major_events,188.3
+Tennessee,state,2023,any_method_without_major_events,186.1
+Tennessee,state,2024,any_method_without_major_events,159.5
+Tennessee,state,2014,ieee_all_events,277.7
+Tennessee,state,2015,ieee_all_events,257.5
+Tennessee,state,2016,ieee_all_events,212.9
+Tennessee,state,2017,ieee_all_events,621.5
+Tennessee,state,2018,ieee_all_events,217.5
+Tennessee,state,2019,ieee_all_events,252.9
+Tennessee,state,2020,ieee_all_events,618.4
+Tennessee,state,2021,ieee_all_events,316.8
+Tennessee,state,2022,ieee_all_events,428.3
+Tennessee,state,2023,ieee_all_events,926.9
+Tennessee,state,2024,ieee_all_events,289.3
+Tennessee,state,2014,ieee_loss_of_supply_removed,263.0
+Tennessee,state,2015,ieee_loss_of_supply_removed,256.3
+Tennessee,state,2016,ieee_loss_of_supply_removed,206.4
+Tennessee,state,2017,ieee_loss_of_supply_removed,603.1
+Tennessee,state,2018,ieee_loss_of_supply_removed,213.1
+Tennessee,state,2019,ieee_loss_of_supply_removed,251.6
+Tennessee,state,2020,ieee_loss_of_supply_removed,601.1
+Tennessee,state,2021,ieee_loss_of_supply_removed,299.5
+Tennessee,state,2022,ieee_loss_of_supply_removed,425.9
+Tennessee,state,2023,ieee_loss_of_supply_removed,933.4
+Tennessee,state,2024,ieee_loss_of_supply_removed,283.3
+Tennessee,state,2014,ieee_without_major_events,143.9
+Tennessee,state,2015,ieee_without_major_events,134.6
+Tennessee,state,2016,ieee_without_major_events,141.6
+Tennessee,state,2017,ieee_without_major_events,141.7
+Tennessee,state,2018,ieee_without_major_events,145.6
+Tennessee,state,2019,ieee_without_major_events,160.4
+Tennessee,state,2020,ieee_without_major_events,144.5
+Tennessee,state,2021,ieee_without_major_events,151.7
+Tennessee,state,2022,ieee_without_major_events,194.1
+Tennessee,state,2023,ieee_without_major_events,192.7
+Tennessee,state,2024,ieee_without_major_events,169.9
+Texas,state,2014,any_method_all_events,192.5
+Texas,state,2015,any_method_all_events,271.7
+Texas,state,2016,any_method_all_events,210.8
+Texas,state,2017,any_method_all_events,477.6
+Texas,state,2018,any_method_all_events,167.2
+Texas,state,2019,any_method_all_events,290.7
+Texas,state,2020,any_method_all_events,432.7
+Texas,state,2021,any_method_all_events,1175.3
+Texas,state,2022,any_method_all_events,212.0
+Texas,state,2023,any_method_all_events,496.2
+Texas,state,2024,any_method_all_events,1270.6
+Texas,state,2014,any_method_without_major_events,116.9
+Texas,state,2015,any_method_without_major_events,139.1
+Texas,state,2016,any_method_without_major_events,129.3
+Texas,state,2017,any_method_without_major_events,133.8
+Texas,state,2018,any_method_without_major_events,113.7
+Texas,state,2019,any_method_without_major_events,121.8
+Texas,state,2020,any_method_without_major_events,163.7
+Texas,state,2021,any_method_without_major_events,147.4
+Texas,state,2022,any_method_without_major_events,127.5
+Texas,state,2023,any_method_without_major_events,124.7
+Texas,state,2024,any_method_without_major_events,129.4
+Texas,state,2014,ieee_all_events,198.6
+Texas,state,2015,ieee_all_events,279.8
+Texas,state,2016,ieee_all_events,216.8
+Texas,state,2017,ieee_all_events,486.8
+Texas,state,2018,ieee_all_events,170.4
+Texas,state,2019,ieee_all_events,254.8
+Texas,state,2020,ieee_all_events,419.4
+Texas,state,2021,ieee_all_events,1496.4
+Texas,state,2022,ieee_all_events,204.6
+Texas,state,2023,ieee_all_events,583.1
+Texas,state,2024,ieee_all_events,1614.3
+Texas,state,2014,ieee_loss_of_supply_removed,206.6
+Texas,state,2015,ieee_loss_of_supply_removed,270.2
+Texas,state,2016,ieee_loss_of_supply_removed,208.7
+Texas,state,2017,ieee_loss_of_supply_removed,457.5
+Texas,state,2018,ieee_loss_of_supply_removed,165.9
+Texas,state,2019,ieee_loss_of_supply_removed,248.4
+Texas,state,2020,ieee_loss_of_supply_removed,426.3
+Texas,state,2021,ieee_loss_of_supply_removed,683.7
+Texas,state,2022,ieee_loss_of_supply_removed,202.6
+Texas,state,2023,ieee_loss_of_supply_removed,604.3
+Texas,state,2024,ieee_loss_of_supply_removed,1724.6
+Texas,state,2014,ieee_without_major_events,118.6
+Texas,state,2015,ieee_without_major_events,143.0
+Texas,state,2016,ieee_without_major_events,132.7
+Texas,state,2017,ieee_without_major_events,135.1
+Texas,state,2018,ieee_without_major_events,130.2
+Texas,state,2019,ieee_without_major_events,141.4
+Texas,state,2020,ieee_without_major_events,132.7
+Texas,state,2021,ieee_without_major_events,174.7
+Texas,state,2022,ieee_without_major_events,153.7
+Texas,state,2023,ieee_without_major_events,150.3
+Texas,state,2024,ieee_without_major_events,153.4
+U.S. Total,us_total,2014,any_method_all_events,219.0
+U.S. Total,us_total,2015,any_method_all_events,205.0
+U.S. Total,us_total,2016,any_method_all_events,249.2
+U.S. Total,us_total,2017,any_method_all_events,473.1
+U.S. Total,us_total,2018,any_method_all_events,346.4
+U.S. Total,us_total,2019,any_method_all_events,284.6
+U.S. Total,us_total,2020,any_method_all_events,491.9
+U.S. Total,us_total,2021,any_method_all_events,440.0
+U.S. Total,us_total,2022,any_method_all_events,335.5
+U.S. Total,us_total,2023,any_method_all_events,342.0
+U.S. Total,us_total,2024,any_method_all_events,611.3
+U.S. Total,us_total,2014,any_method_without_major_events,109.7
+U.S. Total,us_total,2015,any_method_without_major_events,113.1
+U.S. Total,us_total,2016,any_method_without_major_events,116.9
+U.S. Total,us_total,2017,any_method_without_major_events,114.4
+U.S. Total,us_total,2018,any_method_without_major_events,117.2
+U.S. Total,us_total,2019,any_method_without_major_events,118.6
+U.S. Total,us_total,2020,any_method_without_major_events,119.0
+U.S. Total,us_total,2021,any_method_without_major_events,121.5
+U.S. Total,us_total,2022,any_method_without_major_events,125.7
+U.S. Total,us_total,2023,any_method_without_major_events,118.4
+U.S. Total,us_total,2024,any_method_without_major_events,126.0
+U.S. Total,us_total,2014,ieee_all_events,236.2
+U.S. Total,us_total,2015,ieee_all_events,209.0
+U.S. Total,us_total,2016,ieee_all_events,268.4
+U.S. Total,us_total,2017,ieee_all_events,505.9
+U.S. Total,us_total,2018,ieee_all_events,349.2
+U.S. Total,us_total,2019,ieee_all_events,295.5
+U.S. Total,us_total,2020,ieee_all_events,456.1
+U.S. Total,us_total,2021,ieee_all_events,475.8
+U.S. Total,us_total,2022,ieee_all_events,333.0
+U.S. Total,us_total,2023,ieee_all_events,366.6
+U.S. Total,us_total,2024,ieee_all_events,662.6
+U.S. Total,us_total,2014,ieee_loss_of_supply_removed,244.8
+U.S. Total,us_total,2015,ieee_loss_of_supply_removed,198.2
+U.S. Total,us_total,2016,ieee_loss_of_supply_removed,257.0
+U.S. Total,us_total,2017,ieee_loss_of_supply_removed,489.6
+U.S. Total,us_total,2018,ieee_loss_of_supply_removed,338.5
+U.S. Total,us_total,2019,ieee_loss_of_supply_removed,289.1
+U.S. Total,us_total,2020,ieee_loss_of_supply_removed,460.5
+U.S. Total,us_total,2021,ieee_loss_of_supply_removed,404.5
+U.S. Total,us_total,2022,ieee_loss_of_supply_removed,324.7
+U.S. Total,us_total,2023,ieee_loss_of_supply_removed,357.7
+U.S. Total,us_total,2024,ieee_loss_of_supply_removed,646.1
+U.S. Total,us_total,2014,ieee_without_major_events,114.2
+U.S. Total,us_total,2015,ieee_without_major_events,117.0
+U.S. Total,us_total,2016,ieee_without_major_events,119.8
+U.S. Total,us_total,2017,ieee_without_major_events,117.0
+U.S. Total,us_total,2018,ieee_without_major_events,121.4
+U.S. Total,us_total,2019,ieee_without_major_events,122.2
+U.S. Total,us_total,2020,ieee_without_major_events,116.0
+U.S. Total,us_total,2021,ieee_without_major_events,125.7
+U.S. Total,us_total,2022,ieee_without_major_events,131.1
+U.S. Total,us_total,2023,ieee_without_major_events,123.9
+U.S. Total,us_total,2024,ieee_without_major_events,131.6
+Utah,state,2014,any_method_all_events,187.2
+Utah,state,2015,any_method_all_events,199.6
+Utah,state,2016,any_method_all_events,190.1
+Utah,state,2017,any_method_all_events,139.0
+Utah,state,2018,any_method_all_events,125.3
+Utah,state,2019,any_method_all_events,146.2
+Utah,state,2020,any_method_all_events,575.1
+Utah,state,2021,any_method_all_events,116.0
+Utah,state,2022,any_method_all_events,111.3
+Utah,state,2023,any_method_all_events,127.1
+Utah,state,2024,any_method_all_events,119.8
+Utah,state,2014,any_method_without_major_events,148.9
+Utah,state,2015,any_method_without_major_events,155.5
+Utah,state,2016,any_method_without_major_events,105.6
+Utah,state,2017,any_method_without_major_events,114.6
+Utah,state,2018,any_method_without_major_events,126.6
+Utah,state,2019,any_method_without_major_events,115.4
+Utah,state,2020,any_method_without_major_events,101.5
+Utah,state,2021,any_method_without_major_events,100.9
+Utah,state,2022,any_method_without_major_events,100.4
+Utah,state,2023,any_method_without_major_events,109.8
+Utah,state,2024,any_method_without_major_events,106.7
+Utah,state,2014,ieee_all_events,193.9
+Utah,state,2015,ieee_all_events,203.2
+Utah,state,2016,ieee_all_events,193.4
+Utah,state,2017,ieee_all_events,142.1
+Utah,state,2018,ieee_all_events,115.5
+Utah,state,2019,ieee_all_events,144.4
+Utah,state,2020,ieee_all_events,591.8
+Utah,state,2021,ieee_all_events,113.4
+Utah,state,2022,ieee_all_events,108.7
+Utah,state,2023,ieee_all_events,127.7
+Utah,state,2024,ieee_all_events,115.4
+Utah,state,2014,ieee_loss_of_supply_removed,167.9
+Utah,state,2015,ieee_loss_of_supply_removed,217.6
+Utah,state,2016,ieee_loss_of_supply_removed,206.4
+Utah,state,2017,ieee_loss_of_supply_removed,139.1
+Utah,state,2018,ieee_loss_of_supply_removed,119.8
+Utah,state,2019,ieee_loss_of_supply_removed,140.5
+Utah,state,2020,ieee_loss_of_supply_removed,614.0
+Utah,state,2021,ieee_loss_of_supply_removed,114.9
+Utah,state,2022,ieee_loss_of_supply_removed,103.4
+Utah,state,2023,ieee_loss_of_supply_removed,119.9
+Utah,state,2024,ieee_loss_of_supply_removed,108.9
+Utah,state,2014,ieee_without_major_events,151.0
+Utah,state,2015,ieee_without_major_events,156.4
+Utah,state,2016,ieee_without_major_events,106.1
+Utah,state,2017,ieee_without_major_events,116.3
+Utah,state,2018,ieee_without_major_events,115.5
+Utah,state,2019,ieee_without_major_events,110.8
+Utah,state,2020,ieee_without_major_events,100.9
+Utah,state,2021,ieee_without_major_events,98.0
+Utah,state,2022,ieee_without_major_events,96.6
+Utah,state,2023,ieee_without_major_events,108.5
+Utah,state,2024,ieee_without_major_events,105.0
+Vermont,state,2014,any_method_all_events,745.0
+Vermont,state,2015,any_method_all_events,204.2
+Vermont,state,2016,any_method_all_events,359.4
+Vermont,state,2017,any_method_all_events,873.9
+Vermont,state,2018,any_method_all_events,897.6
+Vermont,state,2019,any_method_all_events,443.8
+Vermont,state,2020,any_method_all_events,255.6
+Vermont,state,2021,any_method_all_events,313.2
+Vermont,state,2022,any_method_all_events,963.5
+Vermont,state,2023,any_method_all_events,744.4
+Vermont,state,2024,any_method_all_events,696.7
+Vermont,state,2014,any_method_without_major_events,216.4
+Vermont,state,2015,any_method_without_major_events,205.6
+Vermont,state,2016,any_method_without_major_events,273.2
+Vermont,state,2017,any_method_without_major_events,246.4
+Vermont,state,2018,any_method_without_major_events,262.1
+Vermont,state,2019,any_method_without_major_events,170.1
+Vermont,state,2020,any_method_without_major_events,255.6
+Vermont,state,2021,any_method_without_major_events,262.4
+Vermont,state,2022,any_method_without_major_events,267.6
+Vermont,state,2023,any_method_without_major_events,221.3
+Vermont,state,2024,any_method_without_major_events,275.0
+Vermont,state,2014,ieee_all_events,240.0
+Vermont,state,2015,ieee_all_events,193.4
+Vermont,state,2016,ieee_all_events,198.8
+Vermont,state,2017,ieee_all_events,1792.4
+Vermont,state,2018,ieee_all_events,929.8
+Vermont,state,2019,ieee_all_events,334.0
+Vermont,state,2020,ieee_all_events,158.4
+Vermont,state,2021,ieee_all_events,215.3
+Vermont,state,2022,ieee_all_events,914.6
+Vermont,state,2023,ieee_all_events,486.3
+Vermont,state,2024,ieee_all_events,895.8
+Vermont,state,2014,ieee_loss_of_supply_removed,240.0
+Vermont,state,2015,ieee_loss_of_supply_removed,179.4
+Vermont,state,2016,ieee_loss_of_supply_removed,187.4
+Vermont,state,2017,ieee_loss_of_supply_removed,1782.7
+Vermont,state,2018,ieee_loss_of_supply_removed,732.1
+Vermont,state,2019,ieee_loss_of_supply_removed,329.4
+Vermont,state,2020,ieee_loss_of_supply_removed,151.0
+Vermont,state,2021,ieee_loss_of_supply_removed,210.1
+Vermont,state,2022,ieee_loss_of_supply_removed,877.6
+Vermont,state,2023,ieee_loss_of_supply_removed,480.1
+Vermont,state,2024,ieee_loss_of_supply_removed,884.6
+Vermont,state,2014,ieee_without_major_events,180.0
+Vermont,state,2015,ieee_without_major_events,193.4
+Vermont,state,2016,ieee_without_major_events,198.8
+Vermont,state,2017,ieee_without_major_events,186.2
+Vermont,state,2018,ieee_without_major_events,357.7
+Vermont,state,2019,ieee_without_major_events,170.4
+Vermont,state,2020,ieee_without_major_events,158.4
+Vermont,state,2021,ieee_without_major_events,215.3
+Vermont,state,2022,ieee_without_major_events,178.5
+Vermont,state,2023,ieee_without_major_events,204.3
+Vermont,state,2024,ieee_without_major_events,231.8
+Virginia,state,2014,any_method_all_events,187.3
+Virginia,state,2015,any_method_all_events,203.5
+Virginia,state,2016,any_method_all_events,237.7
+Virginia,state,2017,any_method_all_events,192.9
+Virginia,state,2018,any_method_all_events,507.4
+Virginia,state,2019,any_method_all_events,309.0
+Virginia,state,2020,any_method_all_events,308.6
+Virginia,state,2021,any_method_all_events,434.4
+Virginia,state,2022,any_method_all_events,593.9
+Virginia,state,2023,any_method_all_events,221.1
+Virginia,state,2024,any_method_all_events,418.3
+Virginia,state,2014,any_method_without_major_events,148.3
+Virginia,state,2015,any_method_without_major_events,148.0
+Virginia,state,2016,any_method_without_major_events,164.8
+Virginia,state,2017,any_method_without_major_events,142.2
+Virginia,state,2018,any_method_without_major_events,187.8
+Virginia,state,2019,any_method_without_major_events,182.1
+Virginia,state,2020,any_method_without_major_events,165.3
+Virginia,state,2021,any_method_without_major_events,164.9
+Virginia,state,2022,any_method_without_major_events,187.5
+Virginia,state,2023,any_method_without_major_events,159.3
+Virginia,state,2024,any_method_without_major_events,166.4
+Virginia,state,2014,ieee_all_events,287.1
+Virginia,state,2015,ieee_all_events,249.0
+Virginia,state,2016,ieee_all_events,317.6
+Virginia,state,2017,ieee_all_events,279.2
+Virginia,state,2018,ieee_all_events,1133.7
+Virginia,state,2019,ieee_all_events,478.0
+Virginia,state,2020,ieee_all_events,337.7
+Virginia,state,2021,ieee_all_events,798.2
+Virginia,state,2022,ieee_all_events,1108.2
+Virginia,state,2023,ieee_all_events,292.8
+Virginia,state,2024,ieee_all_events,962.1
+Virginia,state,2014,ieee_loss_of_supply_removed,259.3
+Virginia,state,2015,ieee_loss_of_supply_removed,231.8
+Virginia,state,2016,ieee_loss_of_supply_removed,302.8
+Virginia,state,2017,ieee_loss_of_supply_removed,232.1
+Virginia,state,2018,ieee_loss_of_supply_removed,1099.9
+Virginia,state,2019,ieee_loss_of_supply_removed,439.2
+Virginia,state,2020,ieee_loss_of_supply_removed,308.6
+Virginia,state,2021,ieee_loss_of_supply_removed,793.3
+Virginia,state,2022,ieee_loss_of_supply_removed,1103.6
+Virginia,state,2023,ieee_loss_of_supply_removed,280.6
+Virginia,state,2024,ieee_loss_of_supply_removed,911.2
+Virginia,state,2014,ieee_without_major_events,243.0
+Virginia,state,2015,ieee_without_major_events,208.5
+Virginia,state,2016,ieee_without_major_events,219.7
+Virginia,state,2017,ieee_without_major_events,218.0
+Virginia,state,2018,ieee_without_major_events,307.8
+Virginia,state,2019,ieee_without_major_events,285.4
+Virginia,state,2020,ieee_without_major_events,250.6
+Virginia,state,2021,ieee_without_major_events,262.7
+Virginia,state,2022,ieee_without_major_events,342.3
+Virginia,state,2023,ieee_without_major_events,239.9
+Virginia,state,2024,ieee_without_major_events,245.1
+Washington,state,2014,any_method_all_events,330.5
+Washington,state,2015,any_method_all_events,646.3
+Washington,state,2016,any_method_all_events,226.0
+Washington,state,2017,any_method_all_events,269.5
+Washington,state,2018,any_method_all_events,270.4
+Washington,state,2019,any_method_all_events,300.0
+Washington,state,2020,any_method_all_events,261.6
+Washington,state,2021,any_method_all_events,527.3
+Washington,state,2022,any_method_all_events,395.3
+Washington,state,2023,any_method_all_events,151.7
+Washington,state,2024,any_method_all_events,623.5
+Washington,state,2014,any_method_without_major_events,117.9
+Washington,state,2015,any_method_without_major_events,110.9
+Washington,state,2016,any_method_without_major_events,109.3
+Washington,state,2017,any_method_without_major_events,129.9
+Washington,state,2018,any_method_without_major_events,114.0
+Washington,state,2019,any_method_without_major_events,105.6
+Washington,state,2020,any_method_without_major_events,127.0
+Washington,state,2021,any_method_without_major_events,150.4
+Washington,state,2022,any_method_without_major_events,154.9
+Washington,state,2023,any_method_without_major_events,130.6
+Washington,state,2024,any_method_without_major_events,158.6
+Washington,state,2014,ieee_all_events,412.6
+Washington,state,2015,ieee_all_events,620.9
+Washington,state,2016,ieee_all_events,258.0
+Washington,state,2017,ieee_all_events,311.3
+Washington,state,2018,ieee_all_events,265.3
+Washington,state,2019,ieee_all_events,310.9
+Washington,state,2020,ieee_all_events,268.6
+Washington,state,2021,ieee_all_events,554.5
+Washington,state,2022,ieee_all_events,403.6
+Washington,state,2023,ieee_all_events,153.8
+Washington,state,2024,ieee_all_events,643.5
+Washington,state,2014,ieee_loss_of_supply_removed,362.8
+Washington,state,2015,ieee_loss_of_supply_removed,417.2
+Washington,state,2016,ieee_loss_of_supply_removed,236.7
+Washington,state,2017,ieee_loss_of_supply_removed,301.3
+Washington,state,2018,ieee_loss_of_supply_removed,244.2
+Washington,state,2019,ieee_loss_of_supply_removed,292.2
+Washington,state,2020,ieee_loss_of_supply_removed,237.8
+Washington,state,2021,ieee_loss_of_supply_removed,468.6
+Washington,state,2022,ieee_loss_of_supply_removed,345.6
+Washington,state,2023,ieee_loss_of_supply_removed,113.4
+Washington,state,2024,ieee_loss_of_supply_removed,587.2
+Washington,state,2014,ieee_without_major_events,124.2
+Washington,state,2015,ieee_without_major_events,120.0
+Washington,state,2016,ieee_without_major_events,121.3
+Washington,state,2017,ieee_without_major_events,135.8
+Washington,state,2018,ieee_without_major_events,115.5
+Washington,state,2019,ieee_without_major_events,105.8
+Washington,state,2020,ieee_without_major_events,126.9
+Washington,state,2021,ieee_without_major_events,151.1
+Washington,state,2022,ieee_without_major_events,153.5
+Washington,state,2023,ieee_without_major_events,129.8
+Washington,state,2024,ieee_without_major_events,157.3
+West North Central,census_division,2014,any_method_all_events,134.8
+West North Central,census_division,2015,any_method_all_events,167.7
+West North Central,census_division,2016,any_method_all_events,200.9
+West North Central,census_division,2017,any_method_all_events,210.2
+West North Central,census_division,2018,any_method_all_events,139.8
+West North Central,census_division,2019,any_method_all_events,187.2
+West North Central,census_division,2020,any_method_all_events,372.0
+West North Central,census_division,2021,any_method_all_events,223.6
+West North Central,census_division,2022,any_method_all_events,194.8
+West North Central,census_division,2023,any_method_all_events,213.8
+West North Central,census_division,2024,any_method_all_events,246.9
+West North Central,census_division,2014,any_method_without_major_events,91.9
+West North Central,census_division,2015,any_method_without_major_events,91.7
+West North Central,census_division,2016,any_method_without_major_events,93.6
+West North Central,census_division,2017,any_method_without_major_events,90.4
+West North Central,census_division,2018,any_method_without_major_events,92.1
+West North Central,census_division,2019,any_method_without_major_events,95.8
+West North Central,census_division,2020,any_method_without_major_events,87.6
+West North Central,census_division,2021,any_method_without_major_events,88.1
+West North Central,census_division,2022,any_method_without_major_events,89.6
+West North Central,census_division,2023,any_method_without_major_events,85.5
+West North Central,census_division,2024,any_method_without_major_events,94.3
+West North Central,census_division,2014,ieee_all_events,133.1
+West North Central,census_division,2015,ieee_all_events,179.0
+West North Central,census_division,2016,ieee_all_events,222.1
+West North Central,census_division,2017,ieee_all_events,221.0
+West North Central,census_division,2018,ieee_all_events,140.2
+West North Central,census_division,2019,ieee_all_events,195.2
+West North Central,census_division,2020,ieee_all_events,226.8
+West North Central,census_division,2021,ieee_all_events,236.4
+West North Central,census_division,2022,ieee_all_events,202.8
+West North Central,census_division,2023,ieee_all_events,222.7
+West North Central,census_division,2024,ieee_all_events,255.3
+West North Central,census_division,2014,ieee_loss_of_supply_removed,127.2
+West North Central,census_division,2015,ieee_loss_of_supply_removed,170.1
+West North Central,census_division,2016,ieee_loss_of_supply_removed,198.9
+West North Central,census_division,2017,ieee_loss_of_supply_removed,218.7
+West North Central,census_division,2018,ieee_loss_of_supply_removed,126.1
+West North Central,census_division,2019,ieee_loss_of_supply_removed,194.8
+West North Central,census_division,2020,ieee_loss_of_supply_removed,249.4
+West North Central,census_division,2021,ieee_loss_of_supply_removed,229.3
+West North Central,census_division,2022,ieee_loss_of_supply_removed,191.7
+West North Central,census_division,2023,ieee_loss_of_supply_removed,215.6
+West North Central,census_division,2024,ieee_loss_of_supply_removed,254.7
+West North Central,census_division,2014,ieee_without_major_events,93.2
+West North Central,census_division,2015,ieee_without_major_events,95.6
+West North Central,census_division,2016,ieee_without_major_events,95.1
+West North Central,census_division,2017,ieee_without_major_events,90.3
+West North Central,census_division,2018,ieee_without_major_events,91.1
+West North Central,census_division,2019,ieee_without_major_events,95.4
+West North Central,census_division,2020,ieee_without_major_events,87.6
+West North Central,census_division,2021,ieee_without_major_events,88.9
+West North Central,census_division,2022,ieee_without_major_events,90.1
+West North Central,census_division,2023,ieee_without_major_events,84.6
+West North Central,census_division,2024,ieee_without_major_events,93.9
+West South Central,census_division,2014,any_method_all_events,193.6
+West South Central,census_division,2015,any_method_all_events,343.2
+West South Central,census_division,2016,any_method_all_events,260.6
+West South Central,census_division,2017,any_method_all_events,440.0
+West South Central,census_division,2018,any_method_all_events,194.6
+West South Central,census_division,2019,any_method_all_events,330.0
+West South Central,census_division,2020,any_method_all_events,1101.8
+West South Central,census_division,2021,any_method_all_events,1456.9
+West South Central,census_division,2022,any_method_all_events,237.4
+West South Central,census_division,2023,any_method_all_events,579.1
+West South Central,census_division,2024,any_method_all_events,1050.4
+West South Central,census_division,2014,any_method_without_major_events,128.7
+West South Central,census_division,2015,any_method_without_major_events,154.9
+West South Central,census_division,2016,any_method_without_major_events,145.1
+West South Central,census_division,2017,any_method_without_major_events,145.7
+West South Central,census_division,2018,any_method_without_major_events,134.6
+West South Central,census_division,2019,any_method_without_major_events,142.4
+West South Central,census_division,2020,any_method_without_major_events,171.3
+West South Central,census_division,2021,any_method_without_major_events,161.2
+West South Central,census_division,2022,any_method_without_major_events,154.9
+West South Central,census_division,2023,any_method_without_major_events,142.0
+West South Central,census_division,2024,any_method_without_major_events,142.3
+West South Central,census_division,2014,ieee_all_events,204.8
+West South Central,census_division,2015,ieee_all_events,318.0
+West South Central,census_division,2016,ieee_all_events,265.6
+West South Central,census_division,2017,ieee_all_events,455.6
+West South Central,census_division,2018,ieee_all_events,203.4
+West South Central,census_division,2019,ieee_all_events,309.0
+West South Central,census_division,2020,ieee_all_events,1018.2
+West South Central,census_division,2021,ieee_all_events,1893.7
+West South Central,census_division,2022,ieee_all_events,242.8
+West South Central,census_division,2023,ieee_all_events,685.6
+West South Central,census_division,2024,ieee_all_events,1268.9
+West South Central,census_division,2014,ieee_loss_of_supply_removed,242.0
+West South Central,census_division,2015,ieee_loss_of_supply_removed,295.2
+West South Central,census_division,2016,ieee_loss_of_supply_removed,260.2
+West South Central,census_division,2017,ieee_loss_of_supply_removed,425.5
+West South Central,census_division,2018,ieee_loss_of_supply_removed,197.5
+West South Central,census_division,2019,ieee_loss_of_supply_removed,286.5
+West South Central,census_division,2020,ieee_loss_of_supply_removed,1044.4
+West South Central,census_division,2021,ieee_loss_of_supply_removed,1400.7
+West South Central,census_division,2022,ieee_loss_of_supply_removed,238.8
+West South Central,census_division,2023,ieee_loss_of_supply_removed,671.2
+West South Central,census_division,2024,ieee_loss_of_supply_removed,1295.8
+West South Central,census_division,2014,ieee_without_major_events,130.9
+West South Central,census_division,2015,ieee_without_major_events,155.3
+West South Central,census_division,2016,ieee_without_major_events,145.8
+West South Central,census_division,2017,ieee_without_major_events,144.8
+West South Central,census_division,2018,ieee_without_major_events,150.3
+West South Central,census_division,2019,ieee_without_major_events,162.3
+West South Central,census_division,2020,ieee_without_major_events,153.5
+West South Central,census_division,2021,ieee_without_major_events,186.6
+West South Central,census_division,2022,ieee_without_major_events,178.3
+West South Central,census_division,2023,ieee_without_major_events,163.3
+West South Central,census_division,2024,ieee_without_major_events,164.2
+West Virginia,state,2014,any_method_all_events,662.8
+West Virginia,state,2015,any_method_all_events,814.6
+West Virginia,state,2016,any_method_all_events,743.4
+West Virginia,state,2017,any_method_all_events,690.8
+West Virginia,state,2018,any_method_all_events,739.7
+West Virginia,state,2019,any_method_all_events,755.2
+West Virginia,state,2020,any_method_all_events,604.2
+West Virginia,state,2021,any_method_all_events,1117.2
+West Virginia,state,2022,any_method_all_events,1003.2
+West Virginia,state,2023,any_method_all_events,751.5
+West Virginia,state,2024,any_method_all_events,1165.5
+West Virginia,state,2014,any_method_without_major_events,449.8
+West Virginia,state,2015,any_method_without_major_events,458.0
+West Virginia,state,2016,any_method_without_major_events,439.1
+West Virginia,state,2017,any_method_without_major_events,451.8
+West Virginia,state,2018,any_method_without_major_events,513.1
+West Virginia,state,2019,any_method_without_major_events,471.3
+West Virginia,state,2020,any_method_without_major_events,467.9
+West Virginia,state,2021,any_method_without_major_events,451.6
+West Virginia,state,2022,any_method_without_major_events,543.6
+West Virginia,state,2023,any_method_without_major_events,385.7
+West Virginia,state,2024,any_method_without_major_events,486.1
+West Virginia,state,2014,ieee_all_events,662.8
+West Virginia,state,2015,ieee_all_events,814.6
+West Virginia,state,2016,ieee_all_events,743.4
+West Virginia,state,2017,ieee_all_events,690.8
+West Virginia,state,2018,ieee_all_events,739.7
+West Virginia,state,2019,ieee_all_events,755.2
+West Virginia,state,2020,ieee_all_events,604.2
+West Virginia,state,2021,ieee_all_events,1117.2
+West Virginia,state,2022,ieee_all_events,1003.2
+West Virginia,state,2023,ieee_all_events,751.5
+West Virginia,state,2024,ieee_all_events,1165.5
+West Virginia,state,2014,ieee_loss_of_supply_removed,597.6
+West Virginia,state,2015,ieee_loss_of_supply_removed,771.6
+West Virginia,state,2016,ieee_loss_of_supply_removed,582.9
+West Virginia,state,2017,ieee_loss_of_supply_removed,618.0
+West Virginia,state,2018,ieee_loss_of_supply_removed,676.3
+West Virginia,state,2019,ieee_loss_of_supply_removed,691.2
+West Virginia,state,2020,ieee_loss_of_supply_removed,538.6
+West Virginia,state,2021,ieee_loss_of_supply_removed,1002.0
+West Virginia,state,2022,ieee_loss_of_supply_removed,850.9
+West Virginia,state,2023,ieee_loss_of_supply_removed,700.4
+West Virginia,state,2024,ieee_loss_of_supply_removed,1067.4
+West Virginia,state,2014,ieee_without_major_events,449.8
+West Virginia,state,2015,ieee_without_major_events,458.0
+West Virginia,state,2016,ieee_without_major_events,439.1
+West Virginia,state,2017,ieee_without_major_events,451.8
+West Virginia,state,2018,ieee_without_major_events,513.1
+West Virginia,state,2019,ieee_without_major_events,471.3
+West Virginia,state,2020,ieee_without_major_events,467.9
+West Virginia,state,2021,ieee_without_major_events,451.6
+West Virginia,state,2022,ieee_without_major_events,543.6
+West Virginia,state,2023,ieee_without_major_events,385.7
+West Virginia,state,2024,ieee_without_major_events,486.1
+Wisconsin,state,2014,any_method_all_events,144.7
+Wisconsin,state,2015,any_method_all_events,105.0
+Wisconsin,state,2016,any_method_all_events,136.5
+Wisconsin,state,2017,any_method_all_events,203.5
+Wisconsin,state,2018,any_method_all_events,122.8
+Wisconsin,state,2019,any_method_all_events,356.2
+Wisconsin,state,2020,any_method_all_events,113.3
+Wisconsin,state,2021,any_method_all_events,311.6
+Wisconsin,state,2022,any_method_all_events,273.5
+Wisconsin,state,2023,any_method_all_events,183.0
+Wisconsin,state,2024,any_method_all_events,266.1
+Wisconsin,state,2014,any_method_without_major_events,75.9
+Wisconsin,state,2015,any_method_without_major_events,70.3
+Wisconsin,state,2016,any_method_without_major_events,79.2
+Wisconsin,state,2017,any_method_without_major_events,78.8
+Wisconsin,state,2018,any_method_without_major_events,79.6
+Wisconsin,state,2019,any_method_without_major_events,93.0
+Wisconsin,state,2020,any_method_without_major_events,86.4
+Wisconsin,state,2021,any_method_without_major_events,86.4
+Wisconsin,state,2022,any_method_without_major_events,99.6
+Wisconsin,state,2023,any_method_without_major_events,72.4
+Wisconsin,state,2024,any_method_without_major_events,91.3
+Wisconsin,state,2014,ieee_all_events,154.1
+Wisconsin,state,2015,ieee_all_events,107.8
+Wisconsin,state,2016,ieee_all_events,147.8
+Wisconsin,state,2017,ieee_all_events,219.2
+Wisconsin,state,2018,ieee_all_events,117.0
+Wisconsin,state,2019,ieee_all_events,383.5
+Wisconsin,state,2020,ieee_all_events,119.9
+Wisconsin,state,2021,ieee_all_events,361.2
+Wisconsin,state,2022,ieee_all_events,307.9
+Wisconsin,state,2023,ieee_all_events,203.8
+Wisconsin,state,2024,ieee_all_events,296.8
+Wisconsin,state,2014,ieee_loss_of_supply_removed,152.9
+Wisconsin,state,2015,ieee_loss_of_supply_removed,102.9
+Wisconsin,state,2016,ieee_loss_of_supply_removed,144.4
+Wisconsin,state,2017,ieee_loss_of_supply_removed,215.3
+Wisconsin,state,2018,ieee_loss_of_supply_removed,108.8
+Wisconsin,state,2019,ieee_loss_of_supply_removed,377.5
+Wisconsin,state,2020,ieee_loss_of_supply_removed,114.0
+Wisconsin,state,2021,ieee_loss_of_supply_removed,360.7
+Wisconsin,state,2022,ieee_loss_of_supply_removed,305.2
+Wisconsin,state,2023,ieee_loss_of_supply_removed,200.9
+Wisconsin,state,2024,ieee_loss_of_supply_removed,294.8
+Wisconsin,state,2014,ieee_without_major_events,78.0
+Wisconsin,state,2015,ieee_without_major_events,68.8
+Wisconsin,state,2016,ieee_without_major_events,76.3
+Wisconsin,state,2017,ieee_without_major_events,69.1
+Wisconsin,state,2018,ieee_without_major_events,76.4
+Wisconsin,state,2019,ieee_without_major_events,90.0
+Wisconsin,state,2020,ieee_without_major_events,89.1
+Wisconsin,state,2021,ieee_without_major_events,88.0
+Wisconsin,state,2022,ieee_without_major_events,104.7
+Wisconsin,state,2023,ieee_without_major_events,76.8
+Wisconsin,state,2024,ieee_without_major_events,97.5
+Wyoming,state,2014,any_method_all_events,193.2
+Wyoming,state,2015,any_method_all_events,184.6
+Wyoming,state,2016,any_method_all_events,192.5
+Wyoming,state,2017,any_method_all_events,217.6
+Wyoming,state,2018,any_method_all_events,136.7
+Wyoming,state,2019,any_method_all_events,164.5
+Wyoming,state,2020,any_method_all_events,289.7
+Wyoming,state,2021,any_method_all_events,170.5
+Wyoming,state,2022,any_method_all_events,170.1
+Wyoming,state,2023,any_method_all_events,127.0
+Wyoming,state,2024,any_method_all_events,137.8
+Wyoming,state,2014,any_method_without_major_events,177.6
+Wyoming,state,2015,any_method_without_major_events,165.7
+Wyoming,state,2016,any_method_without_major_events,150.2
+Wyoming,state,2017,any_method_without_major_events,191.1
+Wyoming,state,2018,any_method_without_major_events,117.6
+Wyoming,state,2019,any_method_without_major_events,130.0
+Wyoming,state,2020,any_method_without_major_events,111.3
+Wyoming,state,2021,any_method_without_major_events,116.3
+Wyoming,state,2022,any_method_without_major_events,113.0
+Wyoming,state,2023,any_method_without_major_events,96.0
+Wyoming,state,2024,any_method_without_major_events,109.1
+Wyoming,state,2014,ieee_all_events,201.9
+Wyoming,state,2015,ieee_all_events,181.3
+Wyoming,state,2016,ieee_all_events,180.2
+Wyoming,state,2017,ieee_all_events,201.4
+Wyoming,state,2018,ieee_all_events,125.4
+Wyoming,state,2019,ieee_all_events,166.8
+Wyoming,state,2020,ieee_all_events,293.4
+Wyoming,state,2021,ieee_all_events,167.9
+Wyoming,state,2022,ieee_all_events,159.0
+Wyoming,state,2023,ieee_all_events,121.4
+Wyoming,state,2024,ieee_all_events,137.8
+Wyoming,state,2014,ieee_loss_of_supply_removed,166.5
+Wyoming,state,2015,ieee_loss_of_supply_removed,159.4
+Wyoming,state,2016,ieee_loss_of_supply_removed,172.5
+Wyoming,state,2017,ieee_loss_of_supply_removed,190.1
+Wyoming,state,2018,ieee_loss_of_supply_removed,116.9
+Wyoming,state,2019,ieee_loss_of_supply_removed,151.1
+Wyoming,state,2020,ieee_loss_of_supply_removed,263.5
+Wyoming,state,2021,ieee_loss_of_supply_removed,165.1
+Wyoming,state,2022,ieee_loss_of_supply_removed,157.3
+Wyoming,state,2023,ieee_loss_of_supply_removed,106.4
+Wyoming,state,2024,ieee_loss_of_supply_removed,128.6
+Wyoming,state,2014,ieee_without_major_events,177.4
+Wyoming,state,2015,ieee_without_major_events,163.3
+Wyoming,state,2016,ieee_without_major_events,135.6
+Wyoming,state,2017,ieee_without_major_events,171.9
+Wyoming,state,2018,ieee_without_major_events,107.1
+Wyoming,state,2019,ieee_without_major_events,134.0
+Wyoming,state,2020,ieee_without_major_events,105.1
+Wyoming,state,2021,ieee_without_major_events,115.6
+Wyoming,state,2022,ieee_without_major_events,116.1
+Wyoming,state,2023,ieee_without_major_events,102.6
+Wyoming,state,2024,ieee_without_major_events,116.0
